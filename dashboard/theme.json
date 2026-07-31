@@ -1,0 +1,28 @@
+{
+  "name": "DevScope Dark Executive",
+  "dataColors": [
+    "#0284C7",
+    "#10B981",
+    "#F59E0B",
+    "#EF4444",
+    "#8B5CF6",
+    "#EC4899",
+    "#06B6D4",
+    "#64748B"
+  ],
+  "background": "#0F172A",
+  "foreground": "#F8FAFC",
+  "tableAccent": "#1E293B",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "outspacePane": [
+          {
+            "backgroundColor": { "solid": { "color": "#0F172A" } },
+            "foregroundColor": { "solid": { "color": "#F8FAFC" } }
+          }
+        ]
+      }
+    }
+  }
+}

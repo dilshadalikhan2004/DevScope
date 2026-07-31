@@ -1,0 +1,1501 @@
+job_id,job_title,required_skills,posted_country,offered_salary_min_usd,offered_salary_max_usd,remote_allowed
+JOB-2024-0001,Cloud Solutions Architect,PostgreSQL;React;Snowflake;AWS;Kubernetes;Python,United Kingdom,61274.0,110785.0,False
+JOB-2024-0002,Cloud Solutions Architect,Rust;TypeScript;Docker;PyTorch;Node.js;Kubernetes,Remote,89563.0,131647.0,True
+JOB-2024-0003,Data Engineer,React;AWS;TypeScript;Google Cloud;Kubernetes,India,86908.0,153031.0,False
+JOB-2024-0004,Full Stack Developer,TypeScript;AWS;Kubernetes,Remote,62169.0,93365.0,True
+JOB-2024-0005,Frontend Engineer,Go;Python;Node.js;TypeScript;Java,Remote,83055.0,134919.0,True
+JOB-2024-0006,Backend Software Engineer,Go;Python;Node.js;AWS;Kubernetes;SQL,Canada,88692.0,122505.0,True
+JOB-2024-0007,AI/ML Engineer,Python;Snowflake;SQL;PostgreSQL;Google Cloud,Remote,98718.0,166998.0,True
+JOB-2024-0008,Backend Software Engineer,Kubernetes;Snowflake;Node.js;Rust,United Kingdom,86453.0,154480.0,True
+JOB-2024-0009,Full Stack Developer,TypeScript;Python;SQL,Remote,71923.0,133111.0,True
+JOB-2024-0010,Data Engineer,Node.js;React;AWS;SQL;Python,Germany,82555.0,111512.0,True
+JOB-2024-0011,Data Engineer,Java;Google Cloud;React;PostgreSQL,Germany,102017.0,155366.0,True
+JOB-2024-0012,Backend Software Engineer,Node.js;TypeScript;PyTorch;PostgreSQL;Google Cloud;AWS,India,89046.0,154579.0,False
+JOB-2024-0013,Data Engineer,Kubernetes;Docker;PyTorch;Python,United Kingdom,75672.0,132730.0,True
+JOB-2024-0014,Full Stack Developer,Python;PyTorch;Kubernetes;TypeScript;Go;SQL,Remote,71868.0,107995.0,True
+JOB-2024-0015,Full Stack Developer,Snowflake;Java;PyTorch;Node.js,Canada,100627.0,144742.0,False
+JOB-2024-0016,Full Stack Developer,React;Google Cloud;Rust;SQL,Remote,109132.0,166734.0,True
+JOB-2024-0017,AI/ML Engineer,Snowflake;TypeScript;PostgreSQL,United Kingdom,107674.0,132933.0,False
+JOB-2024-0018,Full Stack Developer,Google Cloud;Kubernetes;Go;Snowflake,Germany,84570.0,144227.0,False
+JOB-2024-0019,Full Stack Developer,Node.js;TypeScript;Go,United States,67224.0,123828.0,True
+JOB-2024-0020,AI/ML Engineer,TypeScript;Go;PostgreSQL,Canada,66952.0,134853.0,False
+JOB-2024-0021,Full Stack Developer,Python;Go;PostgreSQL;Snowflake,Remote,66612.0,122967.0,True
+JOB-2024-0022,Cloud Solutions Architect,Google Cloud;SQL;Java;Python;PostgreSQL;Kubernetes,United States,78099.0,114796.0,False
+JOB-2024-0023,Full Stack Developer,Java;Docker;AWS;PyTorch,United States,90432.0,144698.0,True
+JOB-2024-0024,Backend Software Engineer,Snowflake;Rust;Kubernetes;Node.js,United Kingdom,91783.0,144289.0,False
+JOB-2024-0025,Full Stack Developer,Go;Rust;PostgreSQL;SQL;Docker;Node.js,Germany,66334.0,130665.0,False
+JOB-2024-0026,Cloud Solutions Architect,PostgreSQL;Docker;Node.js;TypeScript,United States,75193.0,139663.0,True
+JOB-2024-0027,AI/ML Engineer,React;PyTorch;Node.js;Go;AWS;Google Cloud,India,79332.0,129022.0,True
+JOB-2024-0028,Data Engineer,Python;SQL;TypeScript;Node.js;AWS,Germany,103240.0,168847.0,False
+JOB-2024-0029,Full Stack Developer,Go;AWS;PostgreSQL;React;Google Cloud;TypeScript,India,102941.0,158541.0,True
+JOB-2024-0030,DevOps Engineer,AWS;Snowflake;Docker;PostgreSQL,Remote,99803.0,159711.0,True
+JOB-2024-0031,DevOps Engineer,Google Cloud;Docker;AWS;Node.js;React;Python,Germany,62117.0,91164.0,False
+JOB-2024-0032,Backend Software Engineer,Go;SQL;React;Java;Node.js;TypeScript,United States,86612.0,145552.0,False
+JOB-2024-0033,DevOps Engineer,React;AWS;Go;Python;Google Cloud,Remote,92787.0,129971.0,True
+JOB-2024-0034,Cloud Solutions Architect,Python;SQL;PyTorch;TypeScript;Docker;Google Cloud,Germany,98659.0,156518.0,False
+JOB-2024-0035,Data Engineer,TypeScript;AWS;Snowflake,Canada,72191.0,141219.0,True
+JOB-2024-0036,Full Stack Developer,React;Rust;Kubernetes;PostgreSQL,Canada,88725.0,152642.0,False
+JOB-2024-0037,Data Engineer,PyTorch;Rust;SQL;Go,India,74471.0,122591.0,True
+JOB-2024-0038,Frontend Engineer,Node.js;Java;PyTorch;Snowflake;Docker,Germany,82899.0,110620.0,False
+JOB-2024-0039,Frontend Engineer,Kubernetes;Java;Snowflake,Germany,102217.0,154716.0,False
+JOB-2024-0040,Backend Software Engineer,React;Snowflake;Rust;Docker;Python,Canada,65048.0,134619.0,False
+JOB-2024-0041,AI/ML Engineer,Java;Python;AWS,Canada,60753.0,128958.0,True
+JOB-2024-0042,Cloud Solutions Architect,TypeScript;AWS;Docker,United Kingdom,76096.0,102348.0,True
+JOB-2024-0043,Backend Software Engineer,Python;React;Kubernetes;TypeScript,Remote,60518.0,89964.0,True
+JOB-2024-0044,Backend Software Engineer,Java;React;PostgreSQL,Germany,97966.0,139737.0,True
+JOB-2024-0045,Full Stack Developer,TypeScript;Python;Go,United States,65107.0,135000.0,True
+JOB-2024-0046,Full Stack Developer,Python;TypeScript;Snowflake,United Kingdom,103642.0,173272.0,False
+JOB-2024-0047,AI/ML Engineer,SQL;PostgreSQL;Go;Java,United States,76197.0,115990.0,False
+JOB-2024-0048,Frontend Engineer,Go;React;Node.js;AWS;PyTorch;PostgreSQL,Germany,86409.0,155576.0,False
+JOB-2024-0049,AI/ML Engineer,Go;Google Cloud;SQL;Docker,Germany,97940.0,137400.0,False
+JOB-2024-0050,AI/ML Engineer,PyTorch;Python;React,India,89584.0,139065.0,True
+JOB-2024-0051,Frontend Engineer,PyTorch;Rust;TypeScript;Snowflake,United States,96380.0,155214.0,True
+JOB-2024-0052,Data Engineer,Google Cloud;PyTorch;Node.js;Python;Kubernetes,India,102125.0,155676.0,True
+JOB-2024-0053,Data Engineer,React;Rust;Java;Kubernetes;AWS,Canada,95503.0,150269.0,True
+JOB-2024-0054,Cloud Solutions Architect,AWS;Docker;Java;PyTorch;React;TypeScript,India,94153.0,147498.0,False
+JOB-2024-0055,Data Engineer,Java;PyTorch;React;PostgreSQL,Remote,65468.0,135245.0,True
+JOB-2024-0056,AI/ML Engineer,PyTorch;Node.js;TypeScript;Python;AWS,Remote,103778.0,157254.0,True
+JOB-2024-0057,Frontend Engineer,PostgreSQL;AWS;Python;React;Snowflake;Node.js,United Kingdom,97816.0,149183.0,True
+JOB-2024-0058,Frontend Engineer,TypeScript;Docker;React;Snowflake;Node.js;PyTorch,United Kingdom,67120.0,91783.0,False
+JOB-2024-0059,Frontend Engineer,Node.js;AWS;Snowflake;PostgreSQL;Java;SQL,United States,99161.0,130031.0,True
+JOB-2024-0060,Backend Software Engineer,Go;Snowflake;AWS;PostgreSQL;Java;PyTorch,United States,75706.0,108890.0,True
+JOB-2024-0061,Data Engineer,React;Python;Go;Docker,Germany,62731.0,102983.0,False
+JOB-2024-0062,Backend Software Engineer,Google Cloud;AWS;Snowflake;React;Java;Docker,Canada,81887.0,144952.0,True
+JOB-2024-0063,Backend Software Engineer,Google Cloud;React;Kubernetes;Go;Snowflake;Python,India,78315.0,120477.0,False
+JOB-2024-0064,Full Stack Developer,SQL;Rust;Go;Docker;AWS;Python,Remote,73670.0,134611.0,True
+JOB-2024-0065,Frontend Engineer,Rust;TypeScript;PyTorch;PostgreSQL;Snowflake;Python,Germany,77476.0,122208.0,True
+JOB-2024-0066,DevOps Engineer,Python;Node.js;Rust;Docker;Kubernetes,Remote,63701.0,112983.0,True
+JOB-2024-0067,Frontend Engineer,Kubernetes;Docker;PyTorch,India,83071.0,144047.0,True
+JOB-2024-0068,Frontend Engineer,Java;Python;SQL,United States,67419.0,123872.0,False
+JOB-2024-0069,Full Stack Developer,AWS;Docker;Java;TypeScript;Go;Kubernetes,India,90891.0,128427.0,False
+JOB-2024-0070,Data Engineer,PostgreSQL;AWS;Go;PyTorch;Google Cloud;React,Canada,94115.0,134058.0,True
+JOB-2024-0071,Full Stack Developer,Java;Go;Kubernetes;Rust;AWS,Germany,66904.0,129518.0,True
+JOB-2024-0072,Backend Software Engineer,React;Snowflake;Go;Node.js;AWS,Canada,67571.0,104925.0,True
+JOB-2024-0073,Frontend Engineer,Google Cloud;Go;Snowflake;AWS;Rust;Kubernetes,Remote,85089.0,121214.0,True
+JOB-2024-0074,Data Engineer,TypeScript;PostgreSQL;Node.js;React,India,103773.0,134749.0,True
+JOB-2024-0075,Cloud Solutions Architect,PostgreSQL;React;Docker;AWS;SQL;Python,Remote,73473.0,96746.0,True
+JOB-2024-0076,DevOps Engineer,PostgreSQL;React;SQL;Docker;Google Cloud;Rust,United States,106832.0,171236.0,False
+JOB-2024-0077,DevOps Engineer,Snowflake;SQL;Java,Remote,82497.0,127204.0,True
+JOB-2024-0078,Backend Software Engineer,Rust;SQL;Go;Node.js;Java,India,71834.0,140712.0,True
+JOB-2024-0079,Backend Software Engineer,React;Java;Docker;Rust;Snowflake;PyTorch,Canada,98647.0,157447.0,False
+JOB-2024-0080,Cloud Solutions Architect,PyTorch;Docker;Go;AWS;React;TypeScript,United States,92061.0,141090.0,False
+JOB-2024-0081,Frontend Engineer,Rust;Python;SQL;Go,Canada,85354.0,146465.0,False
+JOB-2024-0082,Frontend Engineer,Docker;Go;AWS;Google Cloud;SQL,United Kingdom,108494.0,158934.0,False
+JOB-2024-0083,Backend Software Engineer,PyTorch;Go;Google Cloud,India,80024.0,102703.0,False
+JOB-2024-0084,AI/ML Engineer,Rust;Python;Google Cloud,United Kingdom,78736.0,142345.0,True
+JOB-2024-0085,DevOps Engineer,AWS;TypeScript;SQL;Go;PostgreSQL,Germany,85636.0,138369.0,True
+JOB-2024-0086,DevOps Engineer,PostgreSQL;PyTorch;Kubernetes;Rust;Java,India,63643.0,86451.0,False
+JOB-2024-0087,Cloud Solutions Architect,AWS;PyTorch;Docker;SQL,India,64329.0,99294.0,True
+JOB-2024-0088,Full Stack Developer,Rust;TypeScript;Google Cloud;PostgreSQL,Canada,83008.0,132781.0,False
+JOB-2024-0089,DevOps Engineer,Node.js;Rust;PyTorch,United Kingdom,64384.0,84613.0,False
+JOB-2024-0090,AI/ML Engineer,PostgreSQL;Go;Rust;Snowflake,United States,63362.0,107546.0,False
+JOB-2024-0091,Backend Software Engineer,Java;Python;Node.js;AWS;SQL;Kubernetes,Canada,70127.0,111489.0,True
+JOB-2024-0092,Backend Software Engineer,AWS;Docker;Snowflake;Kubernetes;React;Google Cloud,Canada,76302.0,132458.0,False
+JOB-2024-0093,Backend Software Engineer,Google Cloud;Kubernetes;Java;PyTorch;Snowflake;SQL,United States,88847.0,157332.0,True
+JOB-2024-0094,Cloud Solutions Architect,Python;TypeScript;Snowflake;Node.js,India,61916.0,125896.0,True
+JOB-2024-0095,Backend Software Engineer,Snowflake;PyTorch;Rust;React;Docker;AWS,India,103772.0,147698.0,True
+JOB-2024-0096,AI/ML Engineer,TypeScript;Java;Rust;Kubernetes,Canada,99996.0,122850.0,True
+JOB-2024-0097,Data Engineer,TypeScript;Kubernetes;Google Cloud;Rust,Remote,100430.0,120514.0,True
+JOB-2024-0098,Backend Software Engineer,PostgreSQL;AWS;Snowflake;Node.js,India,74289.0,142314.0,True
+JOB-2024-0099,Cloud Solutions Architect,AWS;Google Cloud;TypeScript;Docker;Node.js,India,64143.0,102634.0,True
+JOB-2024-0100,Cloud Solutions Architect,React;Java;SQL,India,81286.0,108359.0,False
+JOB-2024-0101,Cloud Solutions Architect,Google Cloud;Java;Go,Remote,71039.0,122292.0,True
+JOB-2024-0102,AI/ML Engineer,Kubernetes;React;Java;Go;SQL;Rust,Canada,88247.0,127951.0,False
+JOB-2024-0103,DevOps Engineer,Node.js;Java;AWS;Kubernetes;PostgreSQL;Google Cloud,United States,77736.0,103815.0,False
+JOB-2024-0104,DevOps Engineer,SQL;Docker;Kubernetes;Rust,United Kingdom,92771.0,147414.0,False
+JOB-2024-0105,Frontend Engineer,PostgreSQL;Snowflake;PyTorch;TypeScript;Node.js;SQL,Remote,65599.0,125056.0,True
+JOB-2024-0106,Data Engineer,PostgreSQL;Go;Java;Snowflake;Docker,United States,90181.0,150782.0,False
+JOB-2024-0107,DevOps Engineer,Google Cloud;Node.js;PyTorch;Java,Germany,70644.0,117086.0,False
+JOB-2024-0108,Frontend Engineer,Kubernetes;SQL;PyTorch;Snowflake,India,86753.0,114050.0,True
+JOB-2024-0109,Full Stack Developer,React;SQL;Docker,Germany,64382.0,104911.0,True
+JOB-2024-0110,Cloud Solutions Architect,Google Cloud;Node.js;React;PostgreSQL,Canada,81143.0,143561.0,False
+JOB-2024-0111,Cloud Solutions Architect,Go;Kubernetes;SQL;Docker;Python,India,62643.0,88127.0,True
+JOB-2024-0112,Full Stack Developer,Go;PostgreSQL;PyTorch;Python;Google Cloud;TypeScript,United Kingdom,66963.0,124386.0,True
+JOB-2024-0113,Data Engineer,TypeScript;Kubernetes;Python;SQL,Germany,61955.0,95812.0,True
+JOB-2024-0114,Backend Software Engineer,Google Cloud;AWS;Java;PyTorch;PostgreSQL,United Kingdom,103483.0,131322.0,False
+JOB-2024-0115,Full Stack Developer,Kubernetes;TypeScript;SQL;Snowflake,United Kingdom,74117.0,130022.0,False
+JOB-2024-0116,DevOps Engineer,Go;Java;Rust;SQL;Python,Canada,86577.0,141306.0,True
+JOB-2024-0117,Full Stack Developer,React;PostgreSQL;Kubernetes;PyTorch;Snowflake,United States,105210.0,162800.0,False
+JOB-2024-0118,Full Stack Developer,Kubernetes;Docker;React;Google Cloud,Remote,75654.0,135259.0,True
+JOB-2024-0119,Backend Software Engineer,React;Docker;Rust;Go;SQL;TypeScript,Remote,91045.0,112850.0,True
+JOB-2024-0120,DevOps Engineer,SQL;Rust;Snowflake,Canada,107761.0,131890.0,True
+JOB-2024-0121,Data Engineer,TypeScript;SQL;Docker;PostgreSQL;Rust;Node.js,Canada,75369.0,121263.0,False
+JOB-2024-0122,Backend Software Engineer,Java;Snowflake;AWS,India,72468.0,131921.0,False
+JOB-2024-0123,Full Stack Developer,React;TypeScript;AWS;Docker;PyTorch;Java,Remote,79470.0,123728.0,True
+JOB-2024-0124,Backend Software Engineer,SQL;PostgreSQL;PyTorch;Python;Kubernetes;TypeScript,India,87382.0,125774.0,False
+JOB-2024-0125,Frontend Engineer,Kubernetes;React;Node.js,United Kingdom,95231.0,157368.0,True
+JOB-2024-0126,DevOps Engineer,Python;TypeScript;Snowflake;SQL,United Kingdom,83963.0,126823.0,True
+JOB-2024-0127,Data Engineer,TypeScript;React;Google Cloud,Germany,78605.0,123525.0,True
+JOB-2024-0128,AI/ML Engineer,PostgreSQL;Snowflake;Google Cloud;SQL,Remote,80626.0,148746.0,True
+JOB-2024-0129,Data Engineer,Kubernetes;Rust;Docker;SQL;Java,United States,85986.0,145714.0,False
+JOB-2024-0130,Backend Software Engineer,Kubernetes;Python;Node.js,United States,71066.0,99063.0,True
+JOB-2024-0131,Full Stack Developer,PyTorch;Python;PostgreSQL;AWS,Canada,63329.0,84164.0,True
+JOB-2024-0132,Cloud Solutions Architect,TypeScript;Node.js;Go;Java;PostgreSQL;Google Cloud,United Kingdom,72753.0,121688.0,True
+JOB-2024-0133,Cloud Solutions Architect,React;Go;Snowflake;PyTorch;PostgreSQL;TypeScript,India,61897.0,116701.0,False
+JOB-2024-0134,AI/ML Engineer,Docker;AWS;SQL;Google Cloud,United States,98795.0,119669.0,False
+JOB-2024-0135,AI/ML Engineer,Go;TypeScript;Kubernetes;Docker,India,60273.0,114437.0,False
+JOB-2024-0136,Full Stack Developer,AWS;PostgreSQL;Go,Remote,108988.0,148843.0,True
+JOB-2024-0137,Frontend Engineer,TypeScript;Python;Node.js;SQL,United Kingdom,100663.0,130731.0,True
+JOB-2024-0138,Cloud Solutions Architect,PyTorch;Go;AWS;Kubernetes,Remote,101515.0,132203.0,True
+JOB-2024-0139,Frontend Engineer,Snowflake;AWS;TypeScript;Node.js;Docker,United States,88150.0,130151.0,True
+JOB-2024-0140,Data Engineer,Docker;React;AWS;Rust;Google Cloud,Germany,65573.0,124704.0,True
+JOB-2024-0141,Data Engineer,Google Cloud;Docker;PyTorch;AWS,United States,71130.0,107733.0,True
+JOB-2024-0142,Full Stack Developer,SQL;Node.js;Go;Snowflake;Kubernetes;React,United Kingdom,64771.0,114356.0,False
+JOB-2024-0143,Full Stack Developer,Docker;Java;Go;TypeScript;React,United Kingdom,67503.0,89804.0,True
+JOB-2024-0144,Data Engineer,Java;Rust;Snowflake;Kubernetes,Remote,91857.0,118332.0,True
+JOB-2024-0145,AI/ML Engineer,AWS;PyTorch;Node.js;Kubernetes,Germany,61039.0,124867.0,True
+JOB-2024-0146,Full Stack Developer,Python;AWS;Java;Node.js;Snowflake;SQL,United Kingdom,61796.0,98891.0,True
+JOB-2024-0147,DevOps Engineer,TypeScript;Snowflake;Java;PyTorch;React,India,73458.0,138126.0,False
+JOB-2024-0148,AI/ML Engineer,PostgreSQL;Rust;PyTorch,Canada,107235.0,159259.0,True
+JOB-2024-0149,Full Stack Developer,Google Cloud;Go;SQL,Germany,101239.0,155913.0,True
+JOB-2024-0150,Data Engineer,TypeScript;Snowflake;Go;SQL;Google Cloud;Node.js,Remote,86202.0,137184.0,True
+JOB-2024-0151,Cloud Solutions Architect,TypeScript;Rust;Python;React;Java;Kubernetes,United States,75907.0,128796.0,True
+JOB-2024-0152,Backend Software Engineer,TypeScript;Go;Docker,India,97503.0,124253.0,False
+JOB-2024-0153,Data Engineer,PostgreSQL;React;Node.js;Rust;SQL,United States,109095.0,158558.0,False
+JOB-2024-0154,Cloud Solutions Architect,Node.js;PyTorch;Kubernetes;AWS,Germany,76207.0,107925.0,False
+JOB-2024-0155,AI/ML Engineer,SQL;Rust;Docker,India,75523.0,104127.0,True
+JOB-2024-0156,Frontend Engineer,PostgreSQL;React;Python,United States,65278.0,124781.0,False
+JOB-2024-0157,Frontend Engineer,Java;Kubernetes;PyTorch;Docker;Go,Canada,88656.0,119201.0,True
+JOB-2024-0158,Cloud Solutions Architect,SQL;Node.js;AWS;Google Cloud,Remote,62991.0,89081.0,True
+JOB-2024-0159,Data Engineer,TypeScript;AWS;Rust;Python;Node.js;PyTorch,Remote,98763.0,147072.0,True
+JOB-2024-0160,Data Engineer,Snowflake;Google Cloud;Node.js,Germany,89240.0,129828.0,False
+JOB-2024-0161,DevOps Engineer,Rust;PostgreSQL;Node.js;SQL;Snowflake,Canada,64044.0,120556.0,False
+JOB-2024-0162,DevOps Engineer,AWS;TypeScript;Docker,United Kingdom,69005.0,100265.0,False
+JOB-2024-0163,DevOps Engineer,SQL;Kubernetes;PyTorch;Rust,India,63971.0,111103.0,False
+JOB-2024-0164,Backend Software Engineer,React;SQL;Python;TypeScript,Canada,78536.0,138119.0,True
+JOB-2024-0165,Backend Software Engineer,PostgreSQL;PyTorch;SQL;TypeScript;React,Canada,65634.0,96593.0,True
+JOB-2024-0166,Backend Software Engineer,PyTorch;Node.js;Java;TypeScript,India,78324.0,117507.0,True
+JOB-2024-0167,Full Stack Developer,TypeScript;Snowflake;Python,India,97525.0,134969.0,True
+JOB-2024-0168,Backend Software Engineer,Rust;TypeScript;Docker;Node.js;SQL;PostgreSQL,United Kingdom,62703.0,106171.0,True
+JOB-2024-0169,Frontend Engineer,PyTorch;Java;Google Cloud;Node.js;Python;Go,United Kingdom,72601.0,130220.0,False
+JOB-2024-0170,Frontend Engineer,Rust;TypeScript;PostgreSQL;Snowflake;AWS,United Kingdom,69311.0,104501.0,False
+JOB-2024-0171,Full Stack Developer,TypeScript;Go;Node.js;React,Canada,86527.0,135253.0,False
+JOB-2024-0172,Frontend Engineer,PostgreSQL;Java;TypeScript;Kubernetes;Python;PyTorch,Canada,73602.0,114191.0,False
+JOB-2024-0173,Frontend Engineer,Docker;PyTorch;Node.js;Rust;React,India,79362.0,111855.0,True
+JOB-2024-0174,Data Engineer,Google Cloud;PyTorch;Docker;Snowflake,Remote,105233.0,174398.0,True
+JOB-2024-0175,Data Engineer,React;Go;Rust,Germany,73896.0,118686.0,False
+JOB-2024-0176,Data Engineer,Docker;Python;Google Cloud,United Kingdom,87345.0,129787.0,False
+JOB-2024-0177,Frontend Engineer,Go;PyTorch;Node.js;AWS;Google Cloud;Kubernetes,Remote,85666.0,111766.0,True
+JOB-2024-0178,Data Engineer,Java;AWS;Kubernetes;Node.js;Go;Google Cloud,United States,107329.0,128077.0,False
+JOB-2024-0179,Frontend Engineer,React;TypeScript;PyTorch;Kubernetes;Docker;Node.js,India,89625.0,157381.0,True
+JOB-2024-0180,AI/ML Engineer,Google Cloud;Kubernetes;SQL;Python,Remote,98950.0,123848.0,True
+JOB-2024-0181,Backend Software Engineer,PostgreSQL;TypeScript;Rust;Node.js;Snowflake;Docker,United Kingdom,60808.0,129010.0,True
+JOB-2024-0182,DevOps Engineer,SQL;Rust;Java;React,United Kingdom,82970.0,111623.0,False
+JOB-2024-0183,DevOps Engineer,Snowflake;Go;Python;React;Google Cloud;AWS,India,85004.0,134273.0,True
+JOB-2024-0184,Cloud Solutions Architect,PyTorch;SQL;Rust;Google Cloud;React,Canada,67591.0,133482.0,False
+JOB-2024-0185,Data Engineer,Google Cloud;SQL;Java;React;Python;Node.js,Canada,92983.0,156624.0,False
+JOB-2024-0186,Frontend Engineer,Snowflake;TypeScript;Java;Rust,United Kingdom,85320.0,118984.0,False
+JOB-2024-0187,Cloud Solutions Architect,Kubernetes;PyTorch;SQL;Snowflake;PostgreSQL,Canada,85073.0,138870.0,False
+JOB-2024-0188,Data Engineer,Snowflake;PyTorch;Node.js;Kubernetes,Canada,71696.0,140439.0,True
+JOB-2024-0189,Backend Software Engineer,Rust;TypeScript;Snowflake;PyTorch;Kubernetes,United Kingdom,60661.0,118825.0,False
+JOB-2024-0190,Full Stack Developer,React;TypeScript;PostgreSQL;Kubernetes,Canada,99663.0,120573.0,False
+JOB-2024-0191,Cloud Solutions Architect,PostgreSQL;Python;Snowflake;PyTorch;SQL;Node.js,United States,100708.0,125193.0,True
+JOB-2024-0192,Data Engineer,Go;Python;Google Cloud;Java,India,88994.0,145449.0,False
+JOB-2024-0193,AI/ML Engineer,Docker;Python;TypeScript;SQL,Remote,93522.0,161138.0,True
+JOB-2024-0194,DevOps Engineer,Rust;React;Snowflake,Germany,99368.0,169362.0,False
+JOB-2024-0195,Full Stack Developer,AWS;React;PyTorch,United States,80319.0,118674.0,False
+JOB-2024-0196,Cloud Solutions Architect,Docker;Python;Rust;Java,United States,68993.0,101546.0,False
+JOB-2024-0197,DevOps Engineer,Kubernetes;Java;AWS,United Kingdom,68372.0,97329.0,False
+JOB-2024-0198,Frontend Engineer,Node.js;Rust;TypeScript;Kubernetes,United Kingdom,93794.0,135927.0,False
+JOB-2024-0199,Cloud Solutions Architect,Docker;TypeScript;Snowflake;Node.js;Kubernetes,Germany,82134.0,134065.0,True
+JOB-2024-0200,DevOps Engineer,Python;Google Cloud;React,Remote,99950.0,128563.0,True
+JOB-2024-0201,Cloud Solutions Architect,Java;SQL;Google Cloud;Node.js;PyTorch,United Kingdom,82617.0,122174.0,True
+JOB-2024-0202,AI/ML Engineer,Google Cloud;AWS;TypeScript,India,84635.0,145072.0,False
+JOB-2024-0203,Full Stack Developer,TypeScript;SQL;React,Canada,91412.0,120852.0,False
+JOB-2024-0204,Cloud Solutions Architect,PostgreSQL;AWS;Kubernetes;Rust;Google Cloud;TypeScript,United Kingdom,103192.0,137406.0,False
+JOB-2024-0205,Data Engineer,Python;Docker;PyTorch,India,107182.0,155973.0,True
+JOB-2024-0206,Full Stack Developer,AWS;Go;Python,Canada,82332.0,109860.0,False
+JOB-2024-0207,Data Engineer,Python;Kubernetes;Node.js;PostgreSQL;SQL;Docker,Remote,75733.0,128951.0,True
+JOB-2024-0208,Data Engineer,Go;Rust;AWS;React,United Kingdom,105774.0,157719.0,False
+JOB-2024-0209,Full Stack Developer,PostgreSQL;Java;Google Cloud;Go;Snowflake;React,United States,83231.0,152407.0,True
+JOB-2024-0210,Data Engineer,React;Rust;TypeScript,India,98017.0,144345.0,True
+JOB-2024-0211,AI/ML Engineer,Google Cloud;AWS;Snowflake;Go;Kubernetes,India,101169.0,123229.0,True
+JOB-2024-0212,Frontend Engineer,Rust;AWS;Java;Node.js;Kubernetes;SQL,United Kingdom,66998.0,95768.0,False
+JOB-2024-0213,Data Engineer,Python;Java;React;TypeScript;Docker,United Kingdom,65109.0,92925.0,False
+JOB-2024-0214,Cloud Solutions Architect,PyTorch;TypeScript;Python;Node.js;AWS;PostgreSQL,United Kingdom,84649.0,142054.0,True
+JOB-2024-0215,AI/ML Engineer,Kubernetes;Go;PyTorch;Python,United States,66956.0,126401.0,True
+JOB-2024-0216,Cloud Solutions Architect,TypeScript;Docker;AWS;Java;React;Kubernetes,United States,80640.0,123831.0,True
+JOB-2024-0217,Data Engineer,PostgreSQL;TypeScript;Node.js,Canada,72959.0,115041.0,True
+JOB-2024-0218,Backend Software Engineer,SQL;Google Cloud;AWS,Germany,61017.0,125459.0,True
+JOB-2024-0219,Full Stack Developer,Rust;AWS;Python;Snowflake;SQL;Google Cloud,Remote,94903.0,153402.0,True
+JOB-2024-0220,AI/ML Engineer,Rust;Kubernetes;SQL;AWS,Canada,109811.0,138733.0,True
+JOB-2024-0221,Cloud Solutions Architect,Google Cloud;AWS;PyTorch;TypeScript;SQL;Node.js,Germany,103731.0,161482.0,True
+JOB-2024-0222,Cloud Solutions Architect,Docker;Java;AWS,Germany,91259.0,115512.0,True
+JOB-2024-0223,Backend Software Engineer,Python;Google Cloud;TypeScript;Kubernetes,Germany,92273.0,123606.0,True
+JOB-2024-0224,Data Engineer,Snowflake;React;Node.js;Google Cloud;PyTorch,Germany,78677.0,148630.0,False
+JOB-2024-0225,AI/ML Engineer,SQL;Go;TypeScript;Docker;PyTorch,Germany,64247.0,127239.0,False
+JOB-2024-0226,Data Engineer,Rust;Node.js;PostgreSQL;TypeScript;Google Cloud;React,United States,65539.0,118056.0,False
+JOB-2024-0227,Data Engineer,Python;Node.js;SQL;Java;React;TypeScript,India,88573.0,134587.0,False
+JOB-2024-0228,DevOps Engineer,Python;React;Google Cloud;AWS;PostgreSQL,India,91107.0,141270.0,False
+JOB-2024-0229,Data Engineer,Go;TypeScript;Java;Docker,Germany,90215.0,151015.0,False
+JOB-2024-0230,Frontend Engineer,Rust;Go;Java;React;Python,Remote,64866.0,92485.0,True
+JOB-2024-0231,Frontend Engineer,React;Google Cloud;PostgreSQL;Snowflake;TypeScript;Go,Canada,72744.0,114679.0,False
+JOB-2024-0232,Data Engineer,Python;Go;React;AWS;Google Cloud,Remote,66990.0,95000.0,True
+JOB-2024-0233,DevOps Engineer,Java;Node.js;PyTorch;Docker;Kubernetes,Remote,82832.0,134279.0,True
+JOB-2024-0234,DevOps Engineer,React;Go;Rust;Kubernetes;Google Cloud,Germany,62288.0,109685.0,False
+JOB-2024-0235,Data Engineer,Python;SQL;React;PostgreSQL;Kubernetes,United Kingdom,69325.0,95422.0,False
+JOB-2024-0236,Backend Software Engineer,PostgreSQL;Docker;Java;React;Node.js;TypeScript,Canada,109621.0,176520.0,True
+JOB-2024-0237,AI/ML Engineer,Rust;Node.js;SQL,United Kingdom,64976.0,104789.0,True
+JOB-2024-0238,DevOps Engineer,Docker;Go;Java;TypeScript;PyTorch;Node.js,United Kingdom,105008.0,129489.0,False
+JOB-2024-0239,AI/ML Engineer,Docker;Go;Node.js;AWS;Google Cloud;Python,United Kingdom,87069.0,123910.0,False
+JOB-2024-0240,Backend Software Engineer,Python;AWS;Node.js;Go;SQL;Rust,Remote,109139.0,174308.0,True
+JOB-2024-0241,Data Engineer,Snowflake;Python;AWS;Kubernetes;Node.js,Canada,81986.0,145632.0,True
+JOB-2024-0242,Backend Software Engineer,Rust;Google Cloud;Java;SQL,Canada,73739.0,104744.0,False
+JOB-2024-0243,DevOps Engineer,Node.js;Python;PyTorch,India,66359.0,131309.0,False
+JOB-2024-0244,AI/ML Engineer,Python;Kubernetes;Java;Go,United Kingdom,61876.0,106791.0,True
+JOB-2024-0245,DevOps Engineer,Kubernetes;Java;React;Go;Snowflake;TypeScript,Canada,60675.0,97654.0,False
+JOB-2024-0246,Data Engineer,Rust;SQL;AWS,Remote,77797.0,97797.0,True
+JOB-2024-0247,Backend Software Engineer,Node.js;Rust;AWS;Docker,United Kingdom,77273.0,109959.0,False
+JOB-2024-0248,AI/ML Engineer,Kubernetes;TypeScript;Snowflake,Remote,82965.0,148631.0,True
+JOB-2024-0249,Full Stack Developer,Kubernetes;PyTorch;AWS,Remote,67884.0,106648.0,True
+JOB-2024-0250,Backend Software Engineer,Kubernetes;Go;Google Cloud;Docker,United Kingdom,108565.0,149694.0,False
+JOB-2024-0251,Frontend Engineer,React;PyTorch;Kubernetes;TypeScript;Node.js,Remote,75704.0,128889.0,True
+JOB-2024-0252,AI/ML Engineer,TypeScript;Rust;Node.js;AWS;PostgreSQL;Docker,Germany,71639.0,101929.0,False
+JOB-2024-0253,Data Engineer,TypeScript;SQL;AWS,Germany,78883.0,132564.0,True
+JOB-2024-0254,Full Stack Developer,Kubernetes;TypeScript;Python;Java;Google Cloud;Docker,India,69997.0,116452.0,True
+JOB-2024-0255,Data Engineer,Node.js;PyTorch;AWS;Java;React;SQL,United States,87060.0,151214.0,True
+JOB-2024-0256,Cloud Solutions Architect,AWS;Snowflake;TypeScript,India,82603.0,127576.0,True
+JOB-2024-0257,AI/ML Engineer,PyTorch;PostgreSQL;Java;Docker;Python,Remote,74524.0,132383.0,True
+JOB-2024-0258,AI/ML Engineer,Java;TypeScript;PyTorch;Go;Kubernetes;SQL,Remote,97318.0,164315.0,True
+JOB-2024-0259,Full Stack Developer,Java;SQL;Node.js;Python;AWS;Go,Germany,86092.0,109798.0,True
+JOB-2024-0260,AI/ML Engineer,Docker;AWS;Go;Node.js;SQL,United States,64282.0,98999.0,True
+JOB-2024-0261,Data Engineer,Docker;Go;React;Google Cloud;Snowflake;Rust,Canada,93761.0,141952.0,True
+JOB-2024-0262,Full Stack Developer,Python;Node.js;PostgreSQL;Kubernetes;React,Germany,82731.0,143114.0,True
+JOB-2024-0263,Frontend Engineer,Docker;AWS;Node.js;SQL;TypeScript;Go,Canada,65060.0,97705.0,False
+JOB-2024-0264,Backend Software Engineer,React;SQL;AWS;PyTorch;TypeScript;Kubernetes,India,94983.0,157635.0,False
+JOB-2024-0265,DevOps Engineer,Java;SQL;Docker;Node.js;PyTorch,Germany,84852.0,154468.0,False
+JOB-2024-0266,Frontend Engineer,Snowflake;Docker;TypeScript,India,90561.0,145473.0,False
+JOB-2024-0267,DevOps Engineer,Java;PostgreSQL;AWS;SQL,Germany,84018.0,146947.0,False
+JOB-2024-0268,Full Stack Developer,Node.js;SQL;React,United States,64925.0,86769.0,True
+JOB-2024-0269,Backend Software Engineer,TypeScript;React;SQL,United States,107256.0,170022.0,False
+JOB-2024-0270,AI/ML Engineer,PyTorch;Google Cloud;Node.js;PostgreSQL,Canada,63795.0,95554.0,False
+JOB-2024-0271,AI/ML Engineer,SQL;React;Google Cloud,Remote,73834.0,126664.0,True
+JOB-2024-0272,Frontend Engineer,React;Go;Rust;SQL;AWS;Docker,India,67312.0,125713.0,False
+JOB-2024-0273,Frontend Engineer,AWS;SQL;Go;PostgreSQL,Canada,92345.0,140276.0,False
+JOB-2024-0274,Data Engineer,AWS;Snowflake;Google Cloud;Go;SQL,United States,82658.0,143685.0,False
+JOB-2024-0275,Backend Software Engineer,Snowflake;PyTorch;Node.js;Docker,Remote,101192.0,151647.0,True
+JOB-2024-0276,Frontend Engineer,PyTorch;Snowflake;Java;Docker;Node.js;TypeScript,United States,103062.0,141648.0,False
+JOB-2024-0277,Cloud Solutions Architect,TypeScript;Java;PostgreSQL;PyTorch;Google Cloud,Remote,74663.0,107143.0,True
+JOB-2024-0278,Backend Software Engineer,AWS;Google Cloud;SQL;Kubernetes;React,Germany,83166.0,108045.0,True
+JOB-2024-0279,Full Stack Developer,PyTorch;React;Rust;Snowflake,Remote,98241.0,131234.0,True
+JOB-2024-0280,Cloud Solutions Architect,Rust;Python;PostgreSQL;PyTorch;Kubernetes;Node.js,Canada,72994.0,96525.0,True
+JOB-2024-0281,Frontend Engineer,AWS;Java;PyTorch;Rust;Kubernetes;SQL,United Kingdom,89913.0,147186.0,False
+JOB-2024-0282,DevOps Engineer,SQL;Go;Snowflake;AWS;Google Cloud,Canada,73748.0,117216.0,True
+JOB-2024-0283,Full Stack Developer,TypeScript;React;AWS;Java,United Kingdom,102400.0,152673.0,False
+JOB-2024-0284,Backend Software Engineer,Go;Java;Snowflake;Python;SQL;PostgreSQL,Germany,83528.0,125773.0,True
+JOB-2024-0285,Full Stack Developer,Kubernetes;Snowflake;AWS;SQL;React;Python,Canada,89866.0,118963.0,True
+JOB-2024-0286,AI/ML Engineer,Google Cloud;Node.js;TypeScript,United Kingdom,62223.0,124179.0,False
+JOB-2024-0287,DevOps Engineer,Google Cloud;AWS;Rust;Java;TypeScript;Go,Germany,106255.0,161802.0,False
+JOB-2024-0288,Data Engineer,Rust;Go;Docker;AWS;Google Cloud,Canada,99992.0,132484.0,True
+JOB-2024-0289,Backend Software Engineer,Kubernetes;Snowflake;Google Cloud;Go,United States,102125.0,150553.0,False
+JOB-2024-0290,Data Engineer,Node.js;PostgreSQL;React,Germany,78615.0,145969.0,True
+JOB-2024-0291,Data Engineer,PostgreSQL;Docker;Go;Google Cloud;Kubernetes,United Kingdom,70681.0,104254.0,True
+JOB-2024-0292,DevOps Engineer,Java;Kubernetes;TypeScript,Canada,92150.0,113591.0,True
+JOB-2024-0293,Full Stack Developer,React;Google Cloud;Rust;Docker,United States,94279.0,139738.0,True
+JOB-2024-0294,Data Engineer,Python;Snowflake;PostgreSQL,Remote,85533.0,116462.0,True
+JOB-2024-0295,Frontend Engineer,Python;Node.js;PyTorch;Kubernetes;Java,United States,63687.0,123061.0,True
+JOB-2024-0296,Backend Software Engineer,Kubernetes;PyTorch;SQL;Docker,United States,103442.0,140073.0,True
+JOB-2024-0297,Frontend Engineer,Go;Python;Java;Rust;Google Cloud;AWS,Germany,102420.0,128530.0,False
+JOB-2024-0298,Frontend Engineer,Docker;React;PostgreSQL;AWS,Remote,91242.0,112298.0,True
+JOB-2024-0299,Cloud Solutions Architect,Python;Google Cloud;Go;AWS;SQL,India,109177.0,139104.0,False
+JOB-2024-0300,AI/ML Engineer,Java;PostgreSQL;Google Cloud;AWS,United States,105855.0,174080.0,True
+JOB-2024-0301,AI/ML Engineer,React;Kubernetes;PyTorch;Go;Rust;Google Cloud,Remote,84059.0,153014.0,True
+JOB-2024-0302,Full Stack Developer,Kubernetes;SQL;Snowflake;Docker;AWS,Remote,65691.0,106930.0,True
+JOB-2024-0303,Cloud Solutions Architect,Node.js;React;Rust;AWS;Kubernetes;Docker,United States,103173.0,131273.0,False
+JOB-2024-0304,Full Stack Developer,Docker;TypeScript;Go;PyTorch;SQL,Germany,103971.0,165497.0,False
+JOB-2024-0305,Data Engineer,Kubernetes;Rust;Google Cloud;Go;TypeScript;PyTorch,India,81823.0,109968.0,False
+JOB-2024-0306,AI/ML Engineer,Rust;Docker;TypeScript;SQL;Snowflake;Kubernetes,Canada,86670.0,143753.0,False
+JOB-2024-0307,DevOps Engineer,Java;AWS;React;SQL,Germany,100903.0,166460.0,True
+JOB-2024-0308,Frontend Engineer,Docker;Kubernetes;AWS;Snowflake;PostgreSQL;TypeScript,United States,89055.0,113470.0,True
+JOB-2024-0309,Data Engineer,TypeScript;Snowflake;React;Kubernetes,India,103550.0,168670.0,True
+JOB-2024-0310,Frontend Engineer,Go;PostgreSQL;SQL;AWS;PyTorch,Remote,80196.0,120473.0,True
+JOB-2024-0311,Frontend Engineer,React;Python;PyTorch;AWS,India,73819.0,132230.0,True
+JOB-2024-0312,Frontend Engineer,Python;Java;Google Cloud;Snowflake,Canada,79988.0,138504.0,True
+JOB-2024-0313,Full Stack Developer,AWS;Rust;Google Cloud;Go;Docker,Remote,94127.0,118438.0,True
+JOB-2024-0314,AI/ML Engineer,Google Cloud;Snowflake;Node.js;PostgreSQL,Germany,92816.0,122924.0,False
+JOB-2024-0315,Frontend Engineer,Kubernetes;SQL;PostgreSQL;TypeScript;Go;Node.js,India,85667.0,126479.0,True
+JOB-2024-0316,DevOps Engineer,Rust;Java;Go;Google Cloud;Kubernetes,Remote,71106.0,105542.0,True
+JOB-2024-0317,Frontend Engineer,PostgreSQL;Snowflake;PyTorch;React;SQL;Node.js,Germany,97834.0,162297.0,False
+JOB-2024-0318,Frontend Engineer,PostgreSQL;AWS;PyTorch;Kubernetes;Rust;Node.js,United Kingdom,71372.0,138004.0,True
+JOB-2024-0319,DevOps Engineer,Snowflake;Python;PyTorch,Germany,63063.0,118923.0,True
+JOB-2024-0320,AI/ML Engineer,PyTorch;PostgreSQL;TypeScript;Python;Node.js;Rust,India,83546.0,145911.0,True
+JOB-2024-0321,AI/ML Engineer,SQL;Python;TypeScript;Java,Canada,60704.0,122513.0,False
+JOB-2024-0322,DevOps Engineer,Docker;PostgreSQL;Google Cloud;Node.js,United States,62398.0,124056.0,True
+JOB-2024-0323,DevOps Engineer,Node.js;Docker;SQL;Go;Google Cloud;PyTorch,United Kingdom,99342.0,144985.0,False
+JOB-2024-0324,Data Engineer,Python;PyTorch;Java;Google Cloud;Snowflake;Docker,Canada,77564.0,136260.0,False
+JOB-2024-0325,Data Engineer,Snowflake;TypeScript;PyTorch;PostgreSQL;Python;Node.js,Germany,70388.0,98356.0,False
+JOB-2024-0326,Cloud Solutions Architect,Java;Python;React,Remote,95847.0,116231.0,True
+JOB-2024-0327,Full Stack Developer,TypeScript;React;Rust,United States,74180.0,134905.0,False
+JOB-2024-0328,Frontend Engineer,Snowflake;Docker;PostgreSQL,India,75842.0,122731.0,False
+JOB-2024-0329,Frontend Engineer,Snowflake;Rust;AWS;Go;Python,Remote,76322.0,145671.0,True
+JOB-2024-0330,Cloud Solutions Architect,TypeScript;React;Snowflake;Kubernetes;Java,Canada,94307.0,116678.0,False
+JOB-2024-0331,Data Engineer,Go;Google Cloud;SQL;Snowflake;Python,Canada,62374.0,116902.0,True
+JOB-2024-0332,Backend Software Engineer,Rust;PostgreSQL;Snowflake;React,India,83813.0,142922.0,False
+JOB-2024-0333,Backend Software Engineer,Go;Google Cloud;TypeScript;Python;Rust;Snowflake,Germany,62993.0,87976.0,False
+JOB-2024-0334,DevOps Engineer,SQL;PyTorch;Go,Germany,96953.0,131094.0,True
+JOB-2024-0335,AI/ML Engineer,Java;Rust;Google Cloud;Node.js;Python;TypeScript,Germany,102922.0,128396.0,False
+JOB-2024-0336,Frontend Engineer,PyTorch;Go;SQL,Canada,102763.0,149267.0,False
+JOB-2024-0337,DevOps Engineer,Java;Go;Snowflake;Python;PostgreSQL,Canada,60961.0,93716.0,True
+JOB-2024-0338,AI/ML Engineer,Docker;Java;Python,Canada,104148.0,170876.0,False
+JOB-2024-0339,Data Engineer,React;TypeScript;AWS;PyTorch;Python;Kubernetes,United States,63396.0,83537.0,False
+JOB-2024-0340,Cloud Solutions Architect,SQL;Python;Rust,Germany,85848.0,119438.0,True
+JOB-2024-0341,DevOps Engineer,Snowflake;Java;Kubernetes;Google Cloud;SQL,United States,60725.0,93752.0,False
+JOB-2024-0342,Full Stack Developer,Node.js;Python;Kubernetes;PostgreSQL;PyTorch,United States,93063.0,117059.0,True
+JOB-2024-0343,Cloud Solutions Architect,TypeScript;Snowflake;Go;Node.js,Germany,106775.0,143469.0,False
+JOB-2024-0344,AI/ML Engineer,Go;SQL;TypeScript;PostgreSQL;PyTorch;Snowflake,United Kingdom,79755.0,145603.0,False
+JOB-2024-0345,Frontend Engineer,Node.js;SQL;Rust;Google Cloud;React;PyTorch,United Kingdom,63022.0,86529.0,True
+JOB-2024-0346,Full Stack Developer,PostgreSQL;Python;Docker;Google Cloud;Java;Go,Germany,91653.0,161648.0,False
+JOB-2024-0347,DevOps Engineer,React;Google Cloud;TypeScript;SQL;Java,Canada,65365.0,111738.0,True
+JOB-2024-0348,Frontend Engineer,Snowflake;Java;TypeScript;Kubernetes;Go,Germany,82585.0,113264.0,False
+JOB-2024-0349,Full Stack Developer,AWS;PostgreSQL;React;Python;Rust;Node.js,Germany,77376.0,123131.0,False
+JOB-2024-0350,AI/ML Engineer,Snowflake;Google Cloud;AWS;PostgreSQL;Python;Kubernetes,United Kingdom,105712.0,150621.0,False
+JOB-2024-0351,Cloud Solutions Architect,Python;Google Cloud;Snowflake;Rust;Java,Canada,92671.0,127517.0,True
+JOB-2024-0352,DevOps Engineer,Java;PyTorch;Go;SQL,India,107176.0,151301.0,False
+JOB-2024-0353,Backend Software Engineer,Rust;AWS;React;PyTorch;TypeScript;Java,Canada,92297.0,120336.0,True
+JOB-2024-0354,Cloud Solutions Architect,Google Cloud;Rust;SQL;Node.js;Docker;Go,United Kingdom,63716.0,112176.0,False
+JOB-2024-0355,Backend Software Engineer,PostgreSQL;Docker;Python;Google Cloud;PyTorch,Germany,94253.0,137987.0,True
+JOB-2024-0356,Backend Software Engineer,Node.js;Docker;Python,Canada,102243.0,134527.0,True
+JOB-2024-0357,Full Stack Developer,Go;Java;PyTorch;TypeScript,India,108154.0,172389.0,False
+JOB-2024-0358,Cloud Solutions Architect,Snowflake;AWS;PyTorch;Google Cloud,Germany,85036.0,110830.0,False
+JOB-2024-0359,Data Engineer,Python;Go;Rust;Docker;Kubernetes,Canada,82207.0,133214.0,True
+JOB-2024-0360,AI/ML Engineer,Google Cloud;Go;PostgreSQL;React,Remote,84676.0,140548.0,True
+JOB-2024-0361,DevOps Engineer,Rust;Java;PostgreSQL;AWS;Go;Node.js,Canada,66483.0,89453.0,True
+JOB-2024-0362,Frontend Engineer,Python;Kubernetes;React;Node.js;Docker;Snowflake,Remote,107332.0,156083.0,True
+JOB-2024-0363,Backend Software Engineer,Kubernetes;Docker;Java;Google Cloud,Remote,65515.0,120043.0,True
+JOB-2024-0364,Backend Software Engineer,AWS;PyTorch;Go;PostgreSQL,Canada,99243.0,159853.0,False
+JOB-2024-0365,AI/ML Engineer,Python;AWS;PostgreSQL;Go;Kubernetes;SQL,India,65604.0,97746.0,False
+JOB-2024-0366,Backend Software Engineer,Python;Kubernetes;Rust,Remote,65529.0,91521.0,True
+JOB-2024-0367,Backend Software Engineer,Node.js;Snowflake;PostgreSQL;SQL;Go;Docker,United States,91870.0,113659.0,False
+JOB-2024-0368,Backend Software Engineer,Google Cloud;Docker;PostgreSQL;AWS;Rust,United Kingdom,88935.0,115779.0,False
+JOB-2024-0369,Frontend Engineer,SQL;TypeScript;Node.js;Google Cloud;Go;AWS,Germany,70100.0,105373.0,False
+JOB-2024-0370,AI/ML Engineer,Java;Go;PostgreSQL;React;Rust;Docker,India,71566.0,92198.0,True
+JOB-2024-0371,Full Stack Developer,Node.js;PyTorch;PostgreSQL;Rust;Go;SQL,Canada,86628.0,121184.0,False
+JOB-2024-0372,Data Engineer,TypeScript;Kubernetes;PyTorch;PostgreSQL;AWS,United States,103582.0,148376.0,True
+JOB-2024-0373,Data Engineer,Docker;Rust;PyTorch;SQL;Go,Canada,96993.0,166911.0,True
+JOB-2024-0374,AI/ML Engineer,React;Node.js;TypeScript;AWS;Google Cloud,United States,101021.0,169860.0,True
+JOB-2024-0375,Data Engineer,Go;PostgreSQL;Docker;Rust,Canada,80445.0,133823.0,True
+JOB-2024-0376,Backend Software Engineer,Java;Kubernetes;PostgreSQL,Remote,78197.0,121035.0,True
+JOB-2024-0377,Data Engineer,Python;AWS;Java,United States,103983.0,166411.0,False
+JOB-2024-0378,AI/ML Engineer,Java;SQL;Node.js;AWS;Google Cloud;Rust,Canada,82260.0,104431.0,False
+JOB-2024-0379,Backend Software Engineer,PostgreSQL;React;Rust,Canada,69496.0,114125.0,True
+JOB-2024-0380,Frontend Engineer,AWS;Google Cloud;Go;Python;Kubernetes;Rust,United States,75648.0,124475.0,False
+JOB-2024-0381,Full Stack Developer,Java;PostgreSQL;Rust;TypeScript,United States,67709.0,130865.0,False
+JOB-2024-0382,Full Stack Developer,Snowflake;SQL;PyTorch;Rust,Germany,71315.0,99597.0,True
+JOB-2024-0383,Data Engineer,Snowflake;Google Cloud;TypeScript,United Kingdom,69752.0,91486.0,True
+JOB-2024-0384,DevOps Engineer,SQL;Java;Go;AWS,United States,69639.0,95294.0,False
+JOB-2024-0385,Data Engineer,SQL;Snowflake;Kubernetes;Go;Google Cloud,United States,98164.0,164681.0,True
+JOB-2024-0386,Backend Software Engineer,Python;Kubernetes;AWS;Docker;Node.js,Canada,86894.0,132550.0,False
+JOB-2024-0387,AI/ML Engineer,TypeScript;PostgreSQL;SQL,Remote,98343.0,138732.0,True
+JOB-2024-0388,Data Engineer,TypeScript;Google Cloud;Java,Germany,99985.0,157235.0,False
+JOB-2024-0389,Frontend Engineer,AWS;React;Rust;Google Cloud;Kubernetes,United Kingdom,64625.0,97617.0,False
+JOB-2024-0390,Frontend Engineer,Snowflake;Rust;PostgreSQL,United Kingdom,96614.0,143314.0,True
+JOB-2024-0391,Data Engineer,Kubernetes;Java;PostgreSQL,Remote,63869.0,120161.0,True
+JOB-2024-0392,Data Engineer,Node.js;Docker;Google Cloud;Kubernetes,India,61145.0,111259.0,False
+JOB-2024-0393,Backend Software Engineer,Snowflake;AWS;Go;Java,Germany,70220.0,134907.0,False
+JOB-2024-0394,AI/ML Engineer,PostgreSQL;Google Cloud;PyTorch;SQL;Docker,Canada,80466.0,137242.0,False
+JOB-2024-0395,Frontend Engineer,Python;Node.js;Google Cloud,Remote,94662.0,157526.0,True
+JOB-2024-0396,Frontend Engineer,Snowflake;Python;TypeScript;PyTorch;Rust,United States,97001.0,140041.0,True
+JOB-2024-0397,Full Stack Developer,Go;Java;PyTorch;Python;PostgreSQL;TypeScript,India,88523.0,110347.0,False
+JOB-2024-0398,Full Stack Developer,AWS;PostgreSQL;Google Cloud;React,Germany,80366.0,125984.0,True
+JOB-2024-0399,Data Engineer,Snowflake;AWS;SQL;Go;PyTorch,Remote,100637.0,165660.0,True
+JOB-2024-0400,Full Stack Developer,Kubernetes;PyTorch;Java;Docker;PostgreSQL;Go,Germany,100340.0,124920.0,True
+JOB-2024-0401,Backend Software Engineer,Node.js;Google Cloud;React;TypeScript;Kubernetes,Canada,94213.0,127667.0,True
+JOB-2024-0402,DevOps Engineer,Python;Snowflake;Java,Remote,67738.0,127559.0,True
+JOB-2024-0403,DevOps Engineer,Kubernetes;SQL;Docker;Python;AWS;TypeScript,India,94285.0,127394.0,True
+JOB-2024-0404,Frontend Engineer,Java;Docker;Google Cloud;Snowflake;Python,United States,75493.0,104895.0,False
+JOB-2024-0405,Frontend Engineer,Java;Kubernetes;Google Cloud;Node.js,Canada,100132.0,153387.0,False
+JOB-2024-0406,Cloud Solutions Architect,Kubernetes;Node.js;Java,United States,91384.0,151571.0,False
+JOB-2024-0407,Data Engineer,PyTorch;Kubernetes;AWS;React;Go,United States,86074.0,114361.0,False
+JOB-2024-0408,Full Stack Developer,AWS;Go;Snowflake;TypeScript,Canada,77764.0,118357.0,False
+JOB-2024-0409,Full Stack Developer,PyTorch;Rust;Kubernetes;Docker;Go,United States,84664.0,153634.0,True
+JOB-2024-0410,Full Stack Developer,Java;Rust;SQL;React;AWS,India,76946.0,103392.0,False
+JOB-2024-0411,Full Stack Developer,TypeScript;AWS;React;SQL,United Kingdom,67572.0,90894.0,True
+JOB-2024-0412,DevOps Engineer,Python;PyTorch;Go,United Kingdom,87899.0,114305.0,True
+JOB-2024-0413,Data Engineer,SQL;Kubernetes;Java,Canada,92283.0,160533.0,True
+JOB-2024-0414,Cloud Solutions Architect,PyTorch;Kubernetes;Docker;Go;Google Cloud;PostgreSQL,India,83030.0,125941.0,True
+JOB-2024-0415,AI/ML Engineer,AWS;Java;SQL;TypeScript;Snowflake;Docker,United States,62883.0,118752.0,False
+JOB-2024-0416,Frontend Engineer,Snowflake;TypeScript;Google Cloud;Java;PyTorch;Go,Remote,72629.0,101552.0,True
+JOB-2024-0417,DevOps Engineer,Kubernetes;Java;Docker;SQL;Python,India,100915.0,166766.0,True
+JOB-2024-0418,Full Stack Developer,Node.js;Google Cloud;PyTorch;Java;Go,India,93539.0,129011.0,False
+JOB-2024-0419,AI/ML Engineer,TypeScript;PostgreSQL;Kubernetes;Go,United States,71772.0,118660.0,True
+JOB-2024-0420,AI/ML Engineer,Node.js;Java;Go,United Kingdom,106876.0,176193.0,True
+JOB-2024-0421,AI/ML Engineer,Java;Snowflake;Rust;AWS;Python,Germany,67387.0,105746.0,False
+JOB-2024-0422,Backend Software Engineer,Rust;Google Cloud;Node.js;TypeScript,United Kingdom,64212.0,133289.0,True
+JOB-2024-0423,Data Engineer,Java;Docker;PostgreSQL;Go,Canada,105489.0,167836.0,True
+JOB-2024-0424,Backend Software Engineer,Docker;Kubernetes;PostgreSQL;Rust;TypeScript;Python,United Kingdom,66706.0,117063.0,False
+JOB-2024-0425,DevOps Engineer,Python;React;Java;AWS;PostgreSQL,Remote,105009.0,165827.0,True
+JOB-2024-0426,AI/ML Engineer,Kubernetes;Google Cloud;Snowflake;Node.js,United States,81723.0,101837.0,False
+JOB-2024-0427,Full Stack Developer,Docker;PyTorch;Google Cloud;SQL;Kubernetes;TypeScript,India,83875.0,115682.0,True
+JOB-2024-0428,Data Engineer,Java;React;Rust;SQL;PostgreSQL;Node.js,United Kingdom,89797.0,159016.0,True
+JOB-2024-0429,DevOps Engineer,Rust;SQL;Go,Germany,87934.0,139766.0,False
+JOB-2024-0430,Cloud Solutions Architect,PostgreSQL;Kubernetes;SQL;Snowflake,Remote,63807.0,128198.0,True
+JOB-2024-0431,Full Stack Developer,Google Cloud;React;PyTorch;Java,Remote,100518.0,153822.0,True
+JOB-2024-0432,Full Stack Developer,PyTorch;Snowflake;Python;Docker,India,107027.0,150451.0,True
+JOB-2024-0433,AI/ML Engineer,PostgreSQL;AWS;React;Go;Python,Canada,104266.0,154359.0,True
+JOB-2024-0434,Data Engineer,React;SQL;PostgreSQL,Canada,80518.0,108602.0,False
+JOB-2024-0435,Data Engineer,AWS;Go;Java;Node.js;SQL,Canada,101379.0,140714.0,True
+JOB-2024-0436,Data Engineer,Snowflake;Docker;SQL;Python,India,90813.0,159088.0,True
+JOB-2024-0437,AI/ML Engineer,PyTorch;Python;AWS;Google Cloud;PostgreSQL,United States,108797.0,151943.0,True
+JOB-2024-0438,Data Engineer,TypeScript;React;Snowflake;PostgreSQL;Rust;Docker,Canada,97650.0,118445.0,True
+JOB-2024-0439,Cloud Solutions Architect,PyTorch;Go;SQL;Kubernetes,United States,76750.0,126861.0,True
+JOB-2024-0440,AI/ML Engineer,PyTorch;Docker;Go,United States,82920.0,121945.0,False
+JOB-2024-0441,Backend Software Engineer,Node.js;PostgreSQL;Snowflake;Kubernetes;TypeScript,Remote,65020.0,119784.0,True
+JOB-2024-0442,AI/ML Engineer,Snowflake;Python;Java,Germany,92092.0,139318.0,False
+JOB-2024-0443,Cloud Solutions Architect,Rust;React;AWS,United States,96934.0,144979.0,True
+JOB-2024-0444,AI/ML Engineer,Go;Google Cloud;Node.js;PostgreSQL;Kubernetes;Java,United Kingdom,102001.0,156469.0,False
+JOB-2024-0445,Full Stack Developer,PostgreSQL;Docker;Kubernetes;Google Cloud;AWS;Python,Canada,106502.0,160791.0,False
+JOB-2024-0446,Backend Software Engineer,Go;Snowflake;Java;PyTorch;Node.js;TypeScript,Germany,68769.0,96220.0,True
+JOB-2024-0447,AI/ML Engineer,Node.js;React;Java;Snowflake;PostgreSQL,Remote,106560.0,137538.0,True
+JOB-2024-0448,Cloud Solutions Architect,AWS;Java;Node.js;TypeScript;Go;Python,Germany,97526.0,121512.0,False
+JOB-2024-0449,AI/ML Engineer,Kubernetes;React;Docker;Java,Canada,85028.0,140108.0,False
+JOB-2024-0450,DevOps Engineer,Snowflake;TypeScript;Google Cloud;PyTorch;SQL,India,92903.0,118527.0,False
+JOB-2024-0451,Data Engineer,React;Go;SQL,Germany,93339.0,140492.0,True
+JOB-2024-0452,Backend Software Engineer,TypeScript;Rust;Docker,Germany,86365.0,153166.0,False
+JOB-2024-0453,AI/ML Engineer,Go;SQL;AWS;Python,Germany,91577.0,114955.0,False
+JOB-2024-0454,Backend Software Engineer,Google Cloud;Docker;Kubernetes;Go;TypeScript;PyTorch,United Kingdom,80844.0,102825.0,False
+JOB-2024-0455,AI/ML Engineer,Rust;AWS;Snowflake;React;PostgreSQL,Canada,87720.0,155190.0,False
+JOB-2024-0456,DevOps Engineer,PyTorch;TypeScript;AWS;Java;Google Cloud,India,74368.0,105322.0,True
+JOB-2024-0457,Backend Software Engineer,Snowflake;Google Cloud;Rust;Docker;React;Python,United Kingdom,69620.0,108956.0,True
+JOB-2024-0458,Full Stack Developer,PyTorch;Java;React;TypeScript;Docker,Germany,72456.0,129316.0,False
+JOB-2024-0459,Full Stack Developer,Rust;Python;Google Cloud;PostgreSQL,India,68325.0,129333.0,True
+JOB-2024-0460,DevOps Engineer,Docker;PostgreSQL;Google Cloud;Java;SQL;Node.js,United Kingdom,105613.0,167523.0,True
+JOB-2024-0461,AI/ML Engineer,SQL;TypeScript;PostgreSQL;React,Canada,99067.0,163269.0,True
+JOB-2024-0462,Backend Software Engineer,AWS;TypeScript;Kubernetes;Python,United States,97762.0,155379.0,True
+JOB-2024-0463,Data Engineer,Rust;AWS;Google Cloud;Go;Docker;SQL,United States,85468.0,116456.0,True
+JOB-2024-0464,Frontend Engineer,Go;Docker;PyTorch,Remote,98965.0,145729.0,True
+JOB-2024-0465,Full Stack Developer,React;Docker;PostgreSQL,Germany,60476.0,83789.0,True
+JOB-2024-0466,Data Engineer,AWS;SQL;PostgreSQL,Remote,104369.0,125322.0,True
+JOB-2024-0467,Data Engineer,Java;Docker;Go;Node.js;Google Cloud;SQL,Remote,81211.0,102085.0,True
+JOB-2024-0468,Cloud Solutions Architect,SQL;Docker;React;TypeScript;Java;Go,Canada,103155.0,142427.0,False
+JOB-2024-0469,Backend Software Engineer,AWS;PostgreSQL;Google Cloud,Canada,77193.0,146024.0,True
+JOB-2024-0470,Cloud Solutions Architect,SQL;TypeScript;Node.js;Java,United States,61137.0,124938.0,True
+JOB-2024-0471,Frontend Engineer,PyTorch;Java;Rust;AWS;Docker,Remote,68263.0,109924.0,True
+JOB-2024-0472,Data Engineer,Rust;Kubernetes;Java;React,United States,85278.0,137265.0,False
+JOB-2024-0473,Backend Software Engineer,React;Go;AWS;Google Cloud;PyTorch,United Kingdom,69358.0,102099.0,False
+JOB-2024-0474,Data Engineer,PyTorch;Node.js;Kubernetes,India,90147.0,124478.0,False
+JOB-2024-0475,AI/ML Engineer,Java;PyTorch;React,Canada,65316.0,101372.0,True
+JOB-2024-0476,Cloud Solutions Architect,Go;Google Cloud;SQL;PostgreSQL;AWS;Docker,Canada,90119.0,129488.0,False
+JOB-2024-0477,Frontend Engineer,Google Cloud;AWS;Rust;Java;Node.js;React,United Kingdom,72522.0,97486.0,False
+JOB-2024-0478,Frontend Engineer,Python;SQL;Node.js,Remote,62617.0,117732.0,True
+JOB-2024-0479,Cloud Solutions Architect,Python;SQL;Google Cloud;Rust;Kubernetes,India,94547.0,121390.0,True
+JOB-2024-0480,Data Engineer,Rust;React;Docker;SQL;PostgreSQL,India,102843.0,142114.0,False
+JOB-2024-0481,Data Engineer,PyTorch;Python;Rust;Snowflake,Germany,64694.0,133894.0,False
+JOB-2024-0482,AI/ML Engineer,Kubernetes;Go;Docker;AWS,Germany,85866.0,126211.0,False
+JOB-2024-0483,Frontend Engineer,React;Kubernetes;Go,Germany,101074.0,127540.0,False
+JOB-2024-0484,Data Engineer,Python;TypeScript;Kubernetes;Google Cloud,Remote,109011.0,140296.0,True
+JOB-2024-0485,AI/ML Engineer,Google Cloud;TypeScript;SQL;Rust;PyTorch;Docker,Remote,67628.0,106424.0,True
+JOB-2024-0486,Full Stack Developer,Rust;SQL;Docker,United States,90006.0,133564.0,True
+JOB-2024-0487,Full Stack Developer,Snowflake;Node.js;Python;PyTorch;Docker;AWS,Germany,86565.0,137741.0,True
+JOB-2024-0488,Full Stack Developer,Snowflake;Rust;Kubernetes;Docker;PyTorch;TypeScript,India,80724.0,138144.0,True
+JOB-2024-0489,Cloud Solutions Architect,Go;Rust;AWS;Google Cloud;Node.js,United States,88366.0,118818.0,True
+JOB-2024-0490,Data Engineer,PostgreSQL;Google Cloud;Rust;Java;AWS;Go,Germany,105175.0,129804.0,True
+JOB-2024-0491,AI/ML Engineer,SQL;PyTorch;Java;Go;Google Cloud,Remote,98135.0,118595.0,True
+JOB-2024-0492,Full Stack Developer,SQL;PyTorch;Node.js;Rust;TypeScript,United States,104594.0,135492.0,True
+JOB-2024-0493,Backend Software Engineer,AWS;Kubernetes;Node.js,Remote,105927.0,148760.0,True
+JOB-2024-0494,AI/ML Engineer,React;Python;TypeScript;Node.js,United States,106168.0,153575.0,False
+JOB-2024-0495,Frontend Engineer,PostgreSQL;Python;Go;Rust;Kubernetes;Java,India,81107.0,115692.0,False
+JOB-2024-0496,Backend Software Engineer,Go;React;Docker;Rust,United Kingdom,106399.0,160643.0,False
+JOB-2024-0497,AI/ML Engineer,Docker;Rust;PostgreSQL;PyTorch;Java;Kubernetes,Germany,89355.0,141161.0,True
+JOB-2024-0498,Cloud Solutions Architect,Python;Go;Kubernetes,United States,94315.0,158712.0,True
+JOB-2024-0499,AI/ML Engineer,Rust;Docker;PostgreSQL;React;Java,United States,72073.0,138045.0,False
+JOB-2024-0500,Backend Software Engineer,PyTorch;Rust;Python,Canada,102275.0,148626.0,True
+JOB-2024-0501,Backend Software Engineer,Google Cloud;PostgreSQL;Kubernetes;PyTorch,Germany,84979.0,112583.0,True
+JOB-2024-0502,Backend Software Engineer,PyTorch;Go;PostgreSQL;Google Cloud;TypeScript;React,United Kingdom,61555.0,114135.0,True
+JOB-2024-0503,AI/ML Engineer,Node.js;Python;AWS,United Kingdom,75023.0,137135.0,True
+JOB-2024-0504,Full Stack Developer,Go;AWS;TypeScript;Docker,United States,83501.0,148297.0,False
+JOB-2024-0505,Full Stack Developer,React;Node.js;SQL,Canada,66805.0,95373.0,False
+JOB-2024-0506,DevOps Engineer,Go;Node.js;Docker;React,Canada,67293.0,111227.0,False
+JOB-2024-0507,Backend Software Engineer,React;Python;PostgreSQL,Remote,92573.0,147738.0,True
+JOB-2024-0508,Cloud Solutions Architect,PyTorch;Rust;Kubernetes;Snowflake;AWS,Remote,107954.0,158351.0,True
+JOB-2024-0509,Data Engineer,Docker;Python;AWS;SQL,India,80516.0,116238.0,False
+JOB-2024-0510,DevOps Engineer,PyTorch;Docker;SQL;Node.js;Python,Remote,68478.0,126525.0,True
+JOB-2024-0511,Data Engineer,PostgreSQL;Java;Google Cloud,United States,79568.0,134850.0,True
+JOB-2024-0512,Cloud Solutions Architect,Node.js;Kubernetes;PyTorch;Docker;Snowflake,Canada,108622.0,151677.0,False
+JOB-2024-0513,Full Stack Developer,SQL;AWS;Go;Java;Docker;Python,Canada,80036.0,141511.0,True
+JOB-2024-0514,Data Engineer,React;TypeScript;Python;Docker,Germany,61744.0,115575.0,True
+JOB-2024-0515,Backend Software Engineer,Go;React;PostgreSQL;Docker;Snowflake;Rust,Remote,64521.0,115928.0,True
+JOB-2024-0516,Data Engineer,React;AWS;TypeScript,Germany,96871.0,149951.0,False
+JOB-2024-0517,Backend Software Engineer,Python;TypeScript;Java;Docker;Node.js,United Kingdom,71508.0,121592.0,False
+JOB-2024-0518,Full Stack Developer,Python;PostgreSQL;Docker;TypeScript;Rust,United Kingdom,78154.0,136124.0,False
+JOB-2024-0519,AI/ML Engineer,Go;Python;Node.js,Canada,73819.0,130872.0,False
+JOB-2024-0520,Cloud Solutions Architect,Python;PostgreSQL;Kubernetes;TypeScript;AWS,United States,93499.0,124845.0,True
+JOB-2024-0521,Full Stack Developer,Snowflake;Kubernetes;TypeScript;Google Cloud;AWS;Go,United Kingdom,71895.0,129031.0,True
+JOB-2024-0522,Backend Software Engineer,AWS;PyTorch;Java;Google Cloud,Germany,76307.0,129401.0,False
+JOB-2024-0523,AI/ML Engineer,Go;Snowflake;Rust;Java;Docker,Germany,104526.0,157885.0,False
+JOB-2024-0524,DevOps Engineer,Java;Node.js;Go;React;AWS,Canada,74898.0,141767.0,False
+JOB-2024-0525,DevOps Engineer,Python;Snowflake;Google Cloud;Go,India,71773.0,104352.0,True
+JOB-2024-0526,AI/ML Engineer,Kubernetes;Java;Docker,Remote,86076.0,110034.0,True
+JOB-2024-0527,Cloud Solutions Architect,Python;PyTorch;Java;Google Cloud;Kubernetes;Go,India,104034.0,143388.0,False
+JOB-2024-0528,AI/ML Engineer,PostgreSQL;Snowflake;AWS;Python;PyTorch,India,79621.0,135519.0,True
+JOB-2024-0529,Frontend Engineer,Docker;Kubernetes;SQL;React;Node.js,Canada,75287.0,130392.0,False
+JOB-2024-0530,AI/ML Engineer,Google Cloud;Snowflake;TypeScript;Docker;SQL,United States,71353.0,94881.0,True
+JOB-2024-0531,AI/ML Engineer,Java;Kubernetes;Node.js;TypeScript,Canada,93333.0,127144.0,False
+JOB-2024-0532,Frontend Engineer,Java;PostgreSQL;AWS;Node.js;Rust;React,United States,69509.0,124790.0,True
+JOB-2024-0533,Frontend Engineer,Google Cloud;Rust;Kubernetes;Docker,India,109525.0,149548.0,True
+JOB-2024-0534,DevOps Engineer,React;TypeScript;Java;Python;Docker;Google Cloud,United Kingdom,85679.0,113687.0,False
+JOB-2024-0535,Cloud Solutions Architect,TypeScript;PostgreSQL;React;Snowflake;Node.js,Canada,81245.0,124832.0,False
+JOB-2024-0536,DevOps Engineer,Java;Python;Go;Google Cloud;TypeScript;Snowflake,Germany,63856.0,118002.0,False
+JOB-2024-0537,DevOps Engineer,Go;AWS;Java;Rust;Snowflake;Python,Germany,69514.0,134931.0,False
+JOB-2024-0538,Cloud Solutions Architect,Docker;TypeScript;PostgreSQL,United States,60879.0,129373.0,False
+JOB-2024-0539,Backend Software Engineer,Node.js;Go;PyTorch;Java;TypeScript,Remote,66787.0,92054.0,True
+JOB-2024-0540,Cloud Solutions Architect,SQL;Kubernetes;Java;TypeScript;PostgreSQL,Germany,73811.0,94706.0,True
+JOB-2024-0541,Backend Software Engineer,TypeScript;PostgreSQL;Go;Node.js;Snowflake,Remote,83369.0,134072.0,True
+JOB-2024-0542,Frontend Engineer,Kubernetes;Google Cloud;Snowflake;React;Python,Germany,78143.0,124173.0,True
+JOB-2024-0543,DevOps Engineer,AWS;Python;Google Cloud;Node.js;Java;PyTorch,Germany,83261.0,109018.0,True
+JOB-2024-0544,Backend Software Engineer,Kubernetes;Google Cloud;PyTorch;Rust,India,60361.0,127501.0,False
+JOB-2024-0545,AI/ML Engineer,Docker;Rust;PyTorch;Snowflake;Go,India,73054.0,139161.0,True
+JOB-2024-0546,AI/ML Engineer,Go;React;Snowflake;AWS;TypeScript,India,63483.0,91155.0,False
+JOB-2024-0547,Full Stack Developer,Go;PostgreSQL;SQL;Snowflake,United States,92844.0,116200.0,True
+JOB-2024-0548,Backend Software Engineer,Python;Docker;TypeScript;Snowflake;PostgreSQL,Remote,61644.0,106060.0,True
+JOB-2024-0549,Cloud Solutions Architect,Rust;React;SQL,United Kingdom,61024.0,105505.0,False
+JOB-2024-0550,Backend Software Engineer,Rust;Google Cloud;Python,Canada,76968.0,119800.0,True
+JOB-2024-0551,Frontend Engineer,Go;Snowflake;Kubernetes,Germany,88453.0,139044.0,False
+JOB-2024-0552,Frontend Engineer,AWS;PyTorch;Google Cloud;SQL;Node.js,United States,101904.0,170806.0,False
+JOB-2024-0553,Full Stack Developer,Rust;Snowflake;SQL;React;Java,United Kingdom,87443.0,130763.0,True
+JOB-2024-0554,DevOps Engineer,Rust;Java;AWS;React;Kubernetes,Germany,92628.0,160517.0,False
+JOB-2024-0555,Frontend Engineer,Snowflake;Java;AWS;SQL,India,90613.0,139818.0,False
+JOB-2024-0556,Data Engineer,Kubernetes;Python;PyTorch,Canada,84686.0,150786.0,False
+JOB-2024-0557,DevOps Engineer,Python;Google Cloud;PyTorch;Rust,Canada,82677.0,109376.0,True
+JOB-2024-0558,DevOps Engineer,Go;Rust;Python;PyTorch;TypeScript,Remote,104817.0,127386.0,True
+JOB-2024-0559,DevOps Engineer,Docker;Python;Snowflake;TypeScript;Kubernetes;React,Canada,78746.0,145606.0,True
+JOB-2024-0560,Frontend Engineer,SQL;React;Docker;Node.js;Python;Go,Germany,93279.0,138291.0,False
+JOB-2024-0561,Full Stack Developer,Snowflake;Node.js;PyTorch,Remote,73091.0,125579.0,True
+JOB-2024-0562,Backend Software Engineer,Rust;Go;React;Node.js,Canada,93858.0,156236.0,False
+JOB-2024-0563,Data Engineer,Snowflake;Python;AWS;Docker,India,66735.0,109252.0,False
+JOB-2024-0564,AI/ML Engineer,Snowflake;Go;Java;Docker;SQL;Kubernetes,Germany,77403.0,109026.0,True
+JOB-2024-0565,Data Engineer,Docker;Snowflake;PyTorch;SQL;AWS,Remote,65071.0,114453.0,True
+JOB-2024-0566,Data Engineer,Kubernetes;Snowflake;PostgreSQL,Canada,98955.0,157917.0,False
+JOB-2024-0567,DevOps Engineer,SQL;PostgreSQL;Kubernetes,India,91044.0,147972.0,True
+JOB-2024-0568,AI/ML Engineer,Go;Snowflake;SQL;Google Cloud,United States,79521.0,108286.0,False
+JOB-2024-0569,AI/ML Engineer,Node.js;Kubernetes;Docker;PyTorch,United Kingdom,103010.0,136285.0,False
+JOB-2024-0570,Data Engineer,Node.js;React;Snowflake;TypeScript;Java;Kubernetes,Remote,79091.0,146340.0,True
+JOB-2024-0571,Cloud Solutions Architect,SQL;Docker;React;Snowflake;PostgreSQL;TypeScript,United States,86825.0,152395.0,True
+JOB-2024-0572,Full Stack Developer,Google Cloud;SQL;AWS;PyTorch,Remote,66866.0,102728.0,True
+JOB-2024-0573,DevOps Engineer,React;PostgreSQL;Docker;Rust,Germany,103446.0,131277.0,True
+JOB-2024-0574,Data Engineer,React;TypeScript;Java;Go;Rust;SQL,United States,97709.0,163359.0,True
+JOB-2024-0575,DevOps Engineer,React;Java;AWS;Go;Node.js;Rust,Canada,71002.0,129670.0,True
+JOB-2024-0576,Data Engineer,Rust;Node.js;AWS;PostgreSQL,India,96207.0,157550.0,True
+JOB-2024-0577,DevOps Engineer,Kubernetes;Node.js;Python;PyTorch;Go,India,107200.0,153947.0,False
+JOB-2024-0578,AI/ML Engineer,Google Cloud;Java;React;TypeScript;SQL;Snowflake,United Kingdom,98476.0,136649.0,True
+JOB-2024-0579,AI/ML Engineer,Python;TypeScript;PyTorch;AWS,Remote,93675.0,147569.0,True
+JOB-2024-0580,Full Stack Developer,Python;PyTorch;AWS,Canada,61487.0,123331.0,True
+JOB-2024-0581,Cloud Solutions Architect,PostgreSQL;Docker;TypeScript,United Kingdom,97920.0,150921.0,False
+JOB-2024-0582,DevOps Engineer,Docker;Java;Snowflake;SQL;PyTorch;Go,United States,97676.0,128820.0,False
+JOB-2024-0583,Data Engineer,Snowflake;React;Python;AWS;Rust,Canada,68430.0,119934.0,True
+JOB-2024-0584,Cloud Solutions Architect,Node.js;Snowflake;PyTorch;AWS;Rust;Google Cloud,United States,83331.0,117784.0,True
+JOB-2024-0585,AI/ML Engineer,PyTorch;Google Cloud;AWS;Python;SQL;PostgreSQL,India,62482.0,93576.0,False
+JOB-2024-0586,Cloud Solutions Architect,PostgreSQL;AWS;Go;PyTorch;Node.js;TypeScript,India,89475.0,141277.0,False
+JOB-2024-0587,Full Stack Developer,AWS;PostgreSQL;React;PyTorch;Rust,India,102720.0,164505.0,False
+JOB-2024-0588,Frontend Engineer,Java;Docker;TypeScript;Python;Node.js,United Kingdom,102524.0,156500.0,True
+JOB-2024-0589,AI/ML Engineer,Python;Rust;Java,Canada,69088.0,98740.0,False
+JOB-2024-0590,DevOps Engineer,Python;Google Cloud;Node.js;Docker;Java,India,83702.0,130064.0,True
+JOB-2024-0591,Full Stack Developer,Docker;Kubernetes;PostgreSQL,Germany,72058.0,131645.0,True
+JOB-2024-0592,Cloud Solutions Architect,PostgreSQL;Kubernetes;Snowflake;SQL;Python,United States,80561.0,122816.0,False
+JOB-2024-0593,AI/ML Engineer,SQL;Google Cloud;Docker;Java;PostgreSQL;Kubernetes,Canada,66134.0,107876.0,True
+JOB-2024-0594,Cloud Solutions Architect,Go;SQL;PyTorch;Java;React,United States,102905.0,162836.0,False
+JOB-2024-0595,Full Stack Developer,TypeScript;Docker;Go;PyTorch,Germany,80620.0,113093.0,True
+JOB-2024-0596,Full Stack Developer,Java;Google Cloud;Node.js;Go;PyTorch,Remote,92219.0,124502.0,True
+JOB-2024-0597,Cloud Solutions Architect,TypeScript;Snowflake;PyTorch;React;Kubernetes;Python,Canada,90122.0,156333.0,True
+JOB-2024-0598,Full Stack Developer,AWS;Kubernetes;Go;PyTorch,Canada,86028.0,114050.0,False
+JOB-2024-0599,Data Engineer,Docker;TypeScript;Java;PyTorch;Go;Node.js,Remote,95029.0,151270.0,True
+JOB-2024-0600,Backend Software Engineer,Node.js;Python;Kubernetes;Snowflake;Java;PostgreSQL,Canada,82373.0,123677.0,True
+JOB-2024-0601,Data Engineer,React;Node.js;Java;PyTorch,United States,71380.0,105286.0,False
+JOB-2024-0602,AI/ML Engineer,PostgreSQL;Node.js;Java;Go;Snowflake,Germany,100327.0,155349.0,True
+JOB-2024-0603,Full Stack Developer,Go;Python;Google Cloud;PyTorch;Java;Kubernetes,Remote,94553.0,159848.0,True
+JOB-2024-0604,Full Stack Developer,Docker;Snowflake;PyTorch;TypeScript;Node.js;SQL,Remote,109519.0,139086.0,True
+JOB-2024-0605,Data Engineer,Docker;PyTorch;Google Cloud;SQL;Java,Germany,106815.0,171656.0,False
+JOB-2024-0606,Cloud Solutions Architect,Node.js;Google Cloud;AWS,Remote,106419.0,130988.0,True
+JOB-2024-0607,Backend Software Engineer,Snowflake;SQL;PostgreSQL;Node.js,India,108677.0,148848.0,False
+JOB-2024-0608,Cloud Solutions Architect,AWS;Snowflake;PostgreSQL;Go;Rust,Germany,77157.0,116926.0,True
+JOB-2024-0609,Backend Software Engineer,PyTorch;Kubernetes;AWS,United States,99242.0,131147.0,True
+JOB-2024-0610,DevOps Engineer,Java;Node.js;Rust;SQL;PostgreSQL;Python,India,73378.0,100908.0,True
+JOB-2024-0611,Data Engineer,Docker;PyTorch;Python;React,Canada,101240.0,168275.0,False
+JOB-2024-0612,Backend Software Engineer,Google Cloud;Java;Kubernetes;Go;PyTorch,Remote,101915.0,166603.0,True
+JOB-2024-0613,DevOps Engineer,Java;Go;PyTorch;SQL;Snowflake;Python,Germany,108268.0,133921.0,True
+JOB-2024-0614,Full Stack Developer,TypeScript;Docker;Google Cloud;Node.js;Python;SQL,Germany,78453.0,146350.0,False
+JOB-2024-0615,Frontend Engineer,PyTorch;React;Kubernetes,India,81589.0,113580.0,False
+JOB-2024-0616,Data Engineer,Snowflake;PyTorch;Go;AWS;Java;TypeScript,Remote,98278.0,152857.0,True
+JOB-2024-0617,Cloud Solutions Architect,Python;Java;TypeScript;Go,Remote,68698.0,136272.0,True
+JOB-2024-0618,Full Stack Developer,AWS;Python;SQL,United Kingdom,105720.0,139838.0,True
+JOB-2024-0619,Full Stack Developer,Google Cloud;Go;Docker;SQL,Canada,66161.0,103658.0,True
+JOB-2024-0620,Full Stack Developer,Go;Rust;Docker;Node.js;React;PostgreSQL,Germany,103226.0,170180.0,True
+JOB-2024-0621,Cloud Solutions Architect,React;Node.js;Snowflake;Python;Rust;SQL,Germany,77196.0,122184.0,False
+JOB-2024-0622,Data Engineer,PostgreSQL;Google Cloud;Snowflake,India,106399.0,160765.0,False
+JOB-2024-0623,AI/ML Engineer,Go;Node.js;AWS;Kubernetes;Google Cloud,Canada,72008.0,137921.0,True
+JOB-2024-0624,Cloud Solutions Architect,Java;Docker;PyTorch;TypeScript;PostgreSQL;React,United States,90225.0,138615.0,True
+JOB-2024-0625,Full Stack Developer,SQL;Docker;Java,Germany,67493.0,114697.0,True
+JOB-2024-0626,Backend Software Engineer,PyTorch;Go;Rust,Remote,61981.0,111869.0,True
+JOB-2024-0627,Backend Software Engineer,Kubernetes;Rust;Google Cloud;Docker,Canada,86411.0,126790.0,True
+JOB-2024-0628,AI/ML Engineer,Java;Go;AWS;React,Canada,93172.0,145040.0,False
+JOB-2024-0629,Cloud Solutions Architect,Java;Docker;PyTorch;PostgreSQL,Canada,90485.0,126204.0,False
+JOB-2024-0630,Full Stack Developer,PyTorch;React;Python;Snowflake;Node.js,United Kingdom,104408.0,170491.0,False
+JOB-2024-0631,Full Stack Developer,Go;Kubernetes;PostgreSQL;React,India,106240.0,156238.0,True
+JOB-2024-0632,AI/ML Engineer,Java;AWS;TypeScript;Node.js;Snowflake;PyTorch,India,63330.0,102433.0,True
+JOB-2024-0633,AI/ML Engineer,Node.js;Python;Google Cloud;PyTorch,United States,73805.0,131004.0,True
+JOB-2024-0634,Frontend Engineer,AWS;Snowflake;Rust;Google Cloud,Canada,69422.0,110598.0,False
+JOB-2024-0635,Backend Software Engineer,Docker;SQL;Go;Kubernetes;TypeScript;Google Cloud,United States,83610.0,144594.0,False
+JOB-2024-0636,DevOps Engineer,PyTorch;Docker;Snowflake;AWS;Java;Node.js,Germany,60840.0,120247.0,True
+JOB-2024-0637,Data Engineer,Go;PostgreSQL;Node.js;SQL,United Kingdom,106953.0,134676.0,False
+JOB-2024-0638,Full Stack Developer,React;PostgreSQL;Docker;Python;SQL,United Kingdom,91432.0,153204.0,False
+JOB-2024-0639,Data Engineer,Docker;Node.js;TypeScript;PostgreSQL;React,United Kingdom,64182.0,133460.0,True
+JOB-2024-0640,AI/ML Engineer,TypeScript;PyTorch;PostgreSQL;React;Docker,Canada,104949.0,162370.0,True
+JOB-2024-0641,Frontend Engineer,React;Go;SQL;Docker;Java;TypeScript,United States,89435.0,119068.0,True
+JOB-2024-0642,Backend Software Engineer,Kubernetes;Google Cloud;Go;Rust,Germany,65273.0,114906.0,True
+JOB-2024-0643,Backend Software Engineer,React;Google Cloud;SQL;PyTorch,United States,93349.0,154885.0,True
+JOB-2024-0644,Cloud Solutions Architect,SQL;Java;Node.js,India,108565.0,129601.0,False
+JOB-2024-0645,AI/ML Engineer,Google Cloud;Kubernetes;Docker;Python;Go;TypeScript,United States,92951.0,150300.0,True
+JOB-2024-0646,Full Stack Developer,PostgreSQL;AWS;Snowflake;Rust;Node.js;Python,Canada,83843.0,141298.0,False
+JOB-2024-0647,Data Engineer,Rust;Snowflake;Python,United Kingdom,103765.0,162336.0,True
+JOB-2024-0648,AI/ML Engineer,Snowflake;Python;TypeScript;PostgreSQL;Rust;Java,United States,103407.0,146185.0,False
+JOB-2024-0649,Backend Software Engineer,TypeScript;Rust;React;PostgreSQL,India,93806.0,124777.0,False
+JOB-2024-0650,Frontend Engineer,Rust;Kubernetes;AWS;PostgreSQL,United States,65396.0,88484.0,True
+JOB-2024-0651,AI/ML Engineer,React;SQL;PyTorch;Python,United Kingdom,87180.0,115272.0,False
+JOB-2024-0652,Frontend Engineer,TypeScript;Go;React,United Kingdom,78220.0,119971.0,True
+JOB-2024-0653,Data Engineer,Snowflake;Go;AWS;Node.js;TypeScript,United Kingdom,87488.0,152091.0,True
+JOB-2024-0654,AI/ML Engineer,Kubernetes;Rust;React,Germany,105813.0,140984.0,True
+JOB-2024-0655,Frontend Engineer,TypeScript;Kubernetes;Docker,Remote,95609.0,126664.0,True
+JOB-2024-0656,Data Engineer,Node.js;AWS;Snowflake;React,Germany,104725.0,127914.0,True
+JOB-2024-0657,AI/ML Engineer,Go;Node.js;React;Kubernetes;Docker,Germany,65925.0,105612.0,False
+JOB-2024-0658,Data Engineer,Go;AWS;Node.js;Kubernetes,India,89808.0,153764.0,False
+JOB-2024-0659,Cloud Solutions Architect,PyTorch;Docker;Google Cloud;AWS;React;Go,United Kingdom,103687.0,153980.0,True
+JOB-2024-0660,Data Engineer,Rust;Google Cloud;Go;TypeScript;Kubernetes,United Kingdom,70764.0,95461.0,False
+JOB-2024-0661,Cloud Solutions Architect,PostgreSQL;Node.js;Python;Snowflake;PyTorch;TypeScript,United Kingdom,103596.0,170306.0,False
+JOB-2024-0662,Frontend Engineer,React;Go;Google Cloud,United States,65348.0,118371.0,True
+JOB-2024-0663,Cloud Solutions Architect,Google Cloud;Kubernetes;Go;PyTorch;Rust,Canada,83773.0,134157.0,True
+JOB-2024-0664,Data Engineer,Google Cloud;TypeScript;Python;AWS;Rust,India,87596.0,134647.0,True
+JOB-2024-0665,Data Engineer,AWS;Java;Node.js;TypeScript;Docker;Kubernetes,India,109731.0,152454.0,True
+JOB-2024-0666,Data Engineer,Python;Go;Google Cloud,United Kingdom,67586.0,93665.0,True
+JOB-2024-0667,DevOps Engineer,TypeScript;Kubernetes;React;Go;Docker;Google Cloud,Canada,94588.0,144564.0,True
+JOB-2024-0668,DevOps Engineer,PostgreSQL;Snowflake;Docker;SQL;Google Cloud,United Kingdom,87622.0,156997.0,True
+JOB-2024-0669,Frontend Engineer,Go;PostgreSQL;Kubernetes;Java;AWS;Rust,Canada,96651.0,135869.0,False
+JOB-2024-0670,AI/ML Engineer,Docker;PostgreSQL;AWS;React;Snowflake;Go,Remote,76807.0,125458.0,True
+JOB-2024-0671,Frontend Engineer,Java;Kubernetes;Go;PyTorch;Google Cloud,United Kingdom,94197.0,120789.0,True
+JOB-2024-0672,Cloud Solutions Architect,PyTorch;Rust;React,United Kingdom,109943.0,171088.0,True
+JOB-2024-0673,Frontend Engineer,PostgreSQL;Node.js;Go;Snowflake,United Kingdom,71998.0,95371.0,True
+JOB-2024-0674,Cloud Solutions Architect,TypeScript;React;Snowflake;SQL;Kubernetes,United Kingdom,73540.0,106996.0,False
+JOB-2024-0675,Data Engineer,Java;SQL;Node.js,Remote,94551.0,158252.0,True
+JOB-2024-0676,AI/ML Engineer,Rust;AWS;TypeScript;PostgreSQL;Docker,Germany,95545.0,159528.0,True
+JOB-2024-0677,Data Engineer,SQL;TypeScript;Kubernetes;PyTorch;Docker;AWS,Remote,66228.0,111140.0,True
+JOB-2024-0678,Backend Software Engineer,Go;Java;Rust;Node.js;SQL,Canada,80164.0,110368.0,False
+JOB-2024-0679,DevOps Engineer,Node.js;Rust;PyTorch;Kubernetes;Java;Docker,Canada,94435.0,131243.0,False
+JOB-2024-0680,Backend Software Engineer,SQL;Google Cloud;PostgreSQL;React,India,98485.0,160872.0,False
+JOB-2024-0681,Data Engineer,Google Cloud;Snowflake;React;Go,Canada,61953.0,124021.0,False
+JOB-2024-0682,Backend Software Engineer,Go;Google Cloud;SQL;Snowflake;Kubernetes;Python,India,69514.0,122461.0,True
+JOB-2024-0683,DevOps Engineer,Docker;React;AWS,Germany,75638.0,107624.0,True
+JOB-2024-0684,Backend Software Engineer,Python;TypeScript;SQL;Go,United States,95243.0,147326.0,True
+JOB-2024-0685,Full Stack Developer,Rust;Kubernetes;Google Cloud,India,66591.0,131710.0,False
+JOB-2024-0686,AI/ML Engineer,Snowflake;React;Rust;Java;PostgreSQL,Remote,63293.0,92292.0,True
+JOB-2024-0687,Backend Software Engineer,PyTorch;Google Cloud;TypeScript,United Kingdom,101714.0,150066.0,True
+JOB-2024-0688,Full Stack Developer,Java;Node.js;Docker,India,84518.0,126143.0,False
+JOB-2024-0689,Full Stack Developer,PyTorch;Java;Snowflake,Germany,70085.0,131561.0,False
+JOB-2024-0690,DevOps Engineer,PostgreSQL;Google Cloud;Snowflake,United States,67576.0,129512.0,True
+JOB-2024-0691,DevOps Engineer,Snowflake;TypeScript;Kubernetes;React;SQL,United Kingdom,88077.0,131442.0,True
+JOB-2024-0692,Frontend Engineer,Go;Kubernetes;TypeScript,Germany,91377.0,156733.0,False
+JOB-2024-0693,Backend Software Engineer,Python;TypeScript;PostgreSQL;React;Docker;Rust,United States,71881.0,94194.0,False
+JOB-2024-0694,Backend Software Engineer,Node.js;React;PostgreSQL;Java,Remote,97874.0,155175.0,True
+JOB-2024-0695,Frontend Engineer,Rust;TypeScript;Kubernetes,Germany,109076.0,164113.0,False
+JOB-2024-0696,Full Stack Developer,Docker;Kubernetes;Node.js;Google Cloud;PyTorch;Java,United Kingdom,68939.0,89331.0,True
+JOB-2024-0697,Frontend Engineer,Python;Google Cloud;Go;Java;Docker;Kubernetes,Remote,81291.0,134692.0,True
+JOB-2024-0698,DevOps Engineer,Google Cloud;Rust;SQL;PyTorch,Remote,87972.0,122171.0,True
+JOB-2024-0699,Cloud Solutions Architect,PyTorch;SQL;Google Cloud;TypeScript,United States,88198.0,115114.0,True
+JOB-2024-0700,AI/ML Engineer,Go;Kubernetes;SQL,United Kingdom,69867.0,130397.0,True
+JOB-2024-0701,DevOps Engineer,Snowflake;Go;SQL;Python,India,100046.0,120823.0,False
+JOB-2024-0702,AI/ML Engineer,Snowflake;TypeScript;Go;Kubernetes,Canada,62697.0,90483.0,False
+JOB-2024-0703,AI/ML Engineer,SQL;TypeScript;Google Cloud;Snowflake;Python;AWS,Canada,62993.0,105410.0,False
+JOB-2024-0704,Full Stack Developer,Snowflake;Go;Java,Canada,104939.0,150981.0,True
+JOB-2024-0705,Backend Software Engineer,Java;React;SQL;TypeScript;AWS,Germany,68682.0,92964.0,False
+JOB-2024-0706,Cloud Solutions Architect,AWS;TypeScript;Kubernetes;PostgreSQL;Snowflake;Google Cloud,India,104392.0,138122.0,True
+JOB-2024-0707,Backend Software Engineer,PostgreSQL;Google Cloud;Python;PyTorch;Java,United Kingdom,99588.0,168031.0,True
+JOB-2024-0708,Frontend Engineer,Google Cloud;AWS;Snowflake,Canada,85460.0,146783.0,False
+JOB-2024-0709,Cloud Solutions Architect,SQL;Java;AWS;PyTorch;Kubernetes,India,99565.0,128361.0,False
+JOB-2024-0710,Full Stack Developer,Snowflake;React;Google Cloud;PostgreSQL;Docker;Node.js,India,88590.0,149283.0,True
+JOB-2024-0711,Frontend Engineer,PyTorch;Google Cloud;React;SQL;Python,India,107336.0,172050.0,False
+JOB-2024-0712,Cloud Solutions Architect,Kubernetes;PyTorch;Google Cloud,United States,89889.0,124046.0,False
+JOB-2024-0713,Frontend Engineer,PyTorch;Google Cloud;PostgreSQL;Docker;Snowflake,India,89322.0,119696.0,False
+JOB-2024-0714,Cloud Solutions Architect,Google Cloud;Go;AWS,United Kingdom,71245.0,132099.0,False
+JOB-2024-0715,DevOps Engineer,SQL;Java;Docker;Kubernetes,United States,102172.0,142572.0,False
+JOB-2024-0716,Cloud Solutions Architect,Rust;Google Cloud;React,United States,97509.0,139387.0,False
+JOB-2024-0717,Frontend Engineer,Rust;Python;SQL;AWS;Go,United Kingdom,62535.0,112756.0,False
+JOB-2024-0718,AI/ML Engineer,React;Snowflake;SQL;Kubernetes,India,84717.0,115204.0,True
+JOB-2024-0719,DevOps Engineer,PostgreSQL;Rust;Docker;Snowflake;Java,United States,84127.0,133710.0,False
+JOB-2024-0720,Full Stack Developer,Python;PostgreSQL;React;Docker;Snowflake,United States,69535.0,134321.0,False
+JOB-2024-0721,Data Engineer,React;TypeScript;Java;Snowflake;Python,United Kingdom,85909.0,128329.0,True
+JOB-2024-0722,AI/ML Engineer,PostgreSQL;Python;Java;React;Docker;Snowflake,Canada,89211.0,133940.0,False
+JOB-2024-0723,Backend Software Engineer,Rust;PostgreSQL;PyTorch,Canada,79653.0,109329.0,False
+JOB-2024-0724,Cloud Solutions Architect,React;Docker;Rust;PostgreSQL,Canada,74171.0,119676.0,False
+JOB-2024-0725,Cloud Solutions Architect,SQL;TypeScript;PostgreSQL;Snowflake,India,88417.0,110920.0,False
+JOB-2024-0726,AI/ML Engineer,Kubernetes;Python;Rust;PyTorch;TypeScript;AWS,Canada,83835.0,126569.0,False
+JOB-2024-0727,Backend Software Engineer,Rust;AWS;Go,United States,62148.0,123323.0,False
+JOB-2024-0728,Data Engineer,Snowflake;Google Cloud;React;PyTorch;Docker;SQL,United States,85931.0,107807.0,False
+JOB-2024-0729,Backend Software Engineer,AWS;PyTorch;PostgreSQL;Kubernetes;Google Cloud;Docker,United States,88787.0,135871.0,False
+JOB-2024-0730,Frontend Engineer,Google Cloud;Java;Rust;PyTorch;PostgreSQL,Remote,76369.0,116599.0,True
+JOB-2024-0731,Full Stack Developer,Docker;Java;Go;Python;Kubernetes;TypeScript,Canada,62075.0,98852.0,False
+JOB-2024-0732,Cloud Solutions Architect,Kubernetes;TypeScript;Rust;Snowflake;AWS;Java,United Kingdom,85302.0,151268.0,False
+JOB-2024-0733,Frontend Engineer,Rust;Snowflake;Python;React;AWS;Docker,United Kingdom,86876.0,143210.0,False
+JOB-2024-0734,AI/ML Engineer,Snowflake;PostgreSQL;Google Cloud,India,93686.0,128878.0,True
+JOB-2024-0735,Frontend Engineer,Node.js;Google Cloud;Snowflake;Python,India,83029.0,134943.0,True
+JOB-2024-0736,Full Stack Developer,Rust;TypeScript;SQL;Node.js;PostgreSQL;Java,United States,90161.0,127044.0,False
+JOB-2024-0737,Frontend Engineer,React;Google Cloud;PostgreSQL;AWS;Java;Docker,Canada,84733.0,140653.0,True
+JOB-2024-0738,Full Stack Developer,Rust;AWS;Node.js;SQL;Go;PostgreSQL,United Kingdom,99944.0,129409.0,False
+JOB-2024-0739,Frontend Engineer,PyTorch;Python;Rust;React;Snowflake,Canada,84747.0,109900.0,True
+JOB-2024-0740,AI/ML Engineer,Java;Kubernetes;Go;Rust;Google Cloud,United States,73143.0,139443.0,False
+JOB-2024-0741,AI/ML Engineer,Rust;Snowflake;AWS;Node.js;Go,Canada,88073.0,139002.0,True
+JOB-2024-0742,AI/ML Engineer,Java;Docker;Rust;Kubernetes;SQL;Snowflake,Germany,74187.0,132859.0,True
+JOB-2024-0743,DevOps Engineer,Docker;Java;React;SQL,United Kingdom,97190.0,155131.0,False
+JOB-2024-0744,Cloud Solutions Architect,PostgreSQL;AWS;TypeScript;SQL,United Kingdom,90331.0,119892.0,False
+JOB-2024-0745,Backend Software Engineer,SQL;Go;Google Cloud;PyTorch,India,109556.0,165235.0,True
+JOB-2024-0746,Backend Software Engineer,Go;AWS;TypeScript;SQL,Germany,92695.0,131114.0,True
+JOB-2024-0747,Full Stack Developer,Rust;AWS;Node.js;Go,Germany,99983.0,168692.0,True
+JOB-2024-0748,DevOps Engineer,Google Cloud;Snowflake;Java;Kubernetes;Node.js;React,United Kingdom,71007.0,99967.0,True
+JOB-2024-0749,Backend Software Engineer,Kubernetes;Docker;Rust;Google Cloud;Python;PyTorch,United Kingdom,79996.0,138366.0,False
+JOB-2024-0750,Cloud Solutions Architect,Docker;Java;Snowflake,Canada,89004.0,148558.0,False
+JOB-2024-0751,AI/ML Engineer,Snowflake;React;SQL;Google Cloud,Remote,80137.0,123907.0,True
+JOB-2024-0752,Backend Software Engineer,SQL;Kubernetes;Snowflake,United States,79478.0,130561.0,False
+JOB-2024-0753,Cloud Solutions Architect,Go;Python;SQL;TypeScript;Java,Remote,67139.0,96231.0,True
+JOB-2024-0754,Data Engineer,Go;Java;PostgreSQL;React,India,100311.0,129032.0,True
+JOB-2024-0755,Data Engineer,SQL;TypeScript;Java,United States,72189.0,121524.0,False
+JOB-2024-0756,Data Engineer,Docker;Google Cloud;Node.js;PyTorch;PostgreSQL,Canada,106671.0,131903.0,False
+JOB-2024-0757,Frontend Engineer,Java;React;Go,United Kingdom,77875.0,105029.0,False
+JOB-2024-0758,Backend Software Engineer,PyTorch;React;TypeScript,India,69590.0,118045.0,False
+JOB-2024-0759,Full Stack Developer,React;Snowflake;Rust;AWS;Python;PostgreSQL,Canada,93702.0,153583.0,False
+JOB-2024-0760,Data Engineer,SQL;PyTorch;PostgreSQL;Go;TypeScript;React,Canada,69211.0,121154.0,False
+JOB-2024-0761,DevOps Engineer,Java;SQL;PyTorch;Node.js;React;PostgreSQL,Remote,104535.0,146229.0,True
+JOB-2024-0762,DevOps Engineer,React;PostgreSQL;Go;Docker;AWS;Java,United States,99303.0,121206.0,False
+JOB-2024-0763,Full Stack Developer,PyTorch;Go;Node.js,United Kingdom,105457.0,144497.0,True
+JOB-2024-0764,Data Engineer,TypeScript;Java;Python;SQL;Docker,United States,108436.0,155495.0,True
+JOB-2024-0765,Data Engineer,React;Node.js;AWS,United States,96050.0,141452.0,False
+JOB-2024-0766,Frontend Engineer,PyTorch;SQL;Python;Go,Remote,87739.0,143225.0,True
+JOB-2024-0767,Data Engineer,React;Google Cloud;PostgreSQL;PyTorch,Remote,65099.0,103625.0,True
+JOB-2024-0768,Data Engineer,AWS;PostgreSQL;Go;Kubernetes;Snowflake;Docker,Remote,64129.0,91684.0,True
+JOB-2024-0769,Frontend Engineer,React;Rust;TypeScript;Google Cloud,Remote,69065.0,97219.0,True
+JOB-2024-0770,Frontend Engineer,Python;Docker;Node.js;Kubernetes;Java,United States,74868.0,99889.0,False
+JOB-2024-0771,Backend Software Engineer,Node.js;Python;Kubernetes;React;Java;Docker,Germany,108600.0,139403.0,False
+JOB-2024-0772,Backend Software Engineer,Java;TypeScript;Rust;PostgreSQL;React,India,98679.0,132306.0,False
+JOB-2024-0773,Full Stack Developer,Rust;PyTorch;Snowflake;Python;React,United States,78780.0,147789.0,False
+JOB-2024-0774,Full Stack Developer,Rust;Docker;Kubernetes;Node.js,Canada,101225.0,128706.0,False
+JOB-2024-0775,AI/ML Engineer,PostgreSQL;Kubernetes;Rust,United Kingdom,108488.0,175995.0,True
+JOB-2024-0776,Backend Software Engineer,PyTorch;Rust;SQL,Remote,69785.0,133088.0,True
+JOB-2024-0777,Data Engineer,React;PyTorch;Snowflake;PostgreSQL;Google Cloud;Rust,India,60956.0,112114.0,True
+JOB-2024-0778,DevOps Engineer,PostgreSQL;Docker;AWS;Snowflake;Kubernetes;Java,Remote,62800.0,93543.0,True
+JOB-2024-0779,Frontend Engineer,Docker;TypeScript;Google Cloud;Java,Germany,85205.0,148070.0,False
+JOB-2024-0780,Frontend Engineer,AWS;Docker;Java;PostgreSQL,United Kingdom,64146.0,134047.0,False
+JOB-2024-0781,Frontend Engineer,Python;React;Go;Java,Canada,104644.0,174298.0,True
+JOB-2024-0782,Frontend Engineer,Python;TypeScript;Rust;Docker;SQL,Canada,93823.0,122442.0,True
+JOB-2024-0783,Full Stack Developer,Google Cloud;Snowflake;SQL;AWS;Node.js;Kubernetes,Germany,101655.0,149868.0,False
+JOB-2024-0784,Cloud Solutions Architect,Java;React;PyTorch;Go;Google Cloud;TypeScript,Canada,64179.0,98286.0,True
+JOB-2024-0785,Frontend Engineer,React;Snowflake;Kubernetes;SQL;Go;Rust,India,71330.0,111993.0,True
+JOB-2024-0786,DevOps Engineer,PostgreSQL;Docker;Java;Rust,United Kingdom,79613.0,135121.0,False
+JOB-2024-0787,Backend Software Engineer,Kubernetes;AWS;Go;Python;TypeScript,Germany,103925.0,145384.0,False
+JOB-2024-0788,Data Engineer,AWS;Kubernetes;Java;SQL,Canada,94791.0,138091.0,True
+JOB-2024-0789,AI/ML Engineer,Google Cloud;Node.js;SQL,Remote,85206.0,116911.0,True
+JOB-2024-0790,Backend Software Engineer,PyTorch;Go;Snowflake;Docker;AWS;Python,Canada,91487.0,143911.0,True
+JOB-2024-0791,Data Engineer,TypeScript;Go;Node.js;PostgreSQL,India,73898.0,109558.0,False
+JOB-2024-0792,Frontend Engineer,AWS;TypeScript;Go;PostgreSQL,United Kingdom,87609.0,148863.0,False
+JOB-2024-0793,Cloud Solutions Architect,Node.js;Snowflake;Rust;Kubernetes;React;PostgreSQL,United Kingdom,101134.0,135239.0,True
+JOB-2024-0794,Backend Software Engineer,Node.js;PyTorch;Docker,Remote,76923.0,112815.0,True
+JOB-2024-0795,DevOps Engineer,Python;Google Cloud;TypeScript;PostgreSQL;Snowflake,Remote,80778.0,132824.0,True
+JOB-2024-0796,Cloud Solutions Architect,Go;AWS;Snowflake;Google Cloud,Canada,103146.0,139982.0,False
+JOB-2024-0797,Frontend Engineer,Kubernetes;AWS;Python,Canada,77331.0,113735.0,True
+JOB-2024-0798,Data Engineer,Rust;SQL;Kubernetes;Go;Docker;Node.js,United Kingdom,88958.0,133484.0,True
+JOB-2024-0799,DevOps Engineer,Node.js;TypeScript;Google Cloud;Rust,United States,90502.0,123459.0,False
+JOB-2024-0800,Backend Software Engineer,Docker;Go;TypeScript;Python;React;PostgreSQL,Canada,103630.0,172841.0,True
+JOB-2024-0801,Data Engineer,Kubernetes;TypeScript;React;AWS,Canada,75018.0,138653.0,True
+JOB-2024-0802,Backend Software Engineer,Google Cloud;SQL;Snowflake;React,India,63833.0,93631.0,False
+JOB-2024-0803,Cloud Solutions Architect,Kubernetes;Snowflake;SQL;Docker;Rust;PostgreSQL,India,107648.0,173139.0,True
+JOB-2024-0804,AI/ML Engineer,Google Cloud;Docker;Node.js;PostgreSQL;Snowflake;TypeScript,Canada,106510.0,160282.0,False
+JOB-2024-0805,Frontend Engineer,Google Cloud;SQL;PostgreSQL;Go;Kubernetes,Germany,62536.0,110316.0,True
+JOB-2024-0806,Full Stack Developer,PostgreSQL;Docker;Kubernetes;Snowflake;TypeScript,India,99833.0,150577.0,False
+JOB-2024-0807,Cloud Solutions Architect,Rust;SQL;TypeScript;Node.js,Germany,94135.0,140147.0,True
+JOB-2024-0808,Frontend Engineer,Node.js;Go;Java;PostgreSQL;Python;Rust,United States,101241.0,135063.0,False
+JOB-2024-0809,Full Stack Developer,Docker;Node.js;SQL;Snowflake;Java,Germany,106085.0,155909.0,False
+JOB-2024-0810,Cloud Solutions Architect,SQL;AWS;Snowflake;TypeScript,India,102441.0,163983.0,True
+JOB-2024-0811,DevOps Engineer,Snowflake;React;Java;Docker,Remote,68006.0,105018.0,True
+JOB-2024-0812,AI/ML Engineer,Python;Rust;Node.js;SQL,United Kingdom,89308.0,134750.0,False
+JOB-2024-0813,Data Engineer,Google Cloud;Java;Python;PostgreSQL;Go,India,62182.0,126051.0,False
+JOB-2024-0814,DevOps Engineer,PostgreSQL;React;Python;Node.js;Go;Rust,Remote,91417.0,116578.0,True
+JOB-2024-0815,DevOps Engineer,Java;Kubernetes;Docker;PostgreSQL;Snowflake,Germany,75784.0,111460.0,True
+JOB-2024-0816,DevOps Engineer,Python;React;Google Cloud;Rust;PyTorch;Snowflake,United Kingdom,76456.0,133765.0,False
+JOB-2024-0817,Data Engineer,React;Go;PyTorch;Python;AWS;Java,United States,70506.0,120192.0,True
+JOB-2024-0818,Full Stack Developer,PyTorch;Node.js;Go,India,105380.0,164866.0,False
+JOB-2024-0819,DevOps Engineer,SQL;React;Google Cloud,India,89197.0,135277.0,True
+JOB-2024-0820,Cloud Solutions Architect,PyTorch;TypeScript;PostgreSQL;Kubernetes;Google Cloud,India,104401.0,134295.0,False
+JOB-2024-0821,Data Engineer,PyTorch;Rust;PostgreSQL;Java;Go,United States,95313.0,132116.0,True
+JOB-2024-0822,Data Engineer,React;SQL;Snowflake;Rust;AWS;TypeScript,United States,98118.0,145027.0,True
+JOB-2024-0823,Backend Software Engineer,SQL;Snowflake;TypeScript;Java;Rust;PyTorch,Canada,91988.0,153126.0,True
+JOB-2024-0824,Cloud Solutions Architect,Go;Docker;Google Cloud;PostgreSQL,Remote,107015.0,127903.0,True
+JOB-2024-0825,Full Stack Developer,SQL;Docker;React;AWS,Germany,92116.0,134145.0,True
+JOB-2024-0826,Cloud Solutions Architect,PyTorch;Snowflake;Google Cloud;TypeScript;SQL;Go,India,98068.0,134304.0,True
+JOB-2024-0827,Backend Software Engineer,React;Rust;Snowflake;Google Cloud,Germany,83043.0,147048.0,False
+JOB-2024-0828,AI/ML Engineer,Java;Node.js;SQL;Go,Remote,96806.0,125633.0,True
+JOB-2024-0829,Data Engineer,Docker;Kubernetes;Java;Python;React,India,104149.0,154601.0,True
+JOB-2024-0830,Backend Software Engineer,TypeScript;Go;SQL,United Kingdom,90284.0,147577.0,True
+JOB-2024-0831,Backend Software Engineer,Docker;TypeScript;Snowflake,Germany,107055.0,148979.0,False
+JOB-2024-0832,Frontend Engineer,Java;Rust;PyTorch,Germany,89780.0,124553.0,False
+JOB-2024-0833,Data Engineer,Kubernetes;TypeScript;Docker,United States,89670.0,134134.0,True
+JOB-2024-0834,Backend Software Engineer,Snowflake;Kubernetes;Google Cloud;AWS;Rust;PostgreSQL,Canada,75210.0,123995.0,True
+JOB-2024-0835,Cloud Solutions Architect,Docker;Python;PostgreSQL;SQL;AWS;Rust,Germany,75994.0,112303.0,False
+JOB-2024-0836,Backend Software Engineer,Java;SQL;Google Cloud;Docker;TypeScript,Remote,89557.0,158164.0,True
+JOB-2024-0837,AI/ML Engineer,Node.js;Go;SQL;Java,United Kingdom,75007.0,139815.0,False
+JOB-2024-0838,Full Stack Developer,PostgreSQL;PyTorch;React;Node.js;AWS;Go,India,60790.0,85984.0,False
+JOB-2024-0839,DevOps Engineer,Java;Kubernetes;Go;Google Cloud;Rust;PyTorch,Germany,87413.0,107695.0,True
+JOB-2024-0840,Full Stack Developer,Python;AWS;Rust;PostgreSQL;Snowflake;TypeScript,Canada,96766.0,145062.0,False
+JOB-2024-0841,Frontend Engineer,Google Cloud;PostgreSQL;React;Python;Go;Kubernetes,United Kingdom,103871.0,163371.0,True
+JOB-2024-0842,Frontend Engineer,PostgreSQL;React;Java;PyTorch;Python,Germany,67722.0,99400.0,False
+JOB-2024-0843,Backend Software Engineer,React;Docker;Node.js;Go;Kubernetes,India,97824.0,144256.0,True
+JOB-2024-0844,Backend Software Engineer,Google Cloud;PyTorch;TypeScript;AWS,Remote,102811.0,140024.0,True
+JOB-2024-0845,Data Engineer,PyTorch;Java;Go;TypeScript;PostgreSQL,Canada,67739.0,129567.0,False
+JOB-2024-0846,Frontend Engineer,Google Cloud;PyTorch;Node.js,Germany,66742.0,127233.0,True
+JOB-2024-0847,Data Engineer,AWS;PostgreSQL;Java,United Kingdom,92114.0,119874.0,True
+JOB-2024-0848,Data Engineer,Java;TypeScript;Google Cloud,Canada,106191.0,175513.0,False
+JOB-2024-0849,Data Engineer,PyTorch;Node.js;SQL;Rust;React,Canada,99243.0,160071.0,True
+JOB-2024-0850,Frontend Engineer,PostgreSQL;SQL;Kubernetes;AWS,Canada,85350.0,142027.0,False
+JOB-2024-0851,Full Stack Developer,React;TypeScript;AWS;Snowflake;PyTorch,Canada,76141.0,112985.0,False
+JOB-2024-0852,Full Stack Developer,PostgreSQL;Python;SQL;Docker;Rust;TypeScript,United Kingdom,79311.0,119567.0,True
+JOB-2024-0853,Data Engineer,React;Python;Node.js;Go;Rust,United States,83077.0,107003.0,False
+JOB-2024-0854,Frontend Engineer,SQL;PostgreSQL;Rust;Go;AWS;Kubernetes,Canada,84165.0,138300.0,True
+JOB-2024-0855,Data Engineer,Snowflake;Rust;Google Cloud;Node.js,United Kingdom,68013.0,119859.0,True
+JOB-2024-0856,DevOps Engineer,SQL;Java;Node.js,United States,97647.0,141287.0,False
+JOB-2024-0857,Data Engineer,Node.js;Rust;Java;Kubernetes,India,90777.0,154661.0,False
+JOB-2024-0858,Full Stack Developer,Go;SQL;Docker;React,Remote,69410.0,132086.0,True
+JOB-2024-0859,AI/ML Engineer,Google Cloud;SQL;AWS;Python;Go,India,78021.0,132679.0,True
+JOB-2024-0860,Cloud Solutions Architect,Kubernetes;AWS;SQL;Go;React;Java,United Kingdom,92791.0,159978.0,False
+JOB-2024-0861,Backend Software Engineer,PostgreSQL;React;Rust,Remote,101285.0,162391.0,True
+JOB-2024-0862,Data Engineer,Snowflake;Rust;Kubernetes;Go;TypeScript;Node.js,Remote,62634.0,120782.0,True
+JOB-2024-0863,Cloud Solutions Architect,Docker;React;TypeScript;Snowflake;Go,Germany,105339.0,138289.0,False
+JOB-2024-0864,Cloud Solutions Architect,AWS;Kubernetes;Google Cloud;React;Go;Snowflake,India,101791.0,139524.0,True
+JOB-2024-0865,Data Engineer,Google Cloud;SQL;Go;Rust;React;Docker,Canada,100154.0,133676.0,False
+JOB-2024-0866,Data Engineer,Node.js;Java;Snowflake;PyTorch;Docker,United States,101558.0,130123.0,False
+JOB-2024-0867,AI/ML Engineer,TypeScript;React;Go,United Kingdom,82281.0,123636.0,False
+JOB-2024-0868,AI/ML Engineer,React;Node.js;Snowflake;Rust,Canada,71399.0,107483.0,True
+JOB-2024-0869,Backend Software Engineer,Python;Go;PyTorch,United Kingdom,90107.0,148249.0,True
+JOB-2024-0870,Data Engineer,TypeScript;Java;PyTorch,Remote,105194.0,159128.0,True
+JOB-2024-0871,Frontend Engineer,Python;PyTorch;Snowflake;Docker;Rust,India,77008.0,133139.0,True
+JOB-2024-0872,AI/ML Engineer,Go;PostgreSQL;PyTorch;Rust,Remote,66527.0,124702.0,True
+JOB-2024-0873,AI/ML Engineer,PostgreSQL;Snowflake;Java;Python;Rust;Google Cloud,United Kingdom,93796.0,145277.0,True
+JOB-2024-0874,Frontend Engineer,Rust;PostgreSQL;AWS;Java;PyTorch;Node.js,India,92520.0,113896.0,False
+JOB-2024-0875,DevOps Engineer,React;AWS;PyTorch;Node.js;Rust;Java,Germany,79236.0,136402.0,False
+JOB-2024-0876,Cloud Solutions Architect,Python;AWS;Go;PyTorch;SQL;Rust,Germany,93515.0,141464.0,True
+JOB-2024-0877,Backend Software Engineer,Snowflake;Java;Kubernetes,Germany,73386.0,95604.0,True
+JOB-2024-0878,AI/ML Engineer,SQL;PyTorch;Snowflake;TypeScript;Go,Canada,75010.0,133484.0,True
+JOB-2024-0879,DevOps Engineer,Docker;TypeScript;Java;React;Rust;Python,India,89596.0,110502.0,True
+JOB-2024-0880,Data Engineer,Snowflake;PyTorch;React,United States,73314.0,121288.0,True
+JOB-2024-0881,Data Engineer,Node.js;Snowflake;Google Cloud;Python;React;Docker,Germany,91759.0,138481.0,True
+JOB-2024-0882,Data Engineer,TypeScript;Java;Google Cloud;Go,Germany,106253.0,150890.0,False
+JOB-2024-0883,DevOps Engineer,PostgreSQL;AWS;Rust;Python;Node.js,Remote,77208.0,143759.0,True
+JOB-2024-0884,Backend Software Engineer,Java;Go;Rust;Kubernetes,United States,80626.0,121701.0,False
+JOB-2024-0885,Cloud Solutions Architect,SQL;PostgreSQL;Python;Java,Canada,81263.0,140424.0,False
+JOB-2024-0886,Data Engineer,TypeScript;Docker;Kubernetes;PostgreSQL,United Kingdom,108572.0,139708.0,True
+JOB-2024-0887,Backend Software Engineer,AWS;Go;Python;Kubernetes,India,89141.0,115877.0,False
+JOB-2024-0888,AI/ML Engineer,SQL;TypeScript;PyTorch;Snowflake;Node.js;Rust,United Kingdom,82248.0,142271.0,False
+JOB-2024-0889,Full Stack Developer,Go;Rust;Java,India,63674.0,101394.0,True
+JOB-2024-0890,Full Stack Developer,React;Rust;PyTorch;Snowflake,Remote,74818.0,97056.0,True
+JOB-2024-0891,Backend Software Engineer,Python;TypeScript;Docker;Rust;Google Cloud;AWS,Remote,80722.0,132936.0,True
+JOB-2024-0892,Data Engineer,TypeScript;Java;Kubernetes;Rust;PyTorch,United States,84726.0,146025.0,False
+JOB-2024-0893,AI/ML Engineer,Snowflake;Java;Python;Google Cloud;Docker;React,India,83287.0,127756.0,False
+JOB-2024-0894,DevOps Engineer,Google Cloud;PostgreSQL;Node.js;Rust;Kubernetes,United States,99951.0,122657.0,False
+JOB-2024-0895,Backend Software Engineer,Rust;PostgreSQL;TypeScript;Snowflake,Remote,60626.0,81194.0,True
+JOB-2024-0896,Backend Software Engineer,SQL;Docker;Rust;Node.js;AWS,Remote,92204.0,135925.0,True
+JOB-2024-0897,Frontend Engineer,React;Rust;Google Cloud;Python;TypeScript;Snowflake,Canada,83921.0,123660.0,False
+JOB-2024-0898,Backend Software Engineer,React;Snowflake;AWS;Node.js,India,77021.0,113419.0,False
+JOB-2024-0899,Backend Software Engineer,Google Cloud;Python;AWS;PostgreSQL;Java,United Kingdom,89569.0,154429.0,False
+JOB-2024-0900,AI/ML Engineer,React;SQL;Node.js,United States,107797.0,134526.0,False
+JOB-2024-0901,DevOps Engineer,AWS;SQL;Python;PyTorch;Kubernetes;Go,United States,79091.0,135106.0,False
+JOB-2024-0902,Data Engineer,Rust;AWS;Google Cloud;Python;Java,Canada,103764.0,154686.0,False
+JOB-2024-0903,Frontend Engineer,PostgreSQL;Rust;Go,India,75116.0,121863.0,True
+JOB-2024-0904,Cloud Solutions Architect,SQL;Snowflake;Google Cloud,Remote,96883.0,146041.0,True
+JOB-2024-0905,Backend Software Engineer,Go;Java;Rust,India,105341.0,148850.0,False
+JOB-2024-0906,Full Stack Developer,Go;Docker;PostgreSQL,Germany,91284.0,152027.0,True
+JOB-2024-0907,Full Stack Developer,Snowflake;PostgreSQL;Docker;PyTorch;Rust,India,107017.0,152150.0,True
+JOB-2024-0908,Cloud Solutions Architect,PyTorch;React;Java;Kubernetes,Canada,79382.0,131802.0,False
+JOB-2024-0909,AI/ML Engineer,SQL;Kubernetes;Go,Germany,102106.0,171273.0,False
+JOB-2024-0910,Cloud Solutions Architect,Rust;React;AWS;SQL,United Kingdom,108347.0,140645.0,False
+JOB-2024-0911,Full Stack Developer,TypeScript;PostgreSQL;Google Cloud;AWS;PyTorch;Python,Remote,61951.0,109290.0,True
+JOB-2024-0912,DevOps Engineer,Rust;Go;TypeScript;Node.js;AWS,United States,67317.0,111798.0,False
+JOB-2024-0913,Cloud Solutions Architect,Go;Rust;PostgreSQL;SQL;Snowflake;Java,Canada,71290.0,132498.0,False
+JOB-2024-0914,DevOps Engineer,Java;PostgreSQL;Rust;AWS,United Kingdom,105665.0,144046.0,True
+JOB-2024-0915,Full Stack Developer,Kubernetes;Rust;Python,Canada,93315.0,155314.0,False
+JOB-2024-0916,Full Stack Developer,Python;SQL;React;Kubernetes;Node.js;Google Cloud,India,88009.0,124259.0,False
+JOB-2024-0917,Frontend Engineer,PyTorch;TypeScript;SQL;PostgreSQL;Java,Canada,102958.0,123092.0,False
+JOB-2024-0918,Backend Software Engineer,React;PyTorch;Kubernetes;Snowflake;PostgreSQL;Python,United Kingdom,84330.0,147603.0,True
+JOB-2024-0919,DevOps Engineer,Node.js;Go;Python;Rust;SQL,Remote,87052.0,151751.0,True
+JOB-2024-0920,Backend Software Engineer,Node.js;Snowflake;SQL,United Kingdom,99669.0,165656.0,False
+JOB-2024-0921,Full Stack Developer,Rust;Docker;Kubernetes;Java,Canada,88197.0,125450.0,False
+JOB-2024-0922,Frontend Engineer,PyTorch;Node.js;SQL;Python;React;AWS,India,108389.0,164633.0,True
+JOB-2024-0923,Cloud Solutions Architect,Go;SQL;Rust;Python;TypeScript;Java,United Kingdom,65926.0,104774.0,True
+JOB-2024-0924,AI/ML Engineer,Node.js;Rust;AWS;TypeScript;PyTorch;SQL,United Kingdom,87973.0,139902.0,False
+JOB-2024-0925,Backend Software Engineer,Kubernetes;Go;AWS;SQL;Snowflake;React,United Kingdom,77936.0,107735.0,False
+JOB-2024-0926,Frontend Engineer,SQL;TypeScript;PyTorch;Python;Docker,United Kingdom,73016.0,111210.0,False
+JOB-2024-0927,DevOps Engineer,Go;Rust;PyTorch,India,103862.0,167263.0,False
+JOB-2024-0928,DevOps Engineer,Google Cloud;PyTorch;Kubernetes;SQL,United States,81312.0,137258.0,False
+JOB-2024-0929,Data Engineer,SQL;Node.js;AWS;Docker;React;PyTorch,United States,81440.0,131774.0,False
+JOB-2024-0930,Full Stack Developer,Java;React;Go;Rust;Snowflake;TypeScript,Germany,74160.0,143200.0,True
+JOB-2024-0931,Full Stack Developer,Snowflake;AWS;Node.js;Java;Rust;SQL,United States,97937.0,164206.0,True
+JOB-2024-0932,Frontend Engineer,Go;React;PyTorch;Rust,Germany,79806.0,110598.0,True
+JOB-2024-0933,Full Stack Developer,Google Cloud;Kubernetes;PostgreSQL;React;Node.js;AWS,India,86052.0,146515.0,True
+JOB-2024-0934,AI/ML Engineer,Docker;Snowflake;React;AWS,Germany,75042.0,108181.0,False
+JOB-2024-0935,AI/ML Engineer,Rust;Python;Docker;Kubernetes;PyTorch,Canada,92651.0,142272.0,True
+JOB-2024-0936,DevOps Engineer,AWS;Java;SQL,Germany,80993.0,107256.0,True
+JOB-2024-0937,Full Stack Developer,Kubernetes;Node.js;React;PyTorch,United Kingdom,66845.0,126551.0,True
+JOB-2024-0938,Data Engineer,PyTorch;Kubernetes;Python,Canada,64934.0,132013.0,False
+JOB-2024-0939,Backend Software Engineer,Python;Java;PostgreSQL,Canada,67501.0,92272.0,False
+JOB-2024-0940,Data Engineer,Node.js;Google Cloud;Snowflake;Go,United Kingdom,102263.0,154348.0,False
+JOB-2024-0941,DevOps Engineer,AWS;Python;Rust,India,107035.0,153685.0,False
+JOB-2024-0942,Full Stack Developer,React;Java;Docker;SQL;Python;AWS,United Kingdom,69170.0,103276.0,True
+JOB-2024-0943,Data Engineer,React;Java;TypeScript;Rust;PostgreSQL,Canada,91892.0,120069.0,False
+JOB-2024-0944,Cloud Solutions Architect,Rust;Node.js;Docker;Kubernetes;Python;AWS,Germany,86947.0,125302.0,False
+JOB-2024-0945,Full Stack Developer,TypeScript;Python;PyTorch;PostgreSQL,Germany,93962.0,130496.0,False
+JOB-2024-0946,Backend Software Engineer,Java;Go;AWS;TypeScript;PyTorch;React,Remote,90566.0,142672.0,True
+JOB-2024-0947,Data Engineer,Rust;Google Cloud;Python;React;Go,United Kingdom,107160.0,128475.0,True
+JOB-2024-0948,Backend Software Engineer,Go;Python;Snowflake;Docker,India,83267.0,113908.0,False
+JOB-2024-0949,Cloud Solutions Architect,React;PostgreSQL;Go;Docker,Remote,60070.0,97629.0,True
+JOB-2024-0950,Cloud Solutions Architect,Google Cloud;SQL;React,Canada,72894.0,138763.0,False
+JOB-2024-0951,AI/ML Engineer,Rust;Go;TypeScript;PyTorch;Docker,United Kingdom,83576.0,149016.0,True
+JOB-2024-0952,DevOps Engineer,Google Cloud;Node.js;AWS;PostgreSQL;Go;Java,United Kingdom,65014.0,127188.0,True
+JOB-2024-0953,Cloud Solutions Architect,AWS;Docker;Google Cloud;Go;Java,United Kingdom,97709.0,157289.0,False
+JOB-2024-0954,AI/ML Engineer,Node.js;Google Cloud;PyTorch,Germany,107286.0,165517.0,False
+JOB-2024-0955,AI/ML Engineer,PostgreSQL;Python;TypeScript;PyTorch;Kubernetes;Node.js,Remote,68769.0,89615.0,True
+JOB-2024-0956,Data Engineer,Node.js;Rust;PyTorch;React;AWS;Python,Remote,66581.0,88445.0,True
+JOB-2024-0957,AI/ML Engineer,React;Snowflake;Docker;Google Cloud,United Kingdom,62456.0,112034.0,False
+JOB-2024-0958,DevOps Engineer,Node.js;Java;TypeScript,United States,89267.0,155166.0,False
+JOB-2024-0959,Data Engineer,Rust;PostgreSQL;Java,Germany,61371.0,127560.0,False
+JOB-2024-0960,DevOps Engineer,Snowflake;Node.js;PostgreSQL;Kubernetes,India,99656.0,154802.0,True
+JOB-2024-0961,Data Engineer,Rust;AWS;Google Cloud;Java,Remote,93573.0,128111.0,True
+JOB-2024-0962,Cloud Solutions Architect,AWS;Go;TypeScript;Java;Docker,United States,82694.0,134469.0,False
+JOB-2024-0963,AI/ML Engineer,Rust;Snowflake;Node.js;Python;Java,United States,66821.0,128296.0,True
+JOB-2024-0964,Cloud Solutions Architect,Snowflake;Kubernetes;Python;Java,United States,83068.0,131889.0,False
+JOB-2024-0965,Backend Software Engineer,Snowflake;Google Cloud;Kubernetes;PyTorch;Python;PostgreSQL,United Kingdom,73344.0,104669.0,False
+JOB-2024-0966,AI/ML Engineer,PyTorch;Kubernetes;Node.js,United Kingdom,107598.0,172602.0,True
+JOB-2024-0967,AI/ML Engineer,Java;Snowflake;AWS;Node.js;SQL;Docker,Remote,76770.0,132307.0,True
+JOB-2024-0968,Frontend Engineer,AWS;Python;Go;PyTorch,United Kingdom,89899.0,113845.0,False
+JOB-2024-0969,AI/ML Engineer,Docker;Python;Snowflake;Google Cloud;TypeScript;Rust,Remote,87138.0,152612.0,True
+JOB-2024-0970,Data Engineer,Snowflake;PyTorch;AWS,United States,98041.0,141141.0,False
+JOB-2024-0971,Frontend Engineer,Node.js;PostgreSQL;Python;Google Cloud,India,84283.0,121907.0,False
+JOB-2024-0972,Full Stack Developer,Google Cloud;PostgreSQL;Node.js;AWS,India,85994.0,147977.0,False
+JOB-2024-0973,Full Stack Developer,Python;TypeScript;AWS;Java;PostgreSQL;PyTorch,United Kingdom,83664.0,145835.0,True
+JOB-2024-0974,DevOps Engineer,Kubernetes;Rust;TypeScript;Snowflake,United Kingdom,94866.0,153180.0,True
+JOB-2024-0975,Frontend Engineer,SQL;Docker;PostgreSQL;Java;Rust;Snowflake,India,83043.0,151825.0,False
+JOB-2024-0976,AI/ML Engineer,Go;AWS;Rust;SQL,United Kingdom,87776.0,153800.0,False
+JOB-2024-0977,Cloud Solutions Architect,React;PyTorch;Docker;Google Cloud,United States,74180.0,123665.0,True
+JOB-2024-0978,Data Engineer,Go;Snowflake;SQL;Node.js;Google Cloud;PyTorch,India,102598.0,140559.0,True
+JOB-2024-0979,Frontend Engineer,Rust;AWS;Go,Remote,87699.0,130842.0,True
+JOB-2024-0980,AI/ML Engineer,Kubernetes;Rust;AWS;Google Cloud;Go,Canada,82056.0,137930.0,False
+JOB-2024-0981,Backend Software Engineer,React;Node.js;Python;Snowflake,Remote,84662.0,106107.0,True
+JOB-2024-0982,Cloud Solutions Architect,Go;SQL;Node.js;Java;Rust,Remote,81972.0,132395.0,True
+JOB-2024-0983,Frontend Engineer,Snowflake;Java;React;TypeScript,Canada,63350.0,123738.0,False
+JOB-2024-0984,Data Engineer,Google Cloud;PyTorch;Rust;Node.js;AWS,Germany,65069.0,119713.0,True
+JOB-2024-0985,AI/ML Engineer,PostgreSQL;Node.js;Go;React;Kubernetes,Canada,98512.0,158010.0,True
+JOB-2024-0986,Cloud Solutions Architect,Google Cloud;PostgreSQL;SQL;PyTorch,Remote,92261.0,116380.0,True
+JOB-2024-0987,AI/ML Engineer,Java;Snowflake;Google Cloud;PyTorch;AWS;Docker,United Kingdom,86148.0,135959.0,True
+JOB-2024-0988,Cloud Solutions Architect,React;AWS;Python;Docker;Node.js;PostgreSQL,United States,100553.0,155484.0,False
+JOB-2024-0989,AI/ML Engineer,Java;TypeScript;PyTorch,India,87686.0,152906.0,True
+JOB-2024-0990,AI/ML Engineer,Snowflake;Docker;SQL;React;Go,United States,72882.0,96119.0,False
+JOB-2024-0991,Full Stack Developer,Google Cloud;Go;Java;Kubernetes;React;Python,Canada,85304.0,154844.0,True
+JOB-2024-0992,Frontend Engineer,Rust;Java;Go;Kubernetes;Google Cloud,India,88270.0,129767.0,False
+JOB-2024-0993,Data Engineer,SQL;Rust;Kubernetes;TypeScript;Node.js;AWS,India,90481.0,133255.0,True
+JOB-2024-0994,DevOps Engineer,Kubernetes;Rust;AWS;Java;TypeScript;PyTorch,Germany,69879.0,112039.0,False
+JOB-2024-0995,Backend Software Engineer,PyTorch;TypeScript;Node.js;Rust,India,72290.0,118088.0,False
+JOB-2024-0996,DevOps Engineer,SQL;Java;Python,Canada,100766.0,146898.0,True
+JOB-2024-0997,DevOps Engineer,Google Cloud;PostgreSQL;TypeScript,Canada,72378.0,128113.0,True
+JOB-2024-0998,DevOps Engineer,React;Snowflake;Go,Germany,100305.0,139895.0,False
+JOB-2024-0999,Backend Software Engineer,PostgreSQL;PyTorch;Snowflake;Rust,United States,86335.0,111557.0,True
+JOB-2024-1000,Cloud Solutions Architect,Rust;Kubernetes;Go;Google Cloud;AWS,Remote,102994.0,149950.0,True
+JOB-2024-1001,AI/ML Engineer,AWS;Snowflake;PyTorch;Node.js;Go;Python,Canada,62877.0,110619.0,False
+JOB-2024-1002,Data Engineer,Google Cloud;Kubernetes;SQL;AWS;Go;Rust,Germany,95858.0,118010.0,True
+JOB-2024-1003,DevOps Engineer,Google Cloud;Rust;Python,Remote,76851.0,101401.0,True
+JOB-2024-1004,Full Stack Developer,TypeScript;React;Google Cloud;Docker;Java,Remote,78766.0,115342.0,True
+JOB-2024-1005,Backend Software Engineer,Kubernetes;React;Java,Canada,92379.0,148160.0,False
+JOB-2024-1006,Frontend Engineer,Java;Kubernetes;Google Cloud,Germany,90883.0,139882.0,False
+JOB-2024-1007,Frontend Engineer,PostgreSQL;TypeScript;Rust;Google Cloud;SQL,India,80531.0,146715.0,False
+JOB-2024-1008,Data Engineer,Go;AWS;Java,Germany,85219.0,153787.0,False
+JOB-2024-1009,DevOps Engineer,PyTorch;Rust;TypeScript;SQL;Java;Snowflake,Canada,96963.0,158343.0,False
+JOB-2024-1010,Data Engineer,Python;Snowflake;Java;PostgreSQL,Remote,94122.0,156282.0,True
+JOB-2024-1011,Full Stack Developer,Go;AWS;SQL,Canada,86302.0,134707.0,True
+JOB-2024-1012,AI/ML Engineer,TypeScript;Java;SQL;AWS;Python,United Kingdom,94158.0,157480.0,False
+JOB-2024-1013,Data Engineer,Python;Rust;Kubernetes;TypeScript;PostgreSQL,Canada,89869.0,131886.0,True
+JOB-2024-1014,DevOps Engineer,Go;PostgreSQL;AWS;Rust,United Kingdom,95364.0,130845.0,True
+JOB-2024-1015,Data Engineer,Go;TypeScript;Kubernetes;SQL;Python;React,Remote,107921.0,166825.0,True
+JOB-2024-1016,Frontend Engineer,Rust;Google Cloud;PostgreSQL;Docker;TypeScript,India,97973.0,125080.0,True
+JOB-2024-1017,Frontend Engineer,Python;Java;Google Cloud;Node.js;PyTorch;Go,United Kingdom,63249.0,117033.0,False
+JOB-2024-1018,Cloud Solutions Architect,Rust;Node.js;TypeScript;Java,Canada,80074.0,124949.0,False
+JOB-2024-1019,Full Stack Developer,Snowflake;Rust;Google Cloud;Docker,India,88284.0,145097.0,True
+JOB-2024-1020,Frontend Engineer,SQL;Python;Rust;Node.js;AWS;PyTorch,Canada,106447.0,136702.0,True
+JOB-2024-1021,Backend Software Engineer,Node.js;Rust;Snowflake;AWS;Go,United States,73784.0,123306.0,False
+JOB-2024-1022,Frontend Engineer,Docker;Go;AWS,Remote,63605.0,112996.0,True
+JOB-2024-1023,Full Stack Developer,Docker;TypeScript;Kubernetes;Node.js;AWS;SQL,Remote,90777.0,137746.0,True
+JOB-2024-1024,AI/ML Engineer,Google Cloud;Python;Node.js;Docker;React;Rust,Canada,94952.0,159354.0,False
+JOB-2024-1025,DevOps Engineer,Snowflake;PostgreSQL;PyTorch;Node.js;TypeScript,Remote,63384.0,102975.0,True
+JOB-2024-1026,DevOps Engineer,Go;PyTorch;SQL;Docker,Canada,103203.0,141736.0,True
+JOB-2024-1027,Cloud Solutions Architect,PyTorch;Java;Kubernetes;Node.js,United States,98722.0,138610.0,True
+JOB-2024-1028,AI/ML Engineer,Rust;Kubernetes;React;TypeScript;Java,United States,90203.0,136054.0,False
+JOB-2024-1029,Cloud Solutions Architect,Python;Kubernetes;React,Remote,66531.0,126413.0,True
+JOB-2024-1030,DevOps Engineer,AWS;TypeScript;Kubernetes;Docker;Node.js,Germany,108840.0,128939.0,True
+JOB-2024-1031,AI/ML Engineer,Java;Docker;AWS;Python;Google Cloud;PostgreSQL,Canada,66200.0,122866.0,False
+JOB-2024-1032,AI/ML Engineer,React;Go;SQL,India,68933.0,128602.0,False
+JOB-2024-1033,Frontend Engineer,AWS;Google Cloud;Snowflake;SQL,Canada,75887.0,142986.0,False
+JOB-2024-1034,Cloud Solutions Architect,Google Cloud;PostgreSQL;Go;Kubernetes,United States,87551.0,120800.0,True
+JOB-2024-1035,Backend Software Engineer,Snowflake;PyTorch;PostgreSQL,India,85070.0,151895.0,True
+JOB-2024-1036,Full Stack Developer,Rust;React;Docker;Google Cloud;Go,Germany,74913.0,136654.0,True
+JOB-2024-1037,Cloud Solutions Architect,PyTorch;SQL;Snowflake;PostgreSQL,Canada,79499.0,120251.0,False
+JOB-2024-1038,Cloud Solutions Architect,Google Cloud;Rust;Python,United States,90264.0,147443.0,True
+JOB-2024-1039,Backend Software Engineer,PyTorch;PostgreSQL;TypeScript;Node.js;Python,Canada,85458.0,128545.0,False
+JOB-2024-1040,Backend Software Engineer,TypeScript;Java;Docker;Node.js,Germany,73381.0,136570.0,False
+JOB-2024-1041,Cloud Solutions Architect,Snowflake;Python;Go,Germany,106199.0,138757.0,True
+JOB-2024-1042,DevOps Engineer,PostgreSQL;Docker;Kubernetes;Rust,India,86775.0,136088.0,True
+JOB-2024-1043,DevOps Engineer,PyTorch;SQL;Node.js;Kubernetes;Snowflake;React,India,72840.0,117775.0,True
+JOB-2024-1044,Backend Software Engineer,PyTorch;Google Cloud;PostgreSQL;TypeScript,Germany,69128.0,123750.0,True
+JOB-2024-1045,Backend Software Engineer,Snowflake;SQL;Python;Kubernetes;PyTorch,India,82846.0,121455.0,True
+JOB-2024-1046,Frontend Engineer,Python;Snowflake;TypeScript;SQL;AWS,Remote,82667.0,116032.0,True
+JOB-2024-1047,Frontend Engineer,Node.js;SQL;PyTorch;Java;Python,United Kingdom,61802.0,128496.0,True
+JOB-2024-1048,AI/ML Engineer,Node.js;SQL;Docker;Rust;TypeScript,Germany,78404.0,130713.0,True
+JOB-2024-1049,Data Engineer,PostgreSQL;Java;Snowflake;Google Cloud;Docker,Canada,108504.0,175438.0,True
+JOB-2024-1050,Backend Software Engineer,Go;Rust;PostgreSQL;Snowflake,India,86580.0,118606.0,False
+JOB-2024-1051,Cloud Solutions Architect,Snowflake;Java;PostgreSQL;Go;Google Cloud,United Kingdom,92494.0,148369.0,True
+JOB-2024-1052,DevOps Engineer,Node.js;PyTorch;Docker,India,72144.0,123201.0,False
+JOB-2024-1053,Cloud Solutions Architect,Docker;Snowflake;Python;PostgreSQL,Canada,95275.0,153512.0,False
+JOB-2024-1054,Frontend Engineer,Snowflake;Node.js;SQL,India,60586.0,117000.0,False
+JOB-2024-1055,Backend Software Engineer,PostgreSQL;Java;PyTorch;TypeScript;SQL,Canada,85368.0,123509.0,False
+JOB-2024-1056,Cloud Solutions Architect,Rust;PyTorch;Kubernetes,United Kingdom,98587.0,163483.0,True
+JOB-2024-1057,DevOps Engineer,Go;Node.js;Rust;Docker;Kubernetes,Canada,89457.0,137007.0,True
+JOB-2024-1058,Data Engineer,Python;Snowflake;Google Cloud,Remote,95010.0,146237.0,True
+JOB-2024-1059,Frontend Engineer,SQL;React;Rust;PyTorch;Kubernetes,India,101182.0,164835.0,False
+JOB-2024-1060,Cloud Solutions Architect,Docker;TypeScript;Python;Rust;PostgreSQL,India,88504.0,133137.0,False
+JOB-2024-1061,Cloud Solutions Architect,Docker;Kubernetes;React;Go;Snowflake;PyTorch,Remote,106916.0,154655.0,True
+JOB-2024-1062,AI/ML Engineer,SQL;Java;Rust;Node.js;PostgreSQL;React,United Kingdom,86065.0,114021.0,False
+JOB-2024-1063,Cloud Solutions Architect,AWS;Node.js;Kubernetes;React;PyTorch,Germany,72363.0,137772.0,False
+JOB-2024-1064,Data Engineer,PostgreSQL;React;Snowflake;AWS;Kubernetes;Google Cloud,Germany,77562.0,138904.0,False
+JOB-2024-1065,DevOps Engineer,Snowflake;React;AWS;SQL;Kubernetes;Python,Canada,83566.0,147607.0,True
+JOB-2024-1066,Data Engineer,SQL;Rust;Go;React;TypeScript,United Kingdom,95181.0,118885.0,True
+JOB-2024-1067,Data Engineer,Java;Docker;Python;React,United Kingdom,85864.0,132530.0,False
+JOB-2024-1068,Backend Software Engineer,TypeScript;Docker;PyTorch,Remote,86333.0,122503.0,True
+JOB-2024-1069,AI/ML Engineer,TypeScript;Java;Python;SQL;React,Germany,67240.0,91026.0,False
+JOB-2024-1070,Cloud Solutions Architect,SQL;React;Rust;Kubernetes;PyTorch;Python,United Kingdom,60272.0,90417.0,False
+JOB-2024-1071,AI/ML Engineer,Java;TypeScript;Rust,Remote,85484.0,126653.0,True
+JOB-2024-1072,Frontend Engineer,Java;Go;Node.js;Kubernetes,United States,106218.0,175536.0,False
+JOB-2024-1073,Data Engineer,Google Cloud;Go;TypeScript;Rust;Node.js;PostgreSQL,Germany,97796.0,137216.0,False
+JOB-2024-1074,Frontend Engineer,Docker;TypeScript;AWS;PyTorch;PostgreSQL;Java,Canada,83772.0,140299.0,True
+JOB-2024-1075,Cloud Solutions Architect,Python;SQL;Node.js;AWS;TypeScript,India,83165.0,146479.0,True
+JOB-2024-1076,Cloud Solutions Architect,Docker;Python;Rust;Snowflake;SQL;Go,India,91895.0,114691.0,True
+JOB-2024-1077,Cloud Solutions Architect,Snowflake;AWS;PostgreSQL;Google Cloud;Kubernetes,United States,77189.0,141888.0,False
+JOB-2024-1078,Full Stack Developer,Rust;Node.js;Kubernetes;Go,Remote,97753.0,164280.0,True
+JOB-2024-1079,DevOps Engineer,PyTorch;Google Cloud;TypeScript,India,88686.0,122763.0,True
+JOB-2024-1080,Cloud Solutions Architect,Rust;Python;AWS,Remote,86197.0,123418.0,True
+JOB-2024-1081,Frontend Engineer,PyTorch;React;PostgreSQL;Kubernetes;Go;Snowflake,United States,82476.0,122141.0,True
+JOB-2024-1082,AI/ML Engineer,Rust;TypeScript;Docker;Python;Java;PostgreSQL,United Kingdom,73967.0,102895.0,True
+JOB-2024-1083,Data Engineer,PostgreSQL;Google Cloud;Python;TypeScript,United States,88189.0,142002.0,True
+JOB-2024-1084,Backend Software Engineer,Node.js;AWS;React;TypeScript;Docker,United States,104801.0,149969.0,False
+JOB-2024-1085,Frontend Engineer,Python;AWS;TypeScript;SQL,Remote,79513.0,133913.0,True
+JOB-2024-1086,Backend Software Engineer,Snowflake;Go;PyTorch,Germany,80646.0,121176.0,False
+JOB-2024-1087,Frontend Engineer,Python;PyTorch;Docker;SQL;AWS;Node.js,United Kingdom,80881.0,112663.0,False
+JOB-2024-1088,AI/ML Engineer,Google Cloud;TypeScript;Java;Kubernetes;PyTorch,United States,87252.0,149015.0,False
+JOB-2024-1089,Frontend Engineer,Docker;Google Cloud;AWS;TypeScript,Canada,90742.0,157315.0,False
+JOB-2024-1090,Data Engineer,Java;React;PostgreSQL;Docker;Kubernetes;Node.js,Germany,66058.0,116869.0,False
+JOB-2024-1091,Data Engineer,Java;PostgreSQL;React;AWS;Docker,United States,69016.0,105056.0,True
+JOB-2024-1092,Frontend Engineer,Google Cloud;PostgreSQL;Node.js;PyTorch;Kubernetes,United States,98900.0,143278.0,True
+JOB-2024-1093,Cloud Solutions Architect,TypeScript;Go;Python;PostgreSQL;Docker;PyTorch,Remote,99981.0,153693.0,True
+JOB-2024-1094,Backend Software Engineer,PyTorch;TypeScript;Kubernetes;AWS;Go,United States,84842.0,107552.0,True
+JOB-2024-1095,Cloud Solutions Architect,Node.js;React;Google Cloud,Canada,73765.0,108965.0,True
+JOB-2024-1096,Cloud Solutions Architect,PostgreSQL;React;Snowflake;SQL;Python;AWS,Germany,82931.0,149710.0,False
+JOB-2024-1097,Full Stack Developer,PostgreSQL;Python;Node.js,Canada,70540.0,111267.0,False
+JOB-2024-1098,AI/ML Engineer,Rust;PyTorch;Java;Snowflake,Canada,87133.0,153294.0,False
+JOB-2024-1099,Data Engineer,Java;PyTorch;React,Remote,69303.0,92594.0,True
+JOB-2024-1100,Full Stack Developer,React;Docker;Snowflake,Canada,87924.0,142884.0,False
+JOB-2024-1101,Frontend Engineer,SQL;Rust;Java;Go;Snowflake,India,96807.0,158915.0,True
+JOB-2024-1102,Cloud Solutions Architect,Docker;Go;SQL,United Kingdom,94851.0,133524.0,False
+JOB-2024-1103,Full Stack Developer,PostgreSQL;Rust;Snowflake;Docker;AWS;Kubernetes,Germany,105583.0,146207.0,False
+JOB-2024-1104,DevOps Engineer,React;Google Cloud;Java;TypeScript;Docker,United Kingdom,103818.0,170876.0,True
+JOB-2024-1105,Cloud Solutions Architect,PyTorch;Node.js;Rust,United States,94371.0,146185.0,False
+JOB-2024-1106,AI/ML Engineer,SQL;Rust;Go;Kubernetes;React;PyTorch,United Kingdom,60127.0,117202.0,False
+JOB-2024-1107,Data Engineer,SQL;React;TypeScript,United Kingdom,101456.0,139165.0,False
+JOB-2024-1108,DevOps Engineer,SQL;React;PyTorch;PostgreSQL;Rust,India,91610.0,152598.0,True
+JOB-2024-1109,DevOps Engineer,Rust;TypeScript;PostgreSQL,India,80444.0,136598.0,False
+JOB-2024-1110,Backend Software Engineer,Docker;TypeScript;Snowflake,United Kingdom,75132.0,96336.0,False
+JOB-2024-1111,Full Stack Developer,Java;Docker;SQL;Snowflake,India,85979.0,116543.0,False
+JOB-2024-1112,Full Stack Developer,Docker;Go;Node.js;Java;PostgreSQL;AWS,India,98496.0,161439.0,False
+JOB-2024-1113,Frontend Engineer,Kubernetes;Python;Google Cloud;React,India,98284.0,150380.0,False
+JOB-2024-1114,Cloud Solutions Architect,Rust;Java;Python;PostgreSQL,India,78631.0,134592.0,True
+JOB-2024-1115,DevOps Engineer,Go;Rust;Docker;Python;AWS,United States,101708.0,136660.0,False
+JOB-2024-1116,Frontend Engineer,Python;AWS;Docker;PyTorch;Node.js,India,102726.0,171117.0,False
+JOB-2024-1117,Data Engineer,Docker;Snowflake;Kubernetes;PostgreSQL,Remote,78800.0,133759.0,True
+JOB-2024-1118,Full Stack Developer,PyTorch;PostgreSQL;Java;Docker;TypeScript;Google Cloud,United States,86236.0,113202.0,True
+JOB-2024-1119,Full Stack Developer,PyTorch;TypeScript;Google Cloud;AWS,United States,95761.0,156444.0,True
+JOB-2024-1120,Frontend Engineer,AWS;SQL;Python;React,Canada,61651.0,110599.0,True
+JOB-2024-1121,Backend Software Engineer,TypeScript;Rust;Python;Go;Kubernetes,United Kingdom,109248.0,164733.0,False
+JOB-2024-1122,Backend Software Engineer,PostgreSQL;Go;Rust,India,81013.0,143824.0,False
+JOB-2024-1123,Cloud Solutions Architect,Java;Snowflake;Rust;Node.js;Google Cloud,United States,102678.0,150666.0,True
+JOB-2024-1124,AI/ML Engineer,Google Cloud;Java;Go,India,66637.0,136147.0,False
+JOB-2024-1125,Backend Software Engineer,Kubernetes;Java;SQL;Python;Rust;PyTorch,Germany,88043.0,135915.0,False
+JOB-2024-1126,DevOps Engineer,PostgreSQL;Snowflake;AWS;Python,United States,93638.0,134001.0,True
+JOB-2024-1127,Cloud Solutions Architect,TypeScript;Rust;Java,India,66708.0,132602.0,False
+JOB-2024-1128,Backend Software Engineer,Snowflake;Java;PostgreSQL;AWS,India,105129.0,149508.0,False
+JOB-2024-1129,Data Engineer,Rust;Java;PyTorch,India,69597.0,131804.0,True
+JOB-2024-1130,Backend Software Engineer,Python;PostgreSQL;Rust;Google Cloud;Node.js,India,99740.0,133695.0,False
+JOB-2024-1131,AI/ML Engineer,Go;React;TypeScript;PostgreSQL,Germany,84228.0,140360.0,False
+JOB-2024-1132,Full Stack Developer,Go;Snowflake;PyTorch;Node.js;Java,Germany,89588.0,158804.0,False
+JOB-2024-1133,Cloud Solutions Architect,Kubernetes;React;PyTorch;Docker,Canada,94534.0,145193.0,True
+JOB-2024-1134,Backend Software Engineer,PyTorch;Go;Java;Node.js;TypeScript;PostgreSQL,United Kingdom,73616.0,120256.0,False
+JOB-2024-1135,AI/ML Engineer,Java;Rust;Google Cloud;AWS;Docker,Germany,93622.0,131519.0,True
+JOB-2024-1136,Full Stack Developer,Node.js;Java;Kubernetes,Remote,80260.0,113066.0,True
+JOB-2024-1137,DevOps Engineer,PyTorch;Python;Node.js;Docker;React;PostgreSQL,India,107804.0,177778.0,False
+JOB-2024-1138,Frontend Engineer,Python;TypeScript;PyTorch;Google Cloud;Node.js,Canada,75313.0,115655.0,False
+JOB-2024-1139,AI/ML Engineer,Node.js;Google Cloud;Rust,Remote,80244.0,123375.0,True
+JOB-2024-1140,Data Engineer,Kubernetes;Node.js;Snowflake;Java;TypeScript;Python,Remote,75913.0,143894.0,True
+JOB-2024-1141,Full Stack Developer,TypeScript;Google Cloud;Kubernetes;Java;Go,India,94243.0,160941.0,False
+JOB-2024-1142,AI/ML Engineer,Google Cloud;Snowflake;PostgreSQL;Python;Rust,Germany,96022.0,120880.0,True
+JOB-2024-1143,Backend Software Engineer,Go;PyTorch;Snowflake;Node.js,Canada,96210.0,122392.0,True
+JOB-2024-1144,Cloud Solutions Architect,Kubernetes;Snowflake;Docker;TypeScript;React;PostgreSQL,Germany,73078.0,109497.0,True
+JOB-2024-1145,AI/ML Engineer,Rust;TypeScript;SQL;Google Cloud,Canada,96567.0,153726.0,False
+JOB-2024-1146,Data Engineer,PostgreSQL;Kubernetes;Rust;Java,Remote,83817.0,121621.0,True
+JOB-2024-1147,AI/ML Engineer,Go;Java;React,United Kingdom,72100.0,140687.0,False
+JOB-2024-1148,Backend Software Engineer,TypeScript;Node.js;SQL;Google Cloud;AWS,Canada,100544.0,133474.0,False
+JOB-2024-1149,AI/ML Engineer,Node.js;Java;SQL;Snowflake;Docker,Canada,65028.0,110339.0,True
+JOB-2024-1150,Full Stack Developer,Go;SQL;PostgreSQL;Google Cloud;AWS,Remote,87002.0,119659.0,True
+JOB-2024-1151,Cloud Solutions Architect,Docker;PostgreSQL;AWS;TypeScript;Python,United Kingdom,77613.0,132694.0,False
+JOB-2024-1152,AI/ML Engineer,SQL;Snowflake;React;Go;Rust;PostgreSQL,Canada,71479.0,141084.0,True
+JOB-2024-1153,AI/ML Engineer,TypeScript;React;Go;Node.js;Python,United Kingdom,106149.0,150474.0,False
+JOB-2024-1154,Full Stack Developer,Node.js;AWS;PostgreSQL,Remote,89335.0,132978.0,True
+JOB-2024-1155,DevOps Engineer,Go;PyTorch;Rust;Google Cloud;Snowflake;AWS,United Kingdom,76583.0,126131.0,True
+JOB-2024-1156,DevOps Engineer,PyTorch;Java;React,Canada,66320.0,96066.0,True
+JOB-2024-1157,DevOps Engineer,Kubernetes;Rust;AWS;TypeScript;PostgreSQL,Germany,99082.0,133689.0,True
+JOB-2024-1158,Cloud Solutions Architect,Snowflake;Google Cloud;Python;React;PyTorch;TypeScript,United Kingdom,98502.0,137916.0,False
+JOB-2024-1159,Cloud Solutions Architect,SQL;Snowflake;PostgreSQL,United States,65769.0,134167.0,False
+JOB-2024-1160,AI/ML Engineer,React;Rust;Python;Snowflake;Node.js;TypeScript,Canada,82028.0,103896.0,False
+JOB-2024-1161,Data Engineer,PostgreSQL;AWS;Snowflake;TypeScript;PyTorch,Remote,96021.0,119258.0,True
+JOB-2024-1162,DevOps Engineer,Go;TypeScript;Rust;Docker;PyTorch,India,95177.0,156341.0,False
+JOB-2024-1163,Frontend Engineer,PostgreSQL;Kubernetes;Docker;PyTorch;TypeScript,India,92302.0,153163.0,True
+JOB-2024-1164,Cloud Solutions Architect,Google Cloud;Rust;Python,United Kingdom,60790.0,96705.0,True
+JOB-2024-1165,Frontend Engineer,Docker;Python;Kubernetes;Rust;Node.js;React,United States,90517.0,113821.0,True
+JOB-2024-1166,Backend Software Engineer,Google Cloud;Node.js;PyTorch;Go,United States,61868.0,129273.0,True
+JOB-2024-1167,AI/ML Engineer,PyTorch;Go;Python;SQL;Snowflake;React,Remote,87122.0,116130.0,True
+JOB-2024-1168,Cloud Solutions Architect,PostgreSQL;Java;Go;Python;Google Cloud,United Kingdom,69488.0,123429.0,False
+JOB-2024-1169,Cloud Solutions Architect,PyTorch;Google Cloud;Docker,Germany,80663.0,105735.0,False
+JOB-2024-1170,DevOps Engineer,Python;Docker;Snowflake;PostgreSQL;TypeScript,Canada,82253.0,120327.0,False
+JOB-2024-1171,AI/ML Engineer,Kubernetes;Python;PyTorch,India,81048.0,132813.0,True
+JOB-2024-1172,Cloud Solutions Architect,Go;TypeScript;AWS;Python;Kubernetes;PyTorch,United States,73159.0,119151.0,True
+JOB-2024-1173,Data Engineer,Go;Python;Kubernetes;Rust;Java,India,63207.0,131978.0,True
+JOB-2024-1174,AI/ML Engineer,PyTorch;Rust;Python;AWS,United States,69838.0,137712.0,True
+JOB-2024-1175,DevOps Engineer,Node.js;TypeScript;Java,United Kingdom,87559.0,128908.0,True
+JOB-2024-1176,Data Engineer,Docker;PyTorch;Snowflake;Java;TypeScript,United States,97289.0,158051.0,False
+JOB-2024-1177,DevOps Engineer,Python;Kubernetes;Go;Node.js;Rust;SQL,Canada,84505.0,146687.0,False
+JOB-2024-1178,DevOps Engineer,AWS;Java;Go;Google Cloud;SQL;PyTorch,United Kingdom,93095.0,157044.0,False
+JOB-2024-1179,Full Stack Developer,PyTorch;Rust;AWS;Docker;Snowflake;React,Canada,97784.0,126028.0,False
+JOB-2024-1180,Cloud Solutions Architect,Go;Rust;Kubernetes;PostgreSQL;SQL,United Kingdom,94364.0,116865.0,False
+JOB-2024-1181,Cloud Solutions Architect,Kubernetes;TypeScript;PostgreSQL;Rust;Python,Canada,62042.0,99899.0,False
+JOB-2024-1182,Frontend Engineer,Snowflake;AWS;React;TypeScript,India,87788.0,115912.0,True
+JOB-2024-1183,Data Engineer,Python;Node.js;PyTorch;AWS;Google Cloud,United Kingdom,78129.0,146438.0,False
+JOB-2024-1184,Backend Software Engineer,TypeScript;Kubernetes;PostgreSQL;SQL,Remote,67161.0,104443.0,True
+JOB-2024-1185,Backend Software Engineer,Go;Rust;Snowflake,Germany,89577.0,141635.0,False
+JOB-2024-1186,Frontend Engineer,PyTorch;Java;Node.js,United Kingdom,74060.0,121374.0,False
+JOB-2024-1187,Full Stack Developer,Java;Rust;React;TypeScript;Google Cloud;PostgreSQL,Canada,66496.0,128994.0,False
+JOB-2024-1188,Full Stack Developer,Java;Snowflake;Docker,United Kingdom,92420.0,120113.0,True
+JOB-2024-1189,DevOps Engineer,AWS;Docker;PostgreSQL;TypeScript,United States,89093.0,120850.0,True
+JOB-2024-1190,Data Engineer,PyTorch;SQL;AWS;Kubernetes;Python,United Kingdom,69540.0,116341.0,True
+JOB-2024-1191,DevOps Engineer,Go;Kubernetes;PostgreSQL;Docker,Germany,92930.0,160179.0,True
+JOB-2024-1192,Full Stack Developer,Java;Go;Python;Google Cloud;PyTorch,India,75359.0,141948.0,False
+JOB-2024-1193,Cloud Solutions Architect,Kubernetes;Node.js;Google Cloud,United Kingdom,83234.0,109185.0,True
+JOB-2024-1194,Frontend Engineer,Java;Google Cloud;Python;React;AWS;Go,United Kingdom,74035.0,123939.0,True
+JOB-2024-1195,DevOps Engineer,AWS;Snowflake;Google Cloud;PostgreSQL;Go;SQL,Canada,94563.0,129156.0,False
+JOB-2024-1196,Full Stack Developer,React;SQL;Python;Kubernetes;PyTorch,United States,86010.0,147370.0,False
+JOB-2024-1197,DevOps Engineer,Docker;PyTorch;SQL;React,Remote,60789.0,82578.0,True
+JOB-2024-1198,DevOps Engineer,Node.js;Google Cloud;Snowflake;Python,United States,78242.0,100992.0,True
+JOB-2024-1199,Backend Software Engineer,Python;Java;Snowflake;Google Cloud,India,99976.0,153143.0,True
+JOB-2024-1200,AI/ML Engineer,Snowflake;Kubernetes;Google Cloud;PyTorch;PostgreSQL,Germany,75432.0,120733.0,True
+JOB-2024-1201,Backend Software Engineer,TypeScript;Rust;React;Kubernetes;Google Cloud;Docker,Remote,68960.0,102810.0,True
+JOB-2024-1202,Frontend Engineer,React;Rust;Java,United Kingdom,72064.0,131533.0,False
+JOB-2024-1203,Frontend Engineer,React;Rust;Node.js;Go,United Kingdom,81260.0,113106.0,False
+JOB-2024-1204,Backend Software Engineer,Kubernetes;Snowflake;PyTorch;TypeScript;Go,Canada,73521.0,116620.0,False
+JOB-2024-1205,Backend Software Engineer,Docker;Snowflake;Node.js;React;Java,United Kingdom,74386.0,124058.0,True
+JOB-2024-1206,Cloud Solutions Architect,TypeScript;AWS;Snowflake,Canada,91437.0,159155.0,True
+JOB-2024-1207,AI/ML Engineer,Snowflake;Go;Java,Germany,80071.0,102554.0,False
+JOB-2024-1208,Full Stack Developer,Python;TypeScript;Node.js;AWS;Docker,Germany,73653.0,98265.0,True
+JOB-2024-1209,Data Engineer,PyTorch;Snowflake;Java;Google Cloud,India,109433.0,143843.0,True
+JOB-2024-1210,Data Engineer,PostgreSQL;AWS;Rust,India,94273.0,144410.0,False
+JOB-2024-1211,Data Engineer,React;Node.js;TypeScript;Kubernetes,Remote,103604.0,140503.0,True
+JOB-2024-1212,Frontend Engineer,Python;TypeScript;Java,Remote,83893.0,132862.0,True
+JOB-2024-1213,AI/ML Engineer,Docker;Google Cloud;Go;Kubernetes;TypeScript;Java,United States,76902.0,120828.0,True
+JOB-2024-1214,AI/ML Engineer,React;TypeScript;Node.js;Go;Docker;Rust,United Kingdom,70759.0,125185.0,False
+JOB-2024-1215,DevOps Engineer,React;PostgreSQL;PyTorch;Kubernetes;AWS,Remote,102694.0,134176.0,True
+JOB-2024-1216,DevOps Engineer,Kubernetes;PostgreSQL;Snowflake,Germany,65609.0,108390.0,False
+JOB-2024-1217,AI/ML Engineer,Python;Go;AWS,Remote,82695.0,118639.0,True
+JOB-2024-1218,Cloud Solutions Architect,Go;PostgreSQL;Python;Snowflake;Java,United States,90781.0,141100.0,False
+JOB-2024-1219,Frontend Engineer,Rust;PostgreSQL;PyTorch,United States,108804.0,130524.0,False
+JOB-2024-1220,Backend Software Engineer,PyTorch;Python;TypeScript;Google Cloud;Docker;Node.js,Canada,76794.0,132105.0,False
+JOB-2024-1221,Frontend Engineer,Python;PyTorch;Node.js;Kubernetes,Canada,91092.0,155765.0,True
+JOB-2024-1222,DevOps Engineer,PyTorch;PostgreSQL;React;Google Cloud;TypeScript,United Kingdom,83281.0,144649.0,False
+JOB-2024-1223,Data Engineer,Google Cloud;React;Rust;PyTorch;Node.js;Snowflake,United States,86556.0,112038.0,False
+JOB-2024-1224,Frontend Engineer,PyTorch;SQL;Kubernetes;Java;Go,Germany,65240.0,114796.0,False
+JOB-2024-1225,AI/ML Engineer,Node.js;Docker;PyTorch;Python;PostgreSQL;Java,United States,93488.0,143265.0,True
+JOB-2024-1226,DevOps Engineer,PostgreSQL;TypeScript;Snowflake;Node.js,Remote,102103.0,130733.0,True
+JOB-2024-1227,Cloud Solutions Architect,Node.js;Google Cloud;AWS;React;Java;PostgreSQL,Remote,93597.0,137598.0,True
+JOB-2024-1228,Full Stack Developer,PostgreSQL;SQL;Node.js;React,United States,88973.0,149767.0,True
+JOB-2024-1229,Cloud Solutions Architect,PyTorch;TypeScript;Docker,India,108034.0,173246.0,False
+JOB-2024-1230,AI/ML Engineer,Rust;Snowflake;Go;PyTorch,Remote,68663.0,110953.0,True
+JOB-2024-1231,Backend Software Engineer,PostgreSQL;Java;Snowflake;Node.js;AWS;TypeScript,Canada,81520.0,140058.0,False
+JOB-2024-1232,Data Engineer,React;Python;Kubernetes,India,97088.0,162418.0,False
+JOB-2024-1233,DevOps Engineer,Kubernetes;PostgreSQL;Go;TypeScript;Google Cloud;Snowflake,India,107293.0,165090.0,False
+JOB-2024-1234,Full Stack Developer,Node.js;Docker;Go;PostgreSQL;SQL,United States,87983.0,154416.0,True
+JOB-2024-1235,Data Engineer,Python;Kubernetes;Go;PostgreSQL;Snowflake;SQL,United States,83245.0,122665.0,False
+JOB-2024-1236,Data Engineer,React;PyTorch;PostgreSQL;Google Cloud,United States,101952.0,162371.0,True
+JOB-2024-1237,Frontend Engineer,Docker;Kubernetes;PyTorch;Rust,United Kingdom,88780.0,115491.0,False
+JOB-2024-1238,Full Stack Developer,Docker;Python;PyTorch;Kubernetes;PostgreSQL;React,Germany,69803.0,94265.0,True
+JOB-2024-1239,Backend Software Engineer,PostgreSQL;Google Cloud;AWS;PyTorch;TypeScript,United Kingdom,63014.0,131254.0,True
+JOB-2024-1240,DevOps Engineer,Java;React;PostgreSQL;AWS,India,99339.0,141206.0,False
+JOB-2024-1241,Data Engineer,Go;Snowflake;React;Docker;AWS;TypeScript,Remote,92486.0,136179.0,True
+JOB-2024-1242,Cloud Solutions Architect,React;Google Cloud;Java;SQL;TypeScript;Python,United States,76487.0,118965.0,True
+JOB-2024-1243,DevOps Engineer,Java;Snowflake;React;AWS;Docker,India,98922.0,159959.0,True
+JOB-2024-1244,Full Stack Developer,Kubernetes;Docker;React;PostgreSQL,Remote,78807.0,116202.0,True
+JOB-2024-1245,Data Engineer,Java;Node.js;PyTorch;PostgreSQL,Remote,107805.0,173039.0,True
+JOB-2024-1246,Backend Software Engineer,Google Cloud;Kubernetes;Python;Node.js;SQL;Go,Canada,66838.0,108302.0,False
+JOB-2024-1247,AI/ML Engineer,SQL;Python;Kubernetes;Snowflake,India,104678.0,132168.0,True
+JOB-2024-1248,AI/ML Engineer,PostgreSQL;Node.js;Google Cloud;AWS;React,Canada,66580.0,105078.0,False
+JOB-2024-1249,Frontend Engineer,Python;TypeScript;Google Cloud;Kubernetes;Java,United States,66760.0,97268.0,True
+JOB-2024-1250,Data Engineer,Snowflake;Google Cloud;Node.js;Go;TypeScript,Canada,84404.0,112523.0,False
+JOB-2024-1251,AI/ML Engineer,PostgreSQL;TypeScript;Go;PyTorch;Java;Google Cloud,Germany,93847.0,142634.0,True
+JOB-2024-1252,DevOps Engineer,Rust;Kubernetes;Node.js;TypeScript;Java;SQL,Canada,106768.0,147016.0,False
+JOB-2024-1253,AI/ML Engineer,Node.js;Go;TypeScript;SQL,United States,68687.0,133505.0,False
+JOB-2024-1254,Frontend Engineer,Python;AWS;Go,United Kingdom,85470.0,132059.0,True
+JOB-2024-1255,AI/ML Engineer,Kubernetes;Rust;Node.js;React;Python,United States,61937.0,128961.0,True
+JOB-2024-1256,Full Stack Developer,React;AWS;Google Cloud,Remote,105994.0,161993.0,True
+JOB-2024-1257,Data Engineer,PostgreSQL;PyTorch;TypeScript;Kubernetes;Rust,United States,92047.0,150305.0,True
+JOB-2024-1258,AI/ML Engineer,Kubernetes;Python;PostgreSQL;Go,Germany,62170.0,104784.0,False
+JOB-2024-1259,Cloud Solutions Architect,Node.js;Kubernetes;Python;PyTorch,Remote,98181.0,157774.0,True
+JOB-2024-1260,AI/ML Engineer,React;SQL;Python;Go,Canada,106202.0,174860.0,False
+JOB-2024-1261,DevOps Engineer,Node.js;Java;React;Go;Python,India,65860.0,101729.0,False
+JOB-2024-1262,AI/ML Engineer,Google Cloud;Go;Kubernetes;SQL;Snowflake;Python,United States,87322.0,131416.0,True
+JOB-2024-1263,Backend Software Engineer,Kubernetes;Docker;Google Cloud;Python;Rust,India,76199.0,132809.0,False
+JOB-2024-1264,Cloud Solutions Architect,Snowflake;PyTorch;Python,Remote,81303.0,138230.0,True
+JOB-2024-1265,AI/ML Engineer,TypeScript;PostgreSQL;Java;AWS;Google Cloud;Snowflake,Canada,106302.0,130610.0,True
+JOB-2024-1266,Data Engineer,TypeScript;Node.js;SQL;Go;PostgreSQL,India,86918.0,136969.0,False
+JOB-2024-1267,Data Engineer,Go;Node.js;React;Snowflake;PyTorch,Germany,75965.0,140756.0,True
+JOB-2024-1268,Backend Software Engineer,Node.js;PostgreSQL;Snowflake;React,United States,61865.0,118178.0,True
+JOB-2024-1269,Backend Software Engineer,AWS;React;TypeScript;Node.js,United States,93792.0,162564.0,False
+JOB-2024-1270,DevOps Engineer,Docker;Kubernetes;Java,Germany,93950.0,130442.0,False
+JOB-2024-1271,DevOps Engineer,SQL;Java;AWS;React;Kubernetes;Rust,Remote,109630.0,177783.0,True
+JOB-2024-1272,Frontend Engineer,Docker;Google Cloud;PyTorch;AWS;Rust,India,85982.0,143540.0,True
+JOB-2024-1273,Full Stack Developer,Google Cloud;Python;Node.js;TypeScript,India,78290.0,122507.0,False
+JOB-2024-1274,Full Stack Developer,PostgreSQL;Python;React;TypeScript;AWS;Java,Germany,87714.0,119588.0,True
+JOB-2024-1275,AI/ML Engineer,SQL;Google Cloud;Node.js,United States,82248.0,136993.0,False
+JOB-2024-1276,Data Engineer,TypeScript;PostgreSQL;Snowflake;Kubernetes;Node.js,India,88784.0,145887.0,True
+JOB-2024-1277,Frontend Engineer,SQL;TypeScript;Docker;Python;PyTorch;Snowflake,Remote,86422.0,117400.0,True
+JOB-2024-1278,Cloud Solutions Architect,Rust;PyTorch;Java,Canada,86018.0,124879.0,True
+JOB-2024-1279,Backend Software Engineer,PostgreSQL;React;Kubernetes,United States,102281.0,138870.0,False
+JOB-2024-1280,Full Stack Developer,Rust;PyTorch;Go;Java;Docker;Node.js,United States,67466.0,95246.0,False
+JOB-2024-1281,Cloud Solutions Architect,Kubernetes;PostgreSQL;Rust,United States,101422.0,155236.0,False
+JOB-2024-1282,Full Stack Developer,Go;SQL;Kubernetes,Remote,80942.0,148121.0,True
+JOB-2024-1283,Backend Software Engineer,PyTorch;AWS;React;Go;Snowflake;Java,United Kingdom,61934.0,98716.0,False
+JOB-2024-1284,Data Engineer,Docker;PyTorch;AWS;PostgreSQL,United States,79932.0,109045.0,True
+JOB-2024-1285,Data Engineer,TypeScript;PostgreSQL;Node.js;Python,United States,93737.0,147279.0,False
+JOB-2024-1286,Frontend Engineer,SQL;PostgreSQL;Rust;Google Cloud,United States,79612.0,108980.0,False
+JOB-2024-1287,Data Engineer,Java;Snowflake;Kubernetes,Germany,69252.0,99395.0,False
+JOB-2024-1288,DevOps Engineer,Google Cloud;Python;Java,Canada,84519.0,112069.0,True
+JOB-2024-1289,DevOps Engineer,Kubernetes;Go;PyTorch;Node.js,Remote,87269.0,154097.0,True
+JOB-2024-1290,Cloud Solutions Architect,Python;Java;Go;PostgreSQL;Snowflake;Rust,Germany,66788.0,97188.0,True
+JOB-2024-1291,Frontend Engineer,AWS;React;Rust;Go;PyTorch,Remote,85074.0,141066.0,True
+JOB-2024-1292,DevOps Engineer,TypeScript;React;SQL;PostgreSQL;Docker,Germany,79742.0,116714.0,False
+JOB-2024-1293,Cloud Solutions Architect,Python;PostgreSQL;Node.js;TypeScript,India,96003.0,149333.0,True
+JOB-2024-1294,Frontend Engineer,Kubernetes;Google Cloud;PyTorch;Rust;Node.js,Germany,90826.0,145961.0,False
+JOB-2024-1295,Full Stack Developer,TypeScript;AWS;Python;Java;PyTorch;Node.js,Germany,74718.0,137900.0,False
+JOB-2024-1296,DevOps Engineer,React;Rust;Docker;PostgreSQL,Canada,96135.0,136257.0,True
+JOB-2024-1297,Full Stack Developer,Go;Rust;Node.js;Kubernetes;Google Cloud;Java,United States,105956.0,138648.0,False
+JOB-2024-1298,Frontend Engineer,Rust;PostgreSQL;Snowflake;Node.js;SQL;React,United States,68500.0,115837.0,False
+JOB-2024-1299,Data Engineer,Docker;Java;Snowflake,Canada,61990.0,129601.0,True
+JOB-2024-1300,DevOps Engineer,Python;Rust;Docker;React;SQL,Canada,86015.0,149193.0,False
+JOB-2024-1301,DevOps Engineer,PostgreSQL;SQL;React;Go;Java,United Kingdom,61544.0,123873.0,True
+JOB-2024-1302,Data Engineer,Python;Java;Go;Google Cloud,Germany,78132.0,98668.0,False
+JOB-2024-1303,Cloud Solutions Architect,Google Cloud;Docker;Node.js;React;AWS,Remote,98973.0,131225.0,True
+JOB-2024-1304,DevOps Engineer,PyTorch;Rust;AWS,Canada,82546.0,130922.0,False
+JOB-2024-1305,Backend Software Engineer,Node.js;PostgreSQL;Go;Python;React;Snowflake,United States,80290.0,136450.0,False
+JOB-2024-1306,DevOps Engineer,Java;PostgreSQL;Go;AWS;SQL,Germany,75944.0,142221.0,False
+JOB-2024-1307,Backend Software Engineer,React;Snowflake;Kubernetes,United Kingdom,99928.0,152040.0,True
+JOB-2024-1308,Frontend Engineer,Rust;Python;Node.js;Snowflake;Go,United States,61307.0,113375.0,False
+JOB-2024-1309,DevOps Engineer,PostgreSQL;Snowflake;Docker;AWS;Go,India,84292.0,129631.0,True
+JOB-2024-1310,Full Stack Developer,Docker;Kubernetes;PyTorch;Google Cloud,Germany,107615.0,152264.0,False
+JOB-2024-1311,AI/ML Engineer,Google Cloud;PyTorch;TypeScript;Kubernetes;Node.js;React,Germany,96421.0,118067.0,False
+JOB-2024-1312,Backend Software Engineer,SQL;Docker;Go,United Kingdom,66536.0,129366.0,True
+JOB-2024-1313,AI/ML Engineer,PostgreSQL;Go;React;Python;Kubernetes,Remote,97855.0,141683.0,True
+JOB-2024-1314,Backend Software Engineer,Snowflake;AWS;PyTorch;TypeScript;Python;React,United Kingdom,81311.0,125683.0,False
+JOB-2024-1315,Full Stack Developer,Node.js;Kubernetes;PostgreSQL;Google Cloud;SQL;Snowflake,Remote,77841.0,123928.0,True
+JOB-2024-1316,Data Engineer,Python;PyTorch;Rust;Docker;Google Cloud;Snowflake,Germany,76785.0,120986.0,True
+JOB-2024-1317,DevOps Engineer,Snowflake;Java;TypeScript;Go;Google Cloud;React,India,77378.0,115705.0,False
+JOB-2024-1318,Data Engineer,Python;Snowflake;Kubernetes,United Kingdom,86900.0,112318.0,False
+JOB-2024-1319,AI/ML Engineer,Rust;SQL;Google Cloud;React;Snowflake,Germany,93388.0,141500.0,False
+JOB-2024-1320,Cloud Solutions Architect,Go;Docker;Node.js,India,109245.0,163339.0,False
+JOB-2024-1321,Backend Software Engineer,PyTorch;Rust;React;Node.js;Google Cloud;Go,India,78839.0,120305.0,False
+JOB-2024-1322,Data Engineer,Java;PyTorch;Python;Rust;Node.js;SQL,India,106145.0,130473.0,False
+JOB-2024-1323,Full Stack Developer,React;Python;Kubernetes;TypeScript;PostgreSQL;Go,Germany,109862.0,140911.0,True
+JOB-2024-1324,Backend Software Engineer,Python;Node.js;SQL;Go;TypeScript;PostgreSQL,Remote,102077.0,156919.0,True
+JOB-2024-1325,Data Engineer,PostgreSQL;Python;TypeScript;Go,Germany,85278.0,139094.0,False
+JOB-2024-1326,DevOps Engineer,Docker;React;Google Cloud;Kubernetes;Rust;PostgreSQL,United Kingdom,93405.0,150704.0,False
+JOB-2024-1327,Data Engineer,Go;Snowflake;Kubernetes,India,80615.0,126597.0,True
+JOB-2024-1328,AI/ML Engineer,AWS;PostgreSQL;TypeScript;Go;Node.js;Snowflake,Canada,82611.0,123339.0,False
+JOB-2024-1329,Full Stack Developer,Go;Python;Kubernetes,Canada,63959.0,93987.0,False
+JOB-2024-1330,Backend Software Engineer,Node.js;Python;TypeScript;Rust,Germany,109165.0,172608.0,False
+JOB-2024-1331,Data Engineer,React;Rust;SQL;Google Cloud;PyTorch;Python,Germany,62770.0,108619.0,False
+JOB-2024-1332,Frontend Engineer,AWS;Kubernetes;Go,United Kingdom,80833.0,125033.0,False
+JOB-2024-1333,Backend Software Engineer,Java;Rust;Google Cloud;SQL;Snowflake,India,108495.0,142203.0,False
+JOB-2024-1334,AI/ML Engineer,PyTorch;Python;Kubernetes;Google Cloud;TypeScript,Germany,60271.0,95110.0,True
+JOB-2024-1335,DevOps Engineer,AWS;Docker;Snowflake;TypeScript;React;Rust,India,87248.0,146078.0,True
+JOB-2024-1336,DevOps Engineer,Snowflake;Rust;AWS,India,66614.0,95906.0,False
+JOB-2024-1337,Cloud Solutions Architect,Google Cloud;Go;TypeScript;SQL,India,90922.0,148952.0,False
+JOB-2024-1338,AI/ML Engineer,Python;TypeScript;Node.js;SQL,Canada,104699.0,140215.0,True
+JOB-2024-1339,Data Engineer,PyTorch;Go;SQL;TypeScript;Rust,United States,78405.0,126676.0,True
+JOB-2024-1340,Full Stack Developer,Kubernetes;Docker;React;SQL,United Kingdom,98298.0,151889.0,False
+JOB-2024-1341,AI/ML Engineer,Python;Docker;Snowflake;Kubernetes,United States,97972.0,162380.0,True
+JOB-2024-1342,AI/ML Engineer,PostgreSQL;Kubernetes;Java;TypeScript;AWS;React,India,108873.0,177280.0,True
+JOB-2024-1343,AI/ML Engineer,TypeScript;PyTorch;Rust,Remote,101337.0,154557.0,True
+JOB-2024-1344,Backend Software Engineer,Python;SQL;Java;PyTorch;AWS,United Kingdom,65651.0,94237.0,True
+JOB-2024-1345,AI/ML Engineer,Snowflake;AWS;Go;Rust;Node.js;SQL,Canada,98874.0,142683.0,False
+JOB-2024-1346,Full Stack Developer,Google Cloud;PyTorch;Kubernetes,United Kingdom,78529.0,106454.0,True
+JOB-2024-1347,Cloud Solutions Architect,Node.js;Google Cloud;Java;Docker;Go,Germany,75460.0,132136.0,False
+JOB-2024-1348,Cloud Solutions Architect,Kubernetes;Docker;AWS,India,63276.0,124462.0,True
+JOB-2024-1349,Cloud Solutions Architect,Go;React;Python,Canada,82666.0,128706.0,True
+JOB-2024-1350,DevOps Engineer,Rust;Go;Python;React,Canada,90363.0,157731.0,True
+JOB-2024-1351,Backend Software Engineer,TypeScript;Python;PostgreSQL,Germany,67323.0,105515.0,True
+JOB-2024-1352,DevOps Engineer,Kubernetes;Docker;Snowflake,United States,62322.0,122811.0,True
+JOB-2024-1353,AI/ML Engineer,PyTorch;Python;Node.js;PostgreSQL;AWS;SQL,United Kingdom,106004.0,158719.0,False
+JOB-2024-1354,Full Stack Developer,Kubernetes;PostgreSQL;AWS;Java;Docker,United States,93335.0,124738.0,True
+JOB-2024-1355,Frontend Engineer,SQL;Snowflake;AWS;Python;Docker,Remote,102171.0,156217.0,True
+JOB-2024-1356,AI/ML Engineer,PostgreSQL;Node.js;SQL,United States,80476.0,145918.0,True
+JOB-2024-1357,AI/ML Engineer,PostgreSQL;React;Rust;SQL,Germany,98539.0,123198.0,True
+JOB-2024-1358,Frontend Engineer,Go;Kubernetes;Docker;Rust;Snowflake;TypeScript,Germany,94161.0,127560.0,True
+JOB-2024-1359,Data Engineer,AWS;Snowflake;TypeScript;Kubernetes;React,Germany,68990.0,116468.0,False
+JOB-2024-1360,Cloud Solutions Architect,Java;SQL;PostgreSQL,India,69186.0,110609.0,False
+JOB-2024-1361,Full Stack Developer,SQL;Go;Rust;PyTorch;Kubernetes,Canada,81600.0,112784.0,True
+JOB-2024-1362,Frontend Engineer,Go;Java;SQL;Rust,United Kingdom,82953.0,133939.0,False
+JOB-2024-1363,Backend Software Engineer,Rust;TypeScript;AWS;Java;Python;PyTorch,United Kingdom,88412.0,154631.0,True
+JOB-2024-1364,DevOps Engineer,Kubernetes;TypeScript;Snowflake,Germany,99030.0,155403.0,False
+JOB-2024-1365,AI/ML Engineer,PyTorch;Kubernetes;Google Cloud,United Kingdom,92892.0,114263.0,True
+JOB-2024-1366,Frontend Engineer,Python;SQL;TypeScript,Remote,78684.0,108309.0,True
+JOB-2024-1367,Frontend Engineer,Rust;Java;Node.js,Remote,62443.0,108012.0,True
+JOB-2024-1368,Backend Software Engineer,Go;Google Cloud;AWS;Java,Canada,98206.0,144814.0,False
+JOB-2024-1369,Data Engineer,Java;Kubernetes;Python;Snowflake,India,97974.0,129563.0,False
+JOB-2024-1370,Backend Software Engineer,Rust;AWS;Python;TypeScript;Go,Canada,76949.0,101664.0,False
+JOB-2024-1371,DevOps Engineer,Go;Google Cloud;Python;Node.js;SQL;Snowflake,United States,84266.0,143973.0,False
+JOB-2024-1372,DevOps Engineer,Go;React;Docker;AWS;PyTorch;Rust,United Kingdom,101887.0,122550.0,True
+JOB-2024-1373,Backend Software Engineer,TypeScript;SQL;Kubernetes;Docker,Remote,78790.0,138068.0,True
+JOB-2024-1374,Cloud Solutions Architect,Node.js;Go;PyTorch,United Kingdom,105961.0,157411.0,True
+JOB-2024-1375,Cloud Solutions Architect,Rust;Node.js;Go,India,85084.0,145064.0,False
+JOB-2024-1376,DevOps Engineer,SQL;Docker;Go;React;Kubernetes,Remote,72691.0,107531.0,True
+JOB-2024-1377,Backend Software Engineer,Google Cloud;React;Java;Kubernetes;PostgreSQL;Snowflake,Canada,89518.0,124208.0,False
+JOB-2024-1378,DevOps Engineer,Docker;PostgreSQL;AWS,Remote,66726.0,107426.0,True
+JOB-2024-1379,DevOps Engineer,Docker;Google Cloud;PyTorch;Go;TypeScript;Snowflake,Remote,104064.0,151871.0,True
+JOB-2024-1380,Frontend Engineer,Rust;Google Cloud;AWS;TypeScript;Go;PostgreSQL,United States,76972.0,141762.0,True
+JOB-2024-1381,Cloud Solutions Architect,AWS;Go;Kubernetes;PostgreSQL;SQL;Snowflake,United States,75625.0,96614.0,False
+JOB-2024-1382,Frontend Engineer,TypeScript;AWS;Node.js,Remote,108994.0,131785.0,True
+JOB-2024-1383,Frontend Engineer,SQL;Java;Docker;Node.js,Germany,88943.0,158055.0,True
+JOB-2024-1384,Full Stack Developer,SQL;TypeScript;Go;Snowflake,Remote,77137.0,135017.0,True
+JOB-2024-1385,Full Stack Developer,SQL;Go;Kubernetes;Snowflake;Python;AWS,United States,80677.0,114656.0,False
+JOB-2024-1386,Data Engineer,Rust;Snowflake;SQL,Canada,76959.0,115120.0,False
+JOB-2024-1387,Backend Software Engineer,AWS;Go;PostgreSQL,India,78365.0,106843.0,False
+JOB-2024-1388,DevOps Engineer,PyTorch;TypeScript;React;PostgreSQL,India,66067.0,106680.0,True
+JOB-2024-1389,Frontend Engineer,PyTorch;Snowflake;Google Cloud;TypeScript,India,63416.0,111192.0,True
+JOB-2024-1390,AI/ML Engineer,Docker;PostgreSQL;Rust;Kubernetes,India,67419.0,114659.0,False
+JOB-2024-1391,Cloud Solutions Architect,Snowflake;Python;React,United Kingdom,106412.0,151963.0,False
+JOB-2024-1392,Cloud Solutions Architect,Google Cloud;React;Node.js,Canada,69891.0,135062.0,True
+JOB-2024-1393,Frontend Engineer,PyTorch;React;Java;AWS;Google Cloud,United States,85570.0,122647.0,False
+JOB-2024-1394,Full Stack Developer,Go;Snowflake;AWS,Remote,108421.0,161500.0,True
+JOB-2024-1395,Data Engineer,Go;Java;Python;Kubernetes;AWS;Snowflake,United Kingdom,68618.0,118781.0,False
+JOB-2024-1396,DevOps Engineer,Docker;Java;PostgreSQL;Rust,Germany,101751.0,164074.0,False
+JOB-2024-1397,Frontend Engineer,Go;AWS;Node.js,Canada,62045.0,123208.0,True
+JOB-2024-1398,Data Engineer,Kubernetes;AWS;Java,Germany,84723.0,152551.0,False
+JOB-2024-1399,Cloud Solutions Architect,TypeScript;Google Cloud;SQL;Docker,United States,106190.0,128434.0,True
+JOB-2024-1400,Full Stack Developer,Kubernetes;SQL;Snowflake;React;Docker;Google Cloud,United States,78278.0,106739.0,False
+JOB-2024-1401,Data Engineer,Node.js;SQL;React;Python;PostgreSQL;TypeScript,United States,87000.0,147592.0,False
+JOB-2024-1402,Frontend Engineer,TypeScript;Python;Go;Docker;SQL;Rust,India,85047.0,106583.0,False
+JOB-2024-1403,Cloud Solutions Architect,React;Google Cloud;PyTorch;Rust;SQL;PostgreSQL,India,87873.0,150706.0,True
+JOB-2024-1404,AI/ML Engineer,AWS;Kubernetes;Google Cloud;Go;Docker;TypeScript,United States,84454.0,149159.0,False
+JOB-2024-1405,DevOps Engineer,Node.js;TypeScript;Kubernetes;SQL;Java;Rust,Remote,82829.0,103182.0,True
+JOB-2024-1406,Full Stack Developer,Node.js;React;Google Cloud,Remote,109984.0,161619.0,True
+JOB-2024-1407,Cloud Solutions Architect,Rust;PostgreSQL;Go;React;Python;Docker,Canada,86284.0,134679.0,False
+JOB-2024-1408,Cloud Solutions Architect,Python;Go;AWS;Rust,United States,64001.0,91110.0,False
+JOB-2024-1409,Cloud Solutions Architect,Rust;PyTorch;TypeScript;Python;Docker;Snowflake,United States,64589.0,87084.0,False
+JOB-2024-1410,AI/ML Engineer,Rust;Kubernetes;Node.js;SQL;AWS,United Kingdom,84290.0,140726.0,False
+JOB-2024-1411,Data Engineer,TypeScript;Snowflake;React;PostgreSQL;Node.js,Canada,105385.0,125844.0,False
+JOB-2024-1412,Full Stack Developer,Node.js;Docker;Python,United Kingdom,70363.0,111059.0,False
+JOB-2024-1413,Backend Software Engineer,Snowflake;Rust;Docker;PyTorch,India,103914.0,134199.0,True
+JOB-2024-1414,AI/ML Engineer,SQL;TypeScript;Snowflake;Go;Rust;PyTorch,India,109600.0,147491.0,True
+JOB-2024-1415,AI/ML Engineer,SQL;PyTorch;Node.js;Google Cloud;Kubernetes,India,64981.0,88089.0,False
+JOB-2024-1416,Backend Software Engineer,Snowflake;Java;Kubernetes,Remote,62258.0,114883.0,True
+JOB-2024-1417,Frontend Engineer,Docker;Go;Java;Rust,United Kingdom,106729.0,132067.0,False
+JOB-2024-1418,DevOps Engineer,Docker;Node.js;Google Cloud;Java;React;TypeScript,United Kingdom,68032.0,136337.0,False
+JOB-2024-1419,Backend Software Engineer,Go;PostgreSQL;Google Cloud;Python;Java,Canada,103615.0,143314.0,True
+JOB-2024-1420,Cloud Solutions Architect,Go;PyTorch;Rust,United States,77166.0,99499.0,True
+JOB-2024-1421,Cloud Solutions Architect,Docker;Kubernetes;PyTorch;Go,Remote,88740.0,114120.0,True
+JOB-2024-1422,AI/ML Engineer,Java;Snowflake;Node.js;AWS;React,United Kingdom,98663.0,147378.0,False
+JOB-2024-1423,Data Engineer,Rust;PostgreSQL;Python;Node.js;PyTorch,India,72362.0,112332.0,True
+JOB-2024-1424,Frontend Engineer,Go;SQL;Docker;TypeScript;Node.js,India,100014.0,154941.0,True
+JOB-2024-1425,Data Engineer,Rust;Node.js;AWS;Java;Docker;Kubernetes,Remote,104125.0,141098.0,True
+JOB-2024-1426,DevOps Engineer,PostgreSQL;React;Go;SQL,Germany,102065.0,164024.0,True
+JOB-2024-1427,DevOps Engineer,PyTorch;Kubernetes;Rust;SQL;PostgreSQL;React,Remote,84615.0,151226.0,True
+JOB-2024-1428,DevOps Engineer,React;SQL;PyTorch;Kubernetes;Docker,United States,98670.0,164608.0,False
+JOB-2024-1429,Full Stack Developer,Python;AWS;React,Canada,99186.0,157500.0,True
+JOB-2024-1430,Full Stack Developer,Snowflake;Python;Google Cloud;TypeScript;Node.js;Kubernetes,Remote,79366.0,148964.0,True
+JOB-2024-1431,Backend Software Engineer,Snowflake;Docker;Python;React;Kubernetes;PostgreSQL,United States,66029.0,118816.0,True
+JOB-2024-1432,Data Engineer,Snowflake;Rust;Go,India,88076.0,126012.0,False
+JOB-2024-1433,Backend Software Engineer,PostgreSQL;Python;AWS,India,86490.0,135173.0,True
+JOB-2024-1434,AI/ML Engineer,Go;Python;Kubernetes;Rust;Java;TypeScript,Canada,69699.0,91236.0,False
+JOB-2024-1435,Cloud Solutions Architect,React;Python;Node.js,Remote,109394.0,174697.0,True
+JOB-2024-1436,DevOps Engineer,Node.js;Docker;Snowflake;Google Cloud,United States,95700.0,156715.0,False
+JOB-2024-1437,Data Engineer,AWS;Python;Google Cloud;Kubernetes;Node.js,India,93213.0,125023.0,False
+JOB-2024-1438,AI/ML Engineer,Rust;SQL;Google Cloud;React;Kubernetes;PyTorch,India,93982.0,131717.0,False
+JOB-2024-1439,Full Stack Developer,Node.js;Python;Google Cloud,Germany,60703.0,101733.0,False
+JOB-2024-1440,Full Stack Developer,Kubernetes;Snowflake;React;SQL;PyTorch,India,109382.0,164860.0,True
+JOB-2024-1441,Cloud Solutions Architect,Python;Java;Rust;React;Docker,United Kingdom,90661.0,119399.0,False
+JOB-2024-1442,AI/ML Engineer,Go;Snowflake;AWS;Google Cloud;Node.js;React,United States,109056.0,170126.0,True
+JOB-2024-1443,Backend Software Engineer,SQL;TypeScript;Snowflake;Google Cloud,Canada,63180.0,119455.0,True
+JOB-2024-1444,Data Engineer,Rust;Snowflake;Google Cloud;PyTorch;React,United Kingdom,100783.0,121442.0,True
+JOB-2024-1445,Full Stack Developer,AWS;Kubernetes;Python;TypeScript;Snowflake,Germany,106308.0,129863.0,False
+JOB-2024-1446,Full Stack Developer,Kubernetes;SQL;TypeScript;Rust,United States,60514.0,97107.0,True
+JOB-2024-1447,Backend Software Engineer,AWS;TypeScript;PyTorch;Rust;Snowflake,United States,84552.0,151721.0,False
+JOB-2024-1448,Backend Software Engineer,Docker;Rust;Node.js;Google Cloud;PyTorch;AWS,Canada,70455.0,109657.0,True
+JOB-2024-1449,Frontend Engineer,Docker;Snowflake;Go;PostgreSQL,United Kingdom,67039.0,112768.0,False
+JOB-2024-1450,Backend Software Engineer,AWS;TypeScript;Google Cloud;Python;Kubernetes;PyTorch,Remote,94310.0,139884.0,True
+JOB-2024-1451,Backend Software Engineer,React;SQL;Kubernetes;PyTorch;PostgreSQL,Canada,68850.0,111962.0,False
+JOB-2024-1452,Full Stack Developer,SQL;Java;AWS,Germany,105406.0,141344.0,False
+JOB-2024-1453,Full Stack Developer,TypeScript;Python;Go;Java;Rust,Remote,91861.0,142118.0,True
+JOB-2024-1454,Frontend Engineer,PyTorch;Kubernetes;PostgreSQL;React;AWS;Google Cloud,Canada,77667.0,126926.0,True
+JOB-2024-1455,DevOps Engineer,React;Snowflake;SQL;PyTorch;Go;Docker,United States,96004.0,118672.0,True
+JOB-2024-1456,Full Stack Developer,Docker;PostgreSQL;Google Cloud;Snowflake;Node.js;SQL,Germany,103834.0,134772.0,True
+JOB-2024-1457,DevOps Engineer,Go;Kubernetes;Node.js,United Kingdom,102385.0,122930.0,False
+JOB-2024-1458,Data Engineer,Java;Node.js;Python;Docker,Germany,85236.0,129790.0,False
+JOB-2024-1459,Full Stack Developer,SQL;PyTorch;Google Cloud;TypeScript;Kubernetes;Go,India,100575.0,139616.0,True
+JOB-2024-1460,Full Stack Developer,Kubernetes;Java;Snowflake;Node.js;SQL;AWS,United States,67603.0,122300.0,False
+JOB-2024-1461,Cloud Solutions Architect,Snowflake;PyTorch;React;Docker;Python;TypeScript,Canada,87779.0,135942.0,False
+JOB-2024-1462,Frontend Engineer,SQL;Python;Google Cloud;Docker;Kubernetes;PostgreSQL,United Kingdom,72574.0,113275.0,False
+JOB-2024-1463,AI/ML Engineer,Snowflake;Rust;SQL;Go,Germany,98748.0,138876.0,False
+JOB-2024-1464,Frontend Engineer,PostgreSQL;Google Cloud;Java,Canada,77457.0,141545.0,False
+JOB-2024-1465,AI/ML Engineer,Kubernetes;AWS;Google Cloud,United States,74372.0,119551.0,False
+JOB-2024-1466,Cloud Solutions Architect,Go;Python;Google Cloud;PostgreSQL;Node.js,Canada,100665.0,150743.0,False
+JOB-2024-1467,AI/ML Engineer,React;SQL;AWS;Node.js;Java,United States,105842.0,147256.0,False
+JOB-2024-1468,Cloud Solutions Architect,AWS;TypeScript;Go;Python,Canada,101845.0,136088.0,True
+JOB-2024-1469,AI/ML Engineer,Google Cloud;PostgreSQL;PyTorch;Go,Remote,94158.0,116668.0,True
+JOB-2024-1470,Full Stack Developer,Google Cloud;Python;Snowflake,Remote,85508.0,111492.0,True
+JOB-2024-1471,Frontend Engineer,PostgreSQL;Python;React,Germany,86899.0,154834.0,True
+JOB-2024-1472,DevOps Engineer,Snowflake;PostgreSQL;Java;Google Cloud;AWS;Node.js,Remote,73300.0,110781.0,True
+JOB-2024-1473,Frontend Engineer,Java;Node.js;Snowflake;Docker;Google Cloud;PostgreSQL,United States,96599.0,144294.0,False
+JOB-2024-1474,Data Engineer,PyTorch;Python;TypeScript;AWS;Go,Germany,83415.0,117056.0,False
+JOB-2024-1475,AI/ML Engineer,Kubernetes;TypeScript;AWS;Snowflake;Python,Canada,77546.0,103330.0,False
+JOB-2024-1476,Data Engineer,PostgreSQL;TypeScript;Rust,United Kingdom,107113.0,163834.0,True
+JOB-2024-1477,Data Engineer,Docker;Google Cloud;React;PostgreSQL;TypeScript;Node.js,India,82538.0,127008.0,True
+JOB-2024-1478,Full Stack Developer,Snowflake;Java;Google Cloud,Germany,104269.0,153719.0,True
+JOB-2024-1479,Cloud Solutions Architect,PyTorch;Go;Rust;Snowflake;Kubernetes;Google Cloud,United Kingdom,85216.0,123744.0,False
+JOB-2024-1480,Backend Software Engineer,Kubernetes;Google Cloud;Python;TypeScript;SQL;AWS,Germany,82747.0,151467.0,True
+JOB-2024-1481,Full Stack Developer,Docker;Go;AWS;TypeScript,Canada,81515.0,130081.0,False
+JOB-2024-1482,DevOps Engineer,Java;Python;Go;Google Cloud;Node.js;PostgreSQL,Germany,94958.0,138158.0,False
+JOB-2024-1483,Full Stack Developer,Python;Snowflake;Kubernetes;Node.js;AWS,India,105749.0,130878.0,True
+JOB-2024-1484,DevOps Engineer,SQL;AWS;Docker;PyTorch,Canada,89913.0,157226.0,False
+JOB-2024-1485,Data Engineer,Kubernetes;AWS;Java;Rust;PyTorch,India,76595.0,141077.0,True
+JOB-2024-1486,DevOps Engineer,Google Cloud;Go;AWS;Node.js;PostgreSQL,United States,106139.0,175313.0,False
+JOB-2024-1487,Cloud Solutions Architect,Go;TypeScript;AWS;PyTorch,Canada,98410.0,137692.0,True
+JOB-2024-1488,Backend Software Engineer,AWS;Python;Snowflake;PyTorch,Germany,102409.0,170633.0,False
+JOB-2024-1489,Cloud Solutions Architect,React;Node.js;Google Cloud;Snowflake,Germany,72423.0,112081.0,False
+JOB-2024-1490,DevOps Engineer,SQL;Google Cloud;PyTorch;TypeScript;Rust;AWS,United States,61201.0,117159.0,True
+JOB-2024-1491,Cloud Solutions Architect,Go;Java;PyTorch,United States,101082.0,135256.0,True
+JOB-2024-1492,Backend Software Engineer,Docker;Kubernetes;React,United Kingdom,99864.0,122030.0,False
+JOB-2024-1493,Data Engineer,PyTorch;Rust;Java;TypeScript;React,Canada,81672.0,149628.0,True
+JOB-2024-1494,Backend Software Engineer,SQL;Java;Snowflake,United States,79009.0,99239.0,False
+JOB-2024-1495,Full Stack Developer,Docker;TypeScript;PyTorch,Canada,105760.0,136703.0,False
+JOB-2024-1496,Cloud Solutions Architect,Java;PostgreSQL;Rust;SQL;Node.js;Snowflake,Germany,94335.0,153811.0,False
+JOB-2024-1497,Cloud Solutions Architect,React;Java;SQL;Rust;Python;Google Cloud,Germany,61551.0,93840.0,False
+JOB-2024-1498,DevOps Engineer,Python;Kubernetes;AWS;SQL;TypeScript;PostgreSQL,India,74757.0,108007.0,False
+JOB-2024-1499,Backend Software Engineer,PyTorch;Node.js;Go;AWS,Canada,93445.0,158611.0,False
+JOB-2024-1500,DevOps Engineer,AWS;PyTorch;React,United States,75079.0,143238.0,False

@@ -1,0 +1,86 @@
+// ============================================================================
+// DevScope Power BI Production DAX Measures Library
+// Matches Streamlit application metrics and Executive KPIs
+// ============================================================================
+
+// --- CORE AGGREGATIONS & COUNT MEASURES ---
+[Total Respondents] = 
+COUNTROWS(Respondents)
+
+[Total Job Postings] = 
+COUNTROWS(JobPostings)
+
+[Filtered Respondent Count] = 
+CALCULATE([Total Respondents], ALLSELECTED())
+
+// --- COMPENSATION DAX MEASURES ---
+[Median Compensation USD] = 
+MEDIAN(Respondents[converted_comp_usd])
+
+[Average Compensation USD] = 
+AVERAGE(Respondents[converted_comp_usd])
+
+[US Median Compensation USD] = 
+CALCULATE(
+    MEDIAN(Respondents[converted_comp_usd]),
+    Respondents[country] = "United States"
+)
+
+[Remote Salary Premium %] = 
+VAR RemoteSalary = CALCULATE([Median Compensation USD], Respondents[remote_work_mode] = "Remote")
+VAR InPersonSalary = CALCULATE([Median Compensation USD], Respondents[remote_work_mode] = "In-person")
+RETURN
+DIVIDE(RemoteSalary - InPersonSalary, InPersonSalary, 0) * 100
+
+// --- WORKFORCE POLICY DAX MEASURES ---
+[Remote Developer Count] = 
+CALCULATE([Total Respondents], Respondents[remote_work_mode] = "Remote")
+
+[Hybrid Developer Count] = 
+CALCULATE([Total Respondents], Respondents[remote_work_mode] = "Hybrid")
+
+[Remote Share %] = 
+DIVIDE([Remote Developer Count], [Total Respondents], 0) * 100
+
+[Remote Readiness Score] = 
+VAR RemoteCount = [Remote Developer Count]
+VAR HybridCount = [Hybrid Developer Count]
+VAR TotalDevs = [Total Respondents]
+RETURN
+DIVIDE(RemoteCount + (0.50 * HybridCount), TotalDevs, 0) * 100
+
+// --- AI ADOPTION DAX MEASURES ---
+[AI Adopting Developers] = 
+CALCULATE([Total Respondents], Respondents[has_ai_adoption] = TRUE())
+
+[AI Adoption Index %] = 
+DIVIDE([AI Adopting Developers], [Total Respondents], 0) * 100
+
+[Senior AI Adoption %] = 
+CALCULATE([AI Adoption Index %], Respondents[experience_bucket] = "Senior-level")
+
+[Junior AI Adoption %] = 
+CALCULATE([AI Adoption Index %], Respondents[experience_bucket] = "Entry-level")
+
+[Junior AI Adoption Gap] = 
+[Senior AI Adoption %] - [Junior AI Adoption %]
+
+// --- COMPOSITE EXECUTIVE DAX MEASURES ---
+[Market Health Index] = 
+VAR EmploymentRate = DIVIDE(CALCULATE([Total Respondents], Respondents[employment_type] = "Employed full-time"), [Total Respondents], 0) * 100
+VAR SatisfactionRate = DIVIDE(CALCULATE([Total Respondents], Respondents[job_satisfaction] IN {"Very Satisfied", "Slightly Satisfied"}), [Total Respondents], 0) * 100
+RETURN
+(0.40 * EmploymentRate) + (0.30 * 75.0) + (0.30 * SatisfactionRate)
+
+// --- TECHNOLOGY FORECAST DAX MEASURES ---
+[Rust 2024 Count] = 
+CALCULATE(COUNTROWS(RespondentLanguages), RespondentLanguages[language_name] = "Rust", RespondentLanguages[survey_year] = 2024)
+
+[Rust 2021 Count] = 
+CALCULATE(COUNTROWS(RespondentLanguages), RespondentLanguages[language_name] = "Rust", RespondentLanguages[survey_year] = 2021)
+
+[Rust 4Yr CAGR %] = 
+VAR CurrentVal = [Rust 2024 Count]
+VAR BaseVal = [Rust 2021 Count]
+RETURN
+(POWER(DIVIDE(CurrentVal, BaseVal, 1), 1/3) - 1) * 100
